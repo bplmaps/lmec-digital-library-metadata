@@ -7,3 +7,12 @@ Note that it is distinct from [bplmaps/metadata](https://github.com/bplmaps/meta
 ### What's here?
 
 * `/atlascope`: Volume extent files for Atlascope instances
+
+### Updating metadata for Atlascope
+
+* Download latest copy of `boston-geojson-extents.geojson` from Wasabi
+* Add metadata new atlas layer under `features`
+* Commit and merge back into this Git repository
+* Test with local [Atlascope](https://github.com/bplmaps/atlascope-v2) by pointing ID to the raw GitHub source (example here)
+* Tag someone in a GitHub issue to confirm 2 people have looked at it
+* Once it's approved, paste it back into Wasabi
