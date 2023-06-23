@@ -14,13 +14,7 @@
                     "url": "https://s3.us-east-2.wasabisys.com/urbanatlases/alj7lxnzb/tileset.json"
                 },
                 "catalogPermalink": "https://collections.leventhalmap.org/search/commonwealth:jd475s50k",
-                "heldBy": ["Leventhal Map & Education Center at the Boston Public Library"],
-                "sponsor": [
-                    {
-                        "name": "Dover Historical Society",
-                        "url": "https://http://www.doverhistoricalsociety.org/"
-                    }
-                ]
+                "heldBy": ["Leventhal Map & Education Center at the Boston Public Library"]
             },
             "geometry": {
                 "type": "Polygon",
