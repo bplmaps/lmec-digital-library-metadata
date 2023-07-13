@@ -1,0 +1,17 @@
+on: 
+  workflow_dispatch
+jobs:
+  upload-boston-volume-extents-to-wasabi:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: Upload boston-volume-extents.geojson to Wasabi
+        uses: noelware/s3-action@v1.2.0
+        with:
+          files: './atlascope/atlascope-boston/boston-volume-extents.geojson'
+          access-key: ${{ secrets.WASABI_ACCESS_KEY_ID }}
+          secret-key: ${{ secrets.WASABI_SECRET_KEY_ID }}
+          bucket: 'urbanatlases'
+          endpoint: 'https://s3.wasabisys.com'
+          region: 'us-east-2'
