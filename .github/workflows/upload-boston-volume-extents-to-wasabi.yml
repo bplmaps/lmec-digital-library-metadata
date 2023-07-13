@@ -13,5 +13,4 @@ jobs:
           access-key-id: ${{ secrets.WASABI_ACCESS_KEY_ID }}
           secret-key: ${{ secrets.WASABI_SECRET_KEY_ID }}
           bucket: 'urbanatlases'
-          endpoint: 'https://s3.wasabisys.com'
-          region: 'us-east-2'
+          endpoint: 'https://s3.us-east-2.wasabisys.com'
