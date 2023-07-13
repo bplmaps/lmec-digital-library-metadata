@@ -10,7 +10,7 @@ jobs:
         uses: Noelware/s3-action@master
         with:
           files: './atlascope/atlascope-boston/boston-volume-extents.geojson'
-          access-key: ${{ secrets.WASABI_ACCESS_KEY_ID }}
+          access-key-id: ${{ secrets.WASABI_ACCESS_KEY_ID }}
           secret-key: ${{ secrets.WASABI_SECRET_KEY_ID }}
           bucket: 'urbanatlases'
           endpoint: 'https://s3.wasabisys.com'
