@@ -7,7 +7,7 @@ jobs:
       - name: checkout
         uses: actions/checkout@v2
       - name: Upload boston-volume-extents.geojson to Wasabi
-        uses: noelware/s3-action@v2.2.0
+        uses: Noelware/s3-action@master
         with:
           files: './atlascope/atlascope-boston/boston-volume-extents.geojson'
           access-key: ${{ secrets.WASABI_ACCESS_KEY_ID }}
