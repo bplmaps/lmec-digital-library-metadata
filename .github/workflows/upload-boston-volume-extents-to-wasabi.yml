@@ -10,9 +10,9 @@ jobs:
       - name: Upload boston-volume-extents.geojson to Wasabi
         uses: Noelware/s3-action@master
         with:
-          files: './atlascope/atlascope-boston/boston-volume-extents.geojson'
+          files: atlascope/atlascope-boston/boston-volume-extents.geojson
+          path-format: /extents/$(file)
           access-key-id: ${{ secrets.WASABI_ACCESS_KEY_ID }}
           secret-key: ${{ secrets.WASABI_SECRET_KEY_ID }}
           bucket: 'urbanatlases'
           endpoint: 'https://s3.us-east-2.wasabisys.com'
-          prefix: /extents
