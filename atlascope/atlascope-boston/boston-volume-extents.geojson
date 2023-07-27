@@ -6,8 +6,8 @@
         "type": "Feature",
         "properties": {
           "identifier": "ark:/76611/alkiozi9i",
-          "publisherShort": "Hopkins",
-          "year": "1874",
+          "publisherShort": "Walker",
+          "year": "1911",
           "bibliographicEntry": "Atlas of the city of Salem, Massachusetts (Walker Lith. & Pub. Co., 1911)",
           "source": {
             "type": "tilejson",
