@@ -1,0 +1,13 @@
+name: Write boston-volume-extents.geojson to production on Wasabi
+on: 
+  workflow_dispatch
+jobs:
+  upload-boston-volume-extents-to-wasabi:
+    name: Write boston-volume-extents.geojson to production on Wasabi
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install s3cmd
+        run: |
+          pip3 install s3cmd
+      - name: checkout
+        uses: actions/checkout@v2
