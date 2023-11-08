@@ -4643,7 +4643,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
