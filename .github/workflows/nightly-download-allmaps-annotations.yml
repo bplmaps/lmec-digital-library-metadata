@@ -1,13 +1,15 @@
 name: Nightly run to create export of all Allmaps annotations in the iiif.digitalcommonwealth.org domain
 on: 
-  workflow_dispatch
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
 jobs:
   nightly-download-allmaps-annotations:
     name: Write boston-volume-extents.geojson to production on Wasabi
     runs-on: ubuntu-latest
     steps:
       - name: checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Use cURL to download
         run: |-
           curl -o ./allmaps/annotations.json "https://annotations.allmaps.org/maps?imageservicedomain=iiif.digitalcommonwealth.org&key=${{ secrets.ALLMAPS_API_KEY }}&limit=-1"
