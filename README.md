@@ -7,6 +7,7 @@ Note that it is distinct from [bplmaps/metadata](https://github.com/bplmaps/meta
 ### What's here?
 
 * `/atlascope`: Volume extent files for Atlascope instances
+* `/allmaps`: Bulk data exports from Allmaps Annotations API
 
 ### Updating metadata for Atlascope
 
