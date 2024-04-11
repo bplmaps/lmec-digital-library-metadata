@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 jobs:
   nightly-download-allmaps-annotations:
-    name: Write boston-volume-extents.geojson to production on Wasabi
+    name: Write annotations.json to LMEC digital library repository
     runs-on: ubuntu-latest
     steps:
       - name: checkout
