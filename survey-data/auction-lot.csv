@@ -1,0 +1,575 @@
+Latitude,Longitude,Identifier,City/Town,Date,Auction Date,Survey Title,Call Number,Surveyor,Auctioneer,Property Owner,Publisher,Notes,Link
+42.362381,-71.053166,01_0001,"Boston, MA",1864-01-01,1864-07-13,"Plan of Stone Estate consisting of twelve stores on Commercial, Fulton & Richmond Sts. Boston.",Map 81.3[18-?],Alexander Wadsworth,N.A. Thompson & Co.,Stone Estate,,,
+42.340813,-71.068354,01_0002,"Boston, MA",1869-01-01,1881-05-05,Estate of Sarah K. Dall Decd.,Map 81.3[18-?],J. Franklin Fuller,Samuel Hatch & Co.,Sarah K. Dall Estate,,,
+42.361163,-71.064558,01_0004,"Boston, MA",1858-01-01,1858-10-27,"Plan of the Boardman Estate on Hancock Street, between Derne & Cambridge Streets",Map 81.3[18-?],,N.A. Thompson & Co.,Boardman Estate,,,
+42.330342,-71.083987,01_0006,"Boston, MA",,,"Munroe Estate, Corner of Washington & Vernon Sts. Roxbury, Contents 30,254 feet",Map 81.3[18-?],,F. Brown,Munroe Estate,,,
+42.356864,-71.055628,01_0007,"Boston, MA",1850-01-01,1850-10-24,"Plan of Pearl St House and Stores and three new stores on Milk and Atkinson Streets, Belonging to the Estate of the late Doct. E.H. Robbins",Map 81.3[18-?],Alexander Wadsworth,F.E. White,Doct. E.H. Robbins Estate,,,
+42.356761,-71.056217,01_0008,"Boston, MA",1850-01-01,1850-10-24,"Plan of the Old Julien Estate comprising two stores on Milk and Congress Streets, belonging to the Estate of the late Doct. E.H. Robbins",Map 81.3[18-?],Alexander Wadsworth,F.E. White,Doct. E.H. Robbins Estate,,,
+42.34458,-71.057229,01_0009,"Boston, MA",1864-01-01,1864-07-14,"Plan of Building Lots and Wharf Property in South Boston, near Federal Street Bridge, belonging to the Old Colony and Newport Railway Company",Map 81.3[18-?],Thos. Doane,N.A. Thompson & Co.,,,,
+42.35607,-71.053148,01_0010,"Boston, MA",1869-01-01,1869-11-11,Plan of Five Estates on Oliver Street belonging to the City of Boston,Map 81.3[18-?],Thos. W. Davis,N.A. Thompson & Co.,,,,
+42.356962,-71.058839,01_0011,"Boston, MA",1862-01-01,1869-04-24,"Plan of Estates on Washington Street, belonging to the heries of the late Saml. Hewes, Decd.",Map 81.3[18-?],Alexander Wadsworth,N.A. Thompson & Co.,Saml. Hewes,,,
+42.357171,-71.065057,01_0012,"Boston, MA",1866-01-01,1866-02-12,[No title],Map 81.3[18-?],Alexander Wadsworth,Henshaw & Bro.,,,,
+42.35334,-71.064268,01_0013,"Boston, MA",1866-01-01,1866-09-24,[No title],Map 81.3[18-?],Alexander Wadsworth,Henshaw & Bro.,,,,
+42.355414,-71.060467,01_0014,"Boston, MA",1854-01-01,1854-07-01,[No title],Map 81.3[18-?],Alexander Wadsworth,J.K. Porter & Co.,,,,
+42.354297,-71.061585,01_0015,"Boston, MA",1857-01-01,1870-02-01,[No title],Map 81.3[18-?],Alexander Wadsworth,Samuel Hatch & Co.,Thomas Brewer Esq.,,,
+42.357277,-71.052169,01_0016,"Boston, MA",1853-01-01,1853-10-20,Estate on Broad Street,Map 81.3[18-?],,N.A. Thompson & Co.,,,,
+42.353744,-71.059973,01_0017,"Boston, MA",1868-01-01,1870-02-01,No. 44 Chauncy Street,Map 81.3[18-?],Alexander Wadsworth,Samuel Hatch & Co.,Thomas Brewer Esq.,,,
+42.35648,-71.059391,01_0018,"Boston, MA",1856-01-01,1859-01-04,Plan of the Melodeon Estate on Washington Street belonging to the Proprietors of the Boston Theatre,Map 81.3.1871.3,Alexander Wadsworth,N.A. Thompson & Co.,Melodeon Estate,,,
+42.33329,-71.024989,01_0019,"Boston, MA",1868-01-01,1868-07-16,[No title],Map 81.3.1871.3,Alexander Wadsworth,J.K. Porter & Co.,,,,
+42.340592,-71.051489,01_0021,"Boston, MA",1836-01-01,1858-06-10,Plan of Lands in South Boston belonging to one of the heirs of the late Jonathan Mason,Map 81.3.1871.3,Alexander Wadsworth,N.A. Thompson & Co.,Jonathan Mason,,1 map in mylar,
+42.335503,-71.049285,01_0022,"Boston, MA",1836-01-01,1858-06-10,Plan of Lands in South Boston belonging to one of the heirs of the late Jonathan Mason,Map 81.3.1871.3,Alexander Wadsworth,N.A. Thompson & Co.,Jonathan Mason,,1 map in mylar,
+42.336404,-71.041595,01_0023,"Boston, MA",1836-01-01,1858-06-10,Plan of Lands in South Boston belonging to one of the heirs of the late Jonathan Mason,Map 81.3.1871.3,Alexander Wadsworth,N.A. Thompson & Co.,Jonathan Mason,,1 map in mylar,
+42.340592,-71.051489,01_0024,"Boston, MA",1836-01-01,1856-10-15,Plan of Lands in South Boston to be sold by Public Auction by order of the administrators of the late Dr. John C. Warren,Map 81.3.1871.3,Alexander Wadsworth,N.A. Thompson & Co.,Dr. John C. Warren,,1 map in mylar,
+42.335503,-71.049285,01_0025,"Boston, MA",1836-01-01,1856-10-15,Plan of Lands in South Boston to be sold by Public Auction by order of the administrators of the late Dr. John C. Warren,Map 81.3.1871.3,Alexander Wadsworth,N.A. Thompson & Co.,Dr. John C. Warren,,1 map in mylar,
+42.336404,-71.041595,01_0026,"Boston, MA",1836-01-01,1856-10-15,Plan of Lands in South Boston to be sold by Public Auction by order of the administrators of the late Dr. John C. Warren,Map 81.3.1871.3,Alexander Wadsworth,N.A. Thompson & Co.,Dr. John C. Warren,,1 map in mylar,
+42.357184,-71.054604,01_0027,"Boston, MA",1871-01-01,1871-04-12,Plan of Estate No. 12 Oliver Street,Map 81.3.1871.3,,Samuel Hatch & Co.,Aaron Bancroft,,,
+42.33565,-71.035418,01_0028,"Boston, MA",1855-01-01,,"Plan of the Lots on City Lands, S. Boston",Map 81.3.1871.3,,,,,,
+42.334802,-71.033308,01_0030,"Boston, MA",1860-01-01,1860-04-04,Plan of Land at South Boston belonging to the Estate of the late Wm. McCullough,Map 81.3.1871.3,Henry W. Wilson,Samuel Hatch & Co.,Wm. McCullough,,,
+42.354963,-71.059758,01_0031,"Boston, MA",1859-01-01,1859-05-09,"Plan of the Mercantile Building Estate on Summer Street, belonging to Emery B. Fay Esq.",Map 81.3.1871.3,Alexander Wadsworth,N.A. Thompson & Co.,,,,
+42.333032,-71.041466,01_0033,"Boston, MA",1835-01-01,1835-06-01,Plan of Land at South Boston belonging to the Mount Washington & Warren Associations,Map 81.3.1871.3,Alexander Wadsworth,,,,,
+42.335503,-71.049285,01_0034,"Boston, MA",1835-01-01,,Plan of Land at South Boston belonging to the Warren Association,Map 81.3.1871.3,Alexander Wadsworth,,,,,
+42.33325,-71.029146,01_0036,"Boston, MA",1842-01-01,1867-09-19,[No title],Map 81.3.1871.3,Alexander Wadsworth,J.K. Porter & Co.,,,only one map,
+42.335824,-71.025056,01_0037,"Boston, MA",1842-01-01,1867-09-19,[No title],Map 81.3.1871.3,Alexander Wadsworth,J.K. Porter & Co.,,,only one map,
+42.358782,-71.057827,01_0038,"Boston, MA",1865-01-01,1866-03-15,Plan of the Brooks Estate Corner of Court & Washington Street,Map 81.3.1871.3,Alexander Wadsworth,N.A. Thompson & Co.,Brooks Estate,,,
+42.357171,-71.065057,01_0039,"Boston, MA",1866-01-01,1866-02-12,[No title],Map 81.3.1871.3,Alexander Wadsworth,Henshaw & Bro.,,,,
+42.365673,-71.051609,01_0040,"Boston, MA",1876-01-01,1876-05-01,[No title],Map 81.3.1876,Thos. W. Davis,,,,,
+42.335494,-71.044236,01_0041,"Boston, MA",1833-01-01,,Plan of T.H. Birds Land at South Boston,Map 81.3.1871.3,Alexander Wadsworth,,T.H. Birds,,,
+42.334874,-71.029195,01_0042,"Boston, MA",1842-01-01,,No. 1 Plan of Land at South Boston Belonging to the United States,Map 81.3.1871.3,Alexander Wadsworth,,,,,
+42.334022,-71.031256,01_0043,"Boston, MA",1862-01-01,1862-04-30,Plan of Lots of Land in South Boston,Map 81.3.1871.3,,N.A. Thompson & Co.,,,,
+42.360802,-71.053688,01_0044,"Boston, MA",1856-01-01,1856-04-12,Plan of Mercantile Wharf Property in Boston Mass.,Map 81.3.1871.3,,N.A. Thompson & Co.,,,,
+42.335552,-71.041546,01_0045-1,"Boston, MA",,,Plan of Land in Boston Belonging to Mrs. A.P. Grant,Map 81.3.1871.3,,N.A. Thompson & Co.,A.P.Grant,,only one map,
+42.338812,-71.050806,01_0045-2,"Boston, MA",,,Plan of Land in Boston Belonging to Mrs. A.P. Grant,Map 81.3.1871.3,,N.A. Thompson & Co.,A.P.Grant,,only one map,
+42.335503,-71.049285,01_0045-3,"Boston, MA",,,Plan of Land in Boston Belonging to Mrs. A.P. Grant,Map 81.3.1871.3,,N.A. Thompson & Co.,A.P.Grant,,only one map,
+42.358251,-71.061507,01_0046,"Boston, MA",1851-01-01,1851-06-19,Plan of Estates on Beacon St. Somerset St. & Pemberton Square,Map 81.3.1871.3,Whitwell & Henck,Whitwells & Seaver,,,,
+42.357921,-71.062689,01_0047,"Boston, MA",1843-01-01,1843-10-19,"To Be Sold At Auction, Thursday, October 19, 1843",Map 81.3.1871.3,Alexander Wadsworth,,,,,
+42.351639,-71.069017,01_0048-1,"Boston, MA",1852-01-01,1852-06-10,A Plan of 8 Lots of City Land,Map 81.3.1871.3,,,,,only one map,
+42.255439,-71.114781,01_0048-2,"Boston, MA",1852-01-01,1852-06-10,A Plan of 8 Lots of City Land,Map 81.3.1871.3,,,,,only one map,
+42.335052,-71.078835,01_0050,"Boston, MA",1846-01-01,1846-05-20,"Plan of lands on the corner of Washington and Lenox Streets, Boston",Map 81.3.1871.3,Alexander Wadsworth,N.A. Thompson & Co.,,,,
+42.366003,-71.100767,01_0051,"Boston, MA",1852-01-01,1852-05-05,Plan of land belonging to Jonas ChickeringEsq.,Map 81.3.1871.3,Alexander Wadsworth,N.A. Thompson & Co.,,,,
+42.355383,-71.057367,01_0052,"Boston, MA",1857-01-01,,"Plan of extention of devonshire street, through Otis Place",Map 81.3.1871.3,L.H. Bradford & Co.,,,,,
+42.355383,-71.057367,01_0053,"Boston, MA",1857-01-01,,Plan of extentoion of Devonshire Street connecting Otis & Winthrop Places,Map 81.3.1871.3,Tappan & Bradford,,,,,
+42.352363,-71.064575,01_0054,"Boston, MA",1849-01-01,,Untitled [Line between the Boston and Roxbury Mill Corporation and the City of Boston],Map 81.3.1871.3,Tappan & Bradford,,,,01_0054 to 01_0057 one map in mylar,
+42.354812,-71.074826,01_0055,"Boston, MA",1849-01-01,,Untitled [Line between the Boston and Roxbury Mill Corporation and the City of Boston],Map 81.3.1871.3,Tappan & Bradford,,,,01_0054 to 01_0057 one map in mylar,
+42.342813,-71.073768,01_0056,"Boston, MA",1849-01-01,,Untitled [Line between the Boston and Roxbury Mill Corporation and the City of Boston],Map 81.3.1871.3,Tappan & Bradford,,,,01_0054 to 01_0057 one map in mylar,
+42.35363,-71.079116,01_0057,"Boston, MA",1849-01-01,,Untitled [Line between the Boston and Roxbury Mill Corporation and the City of Boston],Map 81.3.1871.3,Tappan & Bradford,,,,01_0054 to 01_0057 one map in mylar,
+42.355423,-71.056529,01_0058,"Boston, MA",1858-01-01,1859-05-11,Plan of Estate on Sister Street,Map 81.3.1871.3,Meisel & Co.,N.A. Thompson & Co.,,,,
+42.361181,-71.063737,01_0059,"Boston, MA",1855-01-01,1855-06-19,Plan of the Prince Estate in Chamber Street Boston,Map 81.3.1871.3,,Samuel Hatch & Co.,Prince Estate,,,
+42.3421,-71.070628,01_0060,"Boston, MA",1856-01-01,1856-05-17,"Plan of House Lots on the corner of Shawmut Avenue and Chelsea Street near Union Park, belonging to Charles E. Bowers",Map 81.3.1871.3,Kramer & Co.,N.A. Thompson & Co.,,,,
+42.354094,-71.058607,01_0061,"Boston, MA",1849-01-01,1865-10-18,"Plan of the Mansion House Estate, of the late Hon. Edward Everett, on Summer Street",Map 81.3.1871.3 No. 79,Ezra Lincoln Jr.,N.A. Thompson & Co.,Hon. Edward Everett,,,
+42.358782,-71.057827,01_0062,"Boston, MA",1865-01-01,1866-03-15,Plan of the Brooks Estate Corner of Court & Washington Street,Map 81.3.1871.3 No. 78,Alexander Wadsworth,N.A. Thompson & Co.,Brooks Estate,,,
+42.302347,-71.012299,01_0063,"Boston, MA",1851-01-01,1851-07-21,"Plan of Building Lots in Section No. 1, at Long-Island in Boston Harbor, Owned by the Long-Island Company",Map 81.3.1871.3 No. 77,C.H. Poole,"N. A. Thompson, F.E. White",,,,
+42.353603,-71.060186,01_0064,"Boston, MA",1866-01-01,1869-02-10,Plan of the Lee Estate on Chauncy Street,Map 81.3.1871.3 No. 76,Alexander Wadsworth,N.A. Thompson & Co.,Henry Lee,,,
+42.353603,-71.060186,01_0066,"Boston, MA",1869-01-01,1869-02-10,"Plan of Land at the Corner of Chauncy Street and Avon Place, belonging to the City of Boston",Map 81.3.1871.3 No. 74,Thos. W. Davis,N.A. Thompson & Co.,,,,
+42.347341,-71.064397,01_0068,"Boston, MA",1845-01-01,1845-06-04,"Corrected Plan of Lots, on Washington St. and Indiana Place, being the property of the Boston & Worcester Rail Road Corporation",Map 81.3.1871.3 No. 72,,F.E. White,,,,
+42.358251,-71.061507,01_0069,"Boston, MA",1846-01-01,,[No title],Map 81.3.1871.3 No. 71,Alexander Wadsworth,,,,,
+42.356761,-71.056217,01_0070,"Boston, MA",1842-01-01,,[No title],Map 81.3.1871.3 No. 70,Waldo Higginson,,,,,
+42.35006,-71.065196,01_0072,"Boston, MA",1864-01-01,1866-03-16,"Plan of Estate No. 271, 273 & 275 Tremont Street, belonging to Mrs. Mary Flagg",Map 81.3.1871.3 No. 81,J.F. Fuller,N.A. Thompson & Co.,Mrs. Mary Flagg,,,
+42.353692,-71.058019,01_0073,"Boston, MA",1866-01-01,1866-04-26,"Plan of Estates on Summer Street belonging to Heirs of Alexander Young, W.M. Davis, Jacob H. Loud and others, trustees.",Map 81.3.1871.3 No. 82,Alexander Wadsworth,N.A. Thompson & Co.,"Alexander Young, W.M. Davis, Jacob H. Loud",,,
+42.3533,-71.057858,01_0075,"Boston, MA",1868-01-01,1868-04-09,[No title],Map 81.3.1871.3 No. 84,Alexander Wadsworth,Samuel Hatch & Co.,,,,
+42.353744,-71.059973,01_0076,"Boston, MA",1868-01-01,1870-02-01,[No title],Map 81.3.1871.3 No. 85,Alexander Wadsworth,Samuel Hatch & Co.,Thomas Brewer Esq.,,,
+42.353603,-71.060186,01_0077,"Boston, MA",1868-01-01,1868-04-09,[No title],Map 81.3.1871.3 No. 86,,Samuel Hatch & Co.,,,,
+42.353603,-71.060186,01_0080,"Boston, MA",1856-01-01,1856-12-22,Plan of the estate of the late Judge Jackson in Chauncy Street,Map 81.3.1871.3 No. 89,Alexander Wadsworth,N.A. Thompson & Co.,Judge Jackson,,,
+42.363887,-71.060286,01_0082,"Boston, MA",1846-01-01,1846-04-29,"Plan of Lands, belonging to the City of Boston",Map 81.3.1871.3 No. 98,Alexander Wadsworth,N.A. Thompson & Co.,,,,
+42.35673,-71.056698,01_0083,"Boston, MA",1860-01-01,1860-11-08,"Plan of Land occupied by Stores Nos. 7&9, 11&13 Federal & Nos. 59&61 Milk Streets.",Map 81.3.1871.3 No. 97,Alexander Wadsworth,N.A. Thompson & Co.,,,,
+42.355213,-71.053986,01_0084,"Boston, MA",1851-01-01,1857-04-22,[No title],Map 81.3.1871.3 No. 96,Alexander Wadsworth,F.E. White,,,,
+42.35648,-71.059391,01_0085,"Boston, MA",1856-01-01,1859-01-04,Plan of the Melodeon Estate on Washington Street belonging to the Proprietors of the Boston Theatre,Map 81.3.1871.3 No. 95,Alexander Wadsworth,N.A. Thompson & Co.,,,,
+42.361253,-71.064419,01_0086,"Boston, MA",1847-01-01,1847-05-08,Plan of Lots,Map 81.3.1871.3 No. 94,Alexander Wadsworth,,,,,
+42.354297,-71.061585,01_0088,"Boston, MA",1857-01-01,1870-02-01,[No title],Map 81.3.1871.3 No. 92,Alexander Wadsworth,Samuel Hatch & Co.,,,,
+42.358782,-71.057827,01_0089,"Boston, MA",1849-01-01,,Plan of Estate of P.C. Brooks (deceased) corner of Court and Washington Streets,Map 81.3.1871.3 No. 91,Ezra Lincoln Jr.,,P.C. Brooks,,,
+42.358782,-71.057827,01_0090,"Boston, MA",1849-01-01,,[No title],Map 81.3.1871.3 No. 90,,,,,,
+42.356633,-71.050707,01_0091,"Boston, MA",1860-01-01,1860-11-14,Plan of the Property known as Foster's Wharf,Map 81.3.1871.3 No. 27,Thomas Doane & John Doane Jr.,N.A. Thompson & Co.,,,,
+42.356864,-71.055628,01_0092,"Boston, MA",1850-01-01,1850-10-24,"Plan of Pearl St House and Stores and three new stores on Milk and Atkinson Streets, Belonging to the Estate of the late Doct. E.H. Robbins",Map 81.3.1871.3 No. 29,Alexander Wadsworth,F.E. White,Doct. E.H. Robbins Estate,,,
+42.35441,-71.059107,01_0093,"Boston, MA",1842-01-01,,Plan of the Estate of the late Benjamin Bussey Esq.,Map 81.3.1871.3 No. 25,Ezra Lincoln Jr.,,Benjamin Bussey Esq.,,,
+42.360914,-71.052809,01_0094,"Boston, MA",1852-01-01,1852-11-03,"Plan of City Wharf in Boston, Mass. Showing five lots of land thereon.",Map 81.3.1871.3 No. 26,E.S. Chesborough,N.A. Thompson & Co.,,,,
+42.363064,-71.054049,01_0095,"Boston, MA",1859-01-01,,"North Street from near Cross Street, to Commercial, Showing Proposed Widening to 50 feet.",Map 81.3.1871.3 No. 28,James Slade,,,,,
+42.36495,-71.051828,01_0096,"Boston, MA",1859-01-01,,"North Street from near Cross Street, to Commercial, Showing Proposed Widening to 50 feet.",Map 81.3.1871.3 No. 28,James Slade,,,,,
+42.3652,-71.061806,01_0097,"Boston, MA",1840-01-01,,Plan of Land and Wharves belonging to the Proprietors of Mill Pond Wharf,Map 81.3.1871.3 No. 24,Alexander Wadsworth,,,,,
+42.35892,-71.059749,01_0098,"Boston, MA",1853-01-01,1853-06-09,"Plan of the Haskins Estate Embraceing Haskins Buildings on Tremont Row and the Pemberton House Estate, stables &c. on Howard Street",Map 81.3.1871.3 No. 22-24,Alexander Wadsworth,N.A. Thompson & Co.,Haskins Estate,,,
+42.353233,-71.062537,01_0099,"Boston, MA",1851-01-01,1851-05-07,"Adams-House, Estate; Washington Street.",Map 81.3.1871.3 No. 23,Alexander Wadsworth,F.E. White,Adams Estate,,,
+42.371311,-71.041667,01_0100,"Boston, MA",1836-01-01,1836-06-02,"Plan of Sections 1,2, & 3, East Boston",Map 81.3.1871.3 No. 20,,Whitwell Bond & Co.,,,,
+42.37789,-71.037077,01_0101,"Boston, MA",1836-01-01,1836-06-02,"Plan of Sections 1,2, & 3, East Boston",Map 81.3.1871.3 No. 20,,Whitwell Bond & Co.,,,,
+42.35669,-71.057269,01_0102,"Boston, MA",1835-01-01,1835-06-01,[No title],Map 81.3.1871.3 No. 21,S.P. Fuller,,,,,
+42.357992,-71.060458,01_0103,"Boston, MA",1835-01-01,,"Plan of the Building Lots on Phillips Place, Tremont and Somerset Streets",Map 81.3.1871.3 No. 22,S.P. Fuller and Alex. Wadsworth,,,,,
+42.3528,-71.067577,01_0104,"Boston, MA",1843-01-01,1843-11-01,[No title],Map 81.3.1871.3 No. 48,Alexander Wadsworth,,,,,
+42.335494,-71.045668,01_0105,"Boston, MA",1859-01-01,,Plan of Boston Wharf and Vicinity,Map 81.3.1871.3 No. 59-60,C.H. Crosby's Lith.,,,,,
+42.355213,-71.053986,01_0106,"Boston, MA",1849-01-01,,[No title],Map 81.3.1871.3 No. 59-60,Alexander Wadsworth,,,,2 maps,
+42.340811,-71.067747,01_0107,"Boston, MA",1850-01-01,,Plan of the Proposed System for Sewage for the Backbay & Vicinity,Map 81.3.1871.3 No. 58,Tappan & Bradford,,,,,
+42.348763,-71.066596,01_0108,"Boston, MA",1850-01-01,,Plan of the Proposed System for Sewage for the Backbay & Vicinity,Map 81.3.1871.3 No. 58,Tappan & Bradford,,,,,
+42.3528,-71.067577,01_0109,"Boston, MA",,,Plan of Public Garden Showing proposed arrangement of Lots thereon,Map 81.3.1871.3 No. 56,Ezra Lincoln,,,,,
+42.35615,-71.069419,01_0110,"Boston, MA",,,Plan of Public Garden Showing proposed arrangement of Lots thereon,Map 81.3.1871.3 No. 56,Ezra Lincoln,,,,,
+42.352323,-71.057996,01_0111,"Boston, MA",1853-01-01,1856-05-20,"Plan of the Batterman Estate, corner of Essex and Lincoln Streets",Map 81.3.1871.3 No. 57,Alexander Wadsworth,N.A. Thompson & Co.,Batterman Estate,,,
+42.350913,-71.058527,01_0112,"Boston, MA",1840-01-01,,Plan of Lands of the South Cove Corporation,Map 81.3.1871.3 No. 55,F. Jackson Ag'l,,,,,
+42.356864,-71.055628,01_0113,"Boston, MA",1866-01-01,,Plan of Fort Hill Showing Improvements as Proposed by the Committee on Laying out and Widening Streets,Map 81.3.1871.3,"A. Meisel, Lith.",,,,,
+42.357952,-71.053937,01_0114,"Boston, MA",1866-01-01,,Plan of Fort Hill Showing Improvements as Proposed by the Committee on Laying out and Widening Streets,Map 81.3.1871.3,"A. Meisel, Lith.",,,,,
+42.354482,-71.056346,01_0115,"Boston, MA",1869-01-01,1869-07-13,Plan of Estate on Matthews Street belonging to the city of Boston,Map 81.3.1871.3 No. 52,Thomas W. Davis,N.A. Thompson & Co.,Matthews Street,,,
+42.35561,-71.055619,01_0116,"Boston, MA",1869-01-01,1869-03-10,"Plan of the Estate Nos. 156 to 162 Congress Street no occupied by Clark, Adams & Clark",Map 81.3.1871.3 No. 51,Alexander Wadsworth,Samuel Hatch & Co.,,,,
+42.345842,-71.075258,01_0117,"Boston, MA",1869-01-01,1869-07-19,"Plan of Building Lots on Columbus Avenue, and Various Streets and Squares West of said Avenue",Map 81.3.1871.3 No. 50,,N.A. Thompson & Co.,,,,
+42.35966,-71.051805,01_0118,"Boston, MA",1852-01-01,1852-10-20,Plan of City Wharf,Map 81.3.1871.3 No. 38,E.L. Chesbrough,,,,,
+42.353831,-71.071618,01_0119,"Boston, MA",1862-01-01,,Plan of Lands belonging to the Commonwealth of Massachusetts,Map 81.3.1871.3 No. 39,C.D. Andrews Lith.,,,,,
+42.351462,-71.080468,01_0120,"Boston, MA",1862-01-01,,Plan of Lands belonging to the Commonwealth of Massachusetts,Map 81.3.1871.3 No. 39,C.D. Andrews Lith.,,,,,
+42.365441,-71.051096,01_0121,"Boston, MA",1845-01-01,,"Plan of Lots in the Union Wharf Estate, Boston",Map 81.3.1871.3 No. 34,Felton and Parker,,Union Wharf Estate,,,
+42.356761,-71.056217,01_0122,"Boston, MA",1842-01-01,1842-04-27,"Plan of Estate on Milk and Congress Street, belonging to the Estate of Richard D. Tuckes Esq. to be sold by Public Auction",Map 81.3.1871.3 No. 31,Waldo Higginson,,Richard D. Tuckes,,,
+42.35921,-71.059366,01_0123,"Boston, MA",1845-01-01,1845-12-20,Plan of the Atheneum Land on Tremont Street,Map 81.3.1871.3 No. 30,Alexander Wadsworth,"Whitwell, Seaver & Co.",,,,
+42.343393,-71.053696,01_0124,"Boston, MA",1837-01-01,,Plan of the Boston Wharf Company's Land,Map 81.3.1871.3 No. 109,Alexander Wadsworth,,,,,
+42.34284,-71.057149,01_0125,"Boston, MA",1837-01-01,,Plan of the Boston Wharf Company's Land,Map 81.3.1871.3 No. 109,Alexander Wadsworth,,,,,
+42.365233,-71.051009,01_0126,"Boston, MA",1845-01-01,,"Plan of Lots on the Union Wharf Estate, Boston",Map 81.3.1871.3 No. 108,Felton and Parker,F.E. White,,,,
+42.37318,-71.120839,01_0128,"Boston, MA",1871-01-01,1871-06-22,Plan of the Brattle Square Church Property and Estate on the Corner of Brattle Square and Brattle St.,Map 81.3.1871.3 No. 106,,Samuel Hatch & Co.,,,,
+42.34545,-71.06512,01_0129,"Boston, MA",1870-01-01,1870-04-25,"Plan of Estate, Nos. 1043-1059 Washington Street, Boston",Map 81.3.1871.3 No. 105,Alexander Wadsworth,J.K. Porter & Co.,William Brigham,,,
+42.35007,-71.077377,01_0131,"Boston, MA",1855-01-01,,Plan of Public Library Lot,Map 81.3.1871.3 No. 103,S.P. Fuller and Alex. Wadsworth,,,,,
+42.353063,-71.081275,01_0132 - 01_0133,"Boston, MA",,,Plan of Lands belonging to the Commonwealth of Massachusetts,Map 81.3.1871.3 No. 102,,,,,,
+42.355481,-71.072426,01_0134,"Boston, MA",,,Plan of Lands belonging to the Commonwealth of Massachusetts,Map 81.3.1871.3 No. 102,,,,,,
+42.351872,-71.070677,01_0135,"Boston, MA",,,Plan of Lands belonging to the Commonwealth of Massachusetts,Map 81.3.1871.3 No. 102,,,,,,
+42.35731,-71.054896,01_0136,"Boston, MA",1858-01-01,,Plan of Estate on the Corner of Milk and Kilby Streets,Map 81.3.1871.3 No. 101,J.F. Fuller,N.A. Thompson & Co.,W.S. Phipps,,,
+42.350664,-71.075236,01_0138,"Boston, MA",1872-01-01,1872-10-17,"Plan Showing the Location of a Triangular Lot of Land on the Back Bay, at the Junction of Huntington and St. James Avenues",Map 81.3.1871.3 No. 100,,N.A. Thompson & Co.,,,,
+42.351453,-71.061136,01_0139,"Boston, MA",1880-01-01,1880-04-14,Plan of the Land belonging to the City of Boston,Map 81.3.1871.3 No. 119,Thos. W. Davis,L. Foster Morse,,,,
+42.322862,-71.076677,01_0140,"Boston, MA",1891-01-01,,"Plan of Land in Roxbury, Boston, belonginig to the Estate of Leonard Ware, Deceased.",Map 81.3.1871.3 No. 118,Garbett & Wood,,,,,
+42.34863,-71.071757,01_0141,"Boston, MA",1872-01-01,,[No title],Map 81.3.1871.3 No. 117,,,,,,
+42.354812,-71.074826,01_0142,"Boston, MA",1872-01-01,,[No title],Map 81.3.1871.3 No. 117,,,,,,
+42.348363,-71.083731,01_0143,"Boston, MA",1872-01-01,,[No title],Map 81.3.1871.3 No. 117,,,,,,
+42.353063,-71.081275,01_0144,"Boston, MA",1872-01-01,,[No title],Map 81.3.1871.3 No. 117,,,,,,
+42.34263,-71.051779,01_0145,"Boston, MA",1868-01-01,,Plan for the occupation of Flats Owned by the Commonwealth in Boston Harbor,Map 81.3.1871.3 No. 116,,,,,,
+42.367444,-71.040708,01_0146,"Boston, MA",1858-01-01,,Plan of the Property of the East Boston Wharf Corporation,Map 81.3.1871.3 No. 115,John Noble,,,,,
+42.369192,-71.040619,01_0147,"Boston, MA",1858-01-01,,Plan of the Property of the East Boston Wharf Corporation,Map 81.3.1871.3 No. 115,John Noble,,,,,
+42.340811,-71.053928,01_0148,"Boston, MA",,,"Plan of Flats, belonging to the Commonwealth, lying between Fore Pt. Channel and South Boston",Map 81.3.1871.3 No. 114,,,,,,
+42.351614,-71.057238,01_0149,"Boston, MA",,,"Plan of Flats, belonging to the Commonwealth, lying between Fore Pt. Channel and South Boston",Map 81.3.1871.3 No. 114,,,,,,
+42.357011,-71.065815,01_0150,"Boston, MA",1856-01-01,1856-04-30,Plan of the Mansion House Estate of the late Saml. Appleton Esqr. Deceased,Map 81.3.1871.3 No. 113,Alexander Wadsworth,N.A. Thompson & Co.,Saml. Appleton,,,
+42.354548,-71.062917,01_0151,"Boston, MA",1850-01-01,,Plan presented to the Honorable The State Commissioners for the improvement of the Back Bay,Map 81.3.1871.3 No. 112,,,,,,
+42.345842,-71.075258,01_0152,"Boston, MA",1850-01-01,,Plan presented to the Honorable The State Commissioners for the improvement of the Back Bay,Map 81.3.1871.3 No. 112,,,,,,
+42.35648,-71.059391,01_0153,"Boston, MA",1856-01-01,1856-05-22,Plan of the Meledeon Estate on Washington Street belonging to the Proprietors of the Boston Theatre,Map 81.3.1871.3 No. 111,Alexander Wadsworth,N.A. Thompson & Co.,,,,
+42.3466,-71.064589,01_0154,"Boston, MA",1855-01-01,1855-03-17,Plan of the late Joseph Lovering's Estate on Washington St. between the Rev. Mr. Huntington's Church & the Boston Female Asylum,Map 81.3.1871.3 No. 110,Alexander Wadsworth,N.A. Thompson & Co.,Joseph Lovering,,,
+42.351453,-71.061136,01_0155,"Boston, MA",1880-01-01,1880-04-14,Plan of Land belonging to the City of Boston,Map 81.3.1871.3 No. 120,Thos. W. Davis,L. Foster Morse,,,,
+42.316894,-71.078068,01_0156,"Boston, MA",1891-01-01,1891-07-07,Plan of Land in Gray Estate,Map 81.3.1871.3 No. 121,William H. Whitney,L. Foster Morse,Gray Estate,,,
+42.31643,-71.074669,01_0157,"Boston, MA",1891-01-01,1891-07-07,Plan of Land in Gray Estate,Map 81.3.1871.3 No. 121,William H. Whitney,L. Foster Morse,Gray Estate,,,
+42.351453,-71.061136,01_0158,"Boston, MA",1880-01-01,1880-04-14,Plan of Land belonging to the City of Boston,Map 81.3.1871.3 No. 122,Thos. W. Davis,L. Foster Morse,,,,
+42.334423,-71.075749,01_0159,"Boston, MA",1883-01-01,,Plan of the Roxbury Canal Lands belonging to the City of Boston,Map 81.3.1871.3 No. 123,Thos. W. Davis,L. Foster Morse,,,,
+42.352323,-71.057996,01_0160,"Boston, MA",,,[No title],Map 81.3.1871.3 No. 124,,,,,,
+42.350802,-71.058086,01_0161,"Boston, MA",,,[No title],Map 81.3.1871.3 No. 124,,,,,,
+42.33594,-71.080089,01_0162,"Boston, MA",1889-01-01,1889-05-21,[No title],Map 81.3.1871.3 No. 125,Garbett & Wood,L. Foster Morse,,,,
+42.311153,-71.091079,01_0163,"Boston, MA",1886-01-01,1886-09-30,Plan of 26 Lots of Land and Stone Stable,Map 81.3.1871.3 No. 126,Garbett & Wood,L. Foster Morse,,,,
+42.31453,-71.093809,01_0164,"Boston, MA",1886-01-01,1886-09-30,Plan of 26 Lots of Land and Stone Stable,Map 81.3.1871.3 No. 126,Garbett & Wood,L. Foster Morse,,,,
+42.311153,-71.091079,01_0165,"Boston, MA",1886-01-01,1886-09-30,Plan of 26 Lots of Land and Stone Stable,Map 81.3.1871.3 No. 127,Garbett & Wood,L. Foster Morse,,,,
+42.31453,-71.093809,01_0166,"Boston, MA",1886-01-01,1886-09-30,Plan of 26 Lots of Land and Stone Stable,Map 81.3.1871.3 No. 127,Garbett & Wood,L. Foster Morse,,,,
+42.356962,-71.058839,01_0167,"Boston, MA",1862-01-01,1862-04-24,"Plan of Estates on Washington Street, belonging to the heries of the late Saml. Hewes, Decd.",Map 81.3.1871.3 No. 128,Alexander Wadsworth,N.A. Thompson & Co.,Saml. Hewes,,,
+42.343393,-71.053696,01_0168,"Boston, MA",1850-01-01,,[No title],Map 81.3.1871.3 No. 129,Alexander Wadsworth,,,,,
+42.34011,-71.054758,01_0169,"Boston, MA",1850-01-01,,[No title],Map 81.3.1871.3 No. 129,Alexander Wadsworth,,,,,
+42.356506,-71.055793,01_0170A,"Boston, MA",,,"Plan of Store No. 118 and 120 Congress Street, Boston occupied by Mess, Hazelton, Cowdin and Co. belonging to Samuel Sanford, Esq.",,Alexander Wadsworth,N.A. Thompson,,,,
+42.355876,-71.056691,01_0170B,"Boston, MA",,,"Plan of Stores on Federal St.Boston belonging to Samuel Samford , Esq. ",,Alexander Wadsworth,N.A. Thompson,,,,
+42.355307,-71.056032,01_0170C,"Boston, MA",,,"Plan of Land Corner of Congress and Channing Streets, Boston belonging to Samuel Sanford, Esq.",,Alexander Wadsworth,N.A. Thompson,,,,
+42.364622,-71.050802,01_0171,"Boston, MA",,,"No title - shows plan of land at Clark and Commercial Streets, Boston",,Alexander Wadsworth,,,,,
+42.349951,-71.067571,01_0172,"Boston, MA",,,"No title - shows plan of land at Piedmont and Pleasant (now Broadway) Streets, Boston",,Alexander Wadsworth,,,,,
+42.354146,-71.059361,01_0173,"Boston, MA",,,Plan of the Coffin Estate corner of Summer and Chauncy Streets,,Alexander Wadsworth,N.A. Thompson,,,,
+42.357011,-71.065815,01_0174,"Boston, MA",,,"Plan of the Mansion House Estate of the Late Samuel Appleton, Esq. Deceased",,Alexander Wadsworth,N.A. Thompson,,,dup of 01_0150,
+42.355531,-71.056567,01_0175,"Boston, MA",,,"No Title - shows plan of land at Franklin and Federal Streets, Boston",,,,,,,
+42.353543,-71.060284,01_0176,"Boston, MA",,,"Plan of lands on and near Bedford, Kingston and Chauncy Streets",,,N.A. Thompson,,,,
+42.378685,-71.053607,01_0177,"Boston, MA",,,Plan of House Lots in Charlestown belonging to Mrs. Mary B. Shaw,,,,,,,
+42.355538,-71.056581,01_0178,"Boston, MA",,,Lot No. 1 Boston Theatre adn Lot No. 2 to be sold at auction on the premises,,Alexander Wadsworth,,,,dup of 01_0175,
+42.357011,-71.065815,01_0179,"Boston, MA",,,"Plan of the Mansion House Estate of the Late Samuel Appleton, Esq. Deceased",,Alexander Wadsworth,N.A. Thompson,,,dup of 01_0150,
+42.35921,-71.059366,01_0180,"Boston, MA",,,Plan of the Atheneum Land on Tremont Street,,Alexander Wadsworth,"Whitwell, Seaver & Co.",,,dup 01_0123,
+42.341689,-71.076032,01_0181,"Boston, MA",,,Plan of Estate corner of Tremont and Pembroke Sts.,,,Samuel Hatch & Co.,,,,
+42.334353,-71.075743,01_0182,"Boston, MA",,,Plan of Estates on Northhampton St. District,,Thomas W. Davis,Samuel Hatch & Co.,,,,
+42.348899,-71.097096,01_0183,"Boston, MA",,,Plan of Commonwealth Avenue,,,John J. McCormack,,,,
+42.355227,-71.053877,01_0184,"Boston, MA",,,"Peremtory Sale at Public Auction onTuesday, April 22 1851",,Alexander Wadsworth,Ferdinand E. White,,,,
+42.35942,-71.0607,02_0002,"Boston, MA",1835-01-01,1835-10-06,"Plan of Building lots on Phillip's Place, Tremont, and Summer Streets",,"S.P. Fuller, Alexander Wadsworth","Whitwell, Bond, & Co.",,Pendleton's Lithography,Attached catalog of building lots; map and catalog annotated with names of lot purchasers,
+42.33292,-71.03391,02_0003,"Boston, MA",1840-01-01,1840-10-18,"Plan of Land at South Boston, Belonging to the Warren Association",,Alexander Wadsworth,,Warren Association,Thayer & Co.,,
+42.36357,-71.06036,02_0006,"Boston, MA",1846-04-13,1846-04-29,"Plan of Lands, Belonging to the City of Boston",,Alexander Wadsworth,N.A. Thompson & Co.,City of Boston,,,
+42.36335,-71.0601,02_0007,"Boston, MA",,1846-04-29,Plan of Lands belonging to the City of Boston,,Alexander Wadsworth,N.A. Thompson & Co.,City of Boston,,same as #6; accomp. by conditions of sale and catalogue of sale; annotated,
+42.27899,-71.15064,02_0009,"Boston, MA",1848-09-22,1849-09-15,"Plan of Bellevue, West Roxbury",,Brown & Hastings,"Loring, Porter & Co.",H.H. Williams,Tappan & Bradford,,
+42.36158,-71.0519,02_0034,"Boston, MA",1855-03-20,1855-04-03,Plan of Mercantile Wharf Property in Boston Mass.,,E.S. Chesbrough and Whitwell & Henck,N.A. Thompson & Co.,,J.H. Bufford & Co.,,
+42.34475,-71.06468,02_0035,"Boston, MA",1855-01-01,1855-04-19,Plan of Nine Lots of Land on Davis Street,,,N.A. Thompson & Co.,,J.H. Bufford & Co.,,
+42.34134,-71.07088,02_0037,"Boston, MA",1855-01-01,1855-05-04,Plan of Land on the Corner of Washington and East Canton Streets,,,N.A. Thompson & Co.,,,,
+42.34147,-71.0679,02_0038,"Boston, MA",1855-01-01,1855-05-15,Plan of Building Lots on Washington & Waltham Streets and Harrison Avenue,,,N.A. Thompson & Co.,Boston Lying-In Hospital,J.H. Bufford & Co.,,
+42.34165,-71.0676,02_0039,"Boston, MA",,1855-05-17,Plan of an Estate lying between Washington St. & Harrison Ave. in Boston,,Ezra Lincoln,N.A. Thompson & Co.,Leopold Herman,J.H. Bufford & Co.,"overlaps with Plan of Building Lots on Washington & Waltham Streets and Harrison Avenue, belonging to the Boston Lying-In Hospital Corporation, N.A. Thompson [auctioneer], L.H. Bradford & Co., May 15, 1855.",
+42.35716,-71.05907,02_0040,"Boston, MA",1855-11-06,1855-11-13,Plan of Estate in Harvard Place,,Alexander Wadsworth,N.A. Thompson & Co.,Earl W. Johnson,Kramer & Co.,,
+42.3427,-71.07161,02_0041,"Boston, MA",,1856-03-27,"Plan of Lands on Chelsea and Tremont Streets, near Union Park",,,N.A. Thompson & Co.,,Kramer & Co.,,
+42.34589,-71.0641,02_0042,"Boston, MA",1856-01-01,1856-04-14,Plan of Nine Lots of Land on Davis Street,,,N.A. Thompson & Co.,,Kramer & Co.,,
+42.36647,-71.06234,02_0070,"Boston, MA",1858-01-01,1858-04-21,A Plan of the 20 Lots of the Old Jail Land,,,,City of Boston,,,
+42.3573,-71.05574,02_0071,"Boston, MA",1858-04-07,1858-04-22,Plan of Estate on the Corner of Milk and Kilby Streets,,S.P. Fuller; J.F. Fuller,N.A. Thompson & Co.,,Meisel Brothers Lith.,"Copied from S.P. Fuller's plan of February 10, 1825 by J.F. Fuller, April 7, 1858",
+42.33485,-71.04882,02_0072,"Boston, MA",1836-04-09,1858-06-10,Plan of Lands of South Boston Belonging to One of the Heirs of the Late Jonathan Mason,,Alexander Wadsworth,N.A. Thompson & Co.,One of the heirs of the late Jonathan Mason,Meisel Brothers Lith.,Three maps on page,
+42.33664,-71.042,02_0072,"Boston, MA",1836-04-09,1858-06-10,Plan of Lands of South Boston Belonging to One of the Heirs of the Late Jonathan Mason,,Alexander Wadsworth,N.A. Thompson & Co.,One of the heirs of the late Jonathan Mason,Meisel Brothers Lith.,Three maps on page,
+42.33921,-71.05159,02_0072,"Boston, MA",1836-04-09,1858-06-10,Plan of Lands of South Boston Belonging to One of the Heirs of the Late Jonathan Mason,,Alexander Wadsworth,N.A. Thompson & Co.,One of the heirs of the late Jonathan Mason,Meisel Brothers Lith.,Three maps on page,
+42.33482,-71.04881,02_0073,"Boston, MA",1836-04-09,1858-06-10,Plan of the Lands of South Boston Belonging to One of the Heirs of the Late Jonathan Mason,,Alexander Wadsworth,N.A. Thompson & Co.,Heirs of the Late Jonathan Mason,Meisel Brothers Lith.,Three maps on single page; see also #72  Plan of Lands of South Boston Belonging to One of the Heirs of the Late Jonathan Mason [Inset 2],
+42.33655,-71.04172,02_0073,"Boston, MA",1836-04-09,1858-06-10,Plan of the Lands of South Boston Belonging to One of the Heirs of the Late Jonathan Mason,,Alexander Wadsworth,N.A. Thompson & Co.,Heirs of the Late Jonathan Mason,Meisel Brothers Lith.,Three maps on single page; see also #72  Plan of Lands of South Boston Belonging to One of the Heirs of the Late Jonathan Mason [Inset 1],
+42.33931,-71.05161,02_0073,"Boston, MA",1836-04-09,1858-06-10,Plan of the Lands of South Boston Belonging to One of the Heirs of the Late Jonathan Mason,,Alexander Wadsworth,N.A. Thompson & Co.,Heirs of the Late Jonathan Mason,Meisel Brothers Lith.,Three maps on single page; see also #72  Plan of Lands of South Boston Belonging to One of the Heirs of the Late Jonathan Mason [Inset 3],
+42.36197,-71.06323,02_0074,"Boston, MA",1858-01-01,1858-06-17,Plan of the Parkman Estate on Bowdoin Square,,Alexander Wadsworth,N.A. Thompson & Co.,,,,
+42.35463,-71.06105,02_0075,"Boston, MA",1856-04-16,1859-01-04,Plan of the Melodeon Estate on Washington St,,Alexander Wadsworth,N.A. Thompson & Co.,Proprietors of the Boston Theatre,Meisel Brothers Lith.,,
+42.35232,-71.05798,02_0076,"Boston, MA",1859-05-04,1859-05-09,Plan of the Batterman Estate on the Corner of Lincoln and Essex Sts.,,Alexander Wadsworth,N.A. Thompson & Co.,Emery B. Fay,Meisel Brothers Lith.,,
+42.36089,-71.05323,02_0078,"Boston, MA",1859-01-01,1859-05-09,Plan of the Bordman Estate in Purchase St.,,Ezra Lincoln and F.P. Fuller,N.A. Thompson & Co.,Emery B. Fay,Meisel Brothers Lith.,"""Drawn from plan made by Ezra Lincoln and F.P. Fuller""",
+42.36635,-71.0372,02_0080,"Boston, MA",1859-01-01,1859-05-11,"Plan of Building Lots on Webster, Centre and Marginal Sts., East Boston",,,N.A. Thompson & Co.,,Meisel Brothers Lith.,,
+42.42165,-71.68682,02_0082,"Boston, MA",1856-03-06,1859-05-12,"Map of Part of the Town of Clinton, Showing the Property of the Lancaster Quilt Company",,"J. Thissell, Jr.",N.A. Thompson & Co.,Lancaster Quilt Company,Meisel Brothers Lith.,,
+42.33006,-71.03513,02_0083,"Boston, MA",1859-05-10,1859-05-23,"Plan of Estate of Lemuel Capen, at South Boston",,Alexander Wadsworth,,Lemuel Capen,Meisel Brothers Lith.,,
+42.36327,-71.05342,02_0084,"Boston, MA",1859-05-03,1859-05-19,"Plan of the Estates of the Late George Harris, deceased, situated on North Street and Langdon Place, in Boston",G1234.B6G46 P53 1871 no.84,Alexander Wadsworth,N.A. Thompson & Co.,George Harris,Meisel Brothers Lith.,,
+42.36413,-71.06217,02_0085,"Boston, MA",1859-05-03,1859-05-26,Plan of the Trull Distillery Estate and Adjacent Property,G1234.B6G46 P53 1871 no.85,Alexander Wadsworth,N.A. Thompson & Co.,Trull Distillery,Meisel Brothers Lith.,,
+42.35438,-71.05796,02_0087,"Boston, MA",1859-09-17,1859-09-27,Plan of an Estate on Devonshire Street,,Alexander Wadsworth,N.A. Thompson & Co.,,Meisel Brothers Lith.,,
+42.36368,-71.05297,02_0088,"Boston, MA",1859-10-07,,"North Street from near Cross to Commercial, Showing Proposed Widening to 50 Feet",,James Slade,,,T.R. Holland Lith.,,
+42.35091,-71.06062,02_0091,"Boston, MA",1850-12-24,1860-06-01,Harrison Avenue & Kneeland Place belonging to the Estate of the late Winsor Fay Esq. deceased,,Alexander Wadsworth,N.A. Thompson & Co.,Winsor Fay,Meisel Brothers Lith.,"""Plan copied and lot lines added Aug. 25th 1858. G.J.F. Bryant, Archt.""",
+42.36281,-71.05367,02_0094,"Boston, MA",1860-01-01,1860-07-05,"No. 4 Plan of the Robinson Estate in North Street, belonging to the City of Boston",,James Slade,N.A. Thompson & Co.,City of Boston,J.H. Bufford & Co.,,
+42.36413,-71.05315,02_0097,"Boston, MA",1860-01-01,1860-09-19,"Plan of an Estate on North Square, belonging to the Rev. George F. Haskins",,,N.A. Thompson & Co.,George F. Haskins,,,
+42.34613,-71.0654,02_0098,"Boston, MA",1860-10-02,,No. 2 Plan of Washington Street Showing proposed lines of widening from Asylum to Warren,,James Slade,,,Meisel Brothers Lith.,,
+42.35999,-71.06218,02_0099,"Boston, MA",1859-06-28,1860-10-23,"Plan of the Mansion House Estate of the Late Samuel Hammond Esq., Deceased. On the Corner of Somerset and Allston Sts.",,J.F. Fuller,N.A. Thompson & Co.,Samuel Hammond,Meisel Brothers Lith.,,
+42.35604,-71.057,02_0101,"Boston, MA",1860-10-22,1860-11-08,"Plan of Land Occupied by Stores Nos. 7 & 9, 11 & 13 Federal & Nos. 59 & 61 Milk Streets",,Alexander Wadsworth,N.A. Thompson & Co.,,Meisel Brothers Lith.,,
+42.33713,-71.07049,02_0103,"Boston, MA",1860-01-01,1860-11-22,A Plan of 32 Lots of City land on Sharon and Albany Streets,,,N.A. Thompson & Co.,,Meisel Brothers Lith.,,
+42.34058,-71.07085,02_0104,"Boston, MA",1860-11-27,1861-10-25,Plan of Lands on Dedham & South Williams Streets belonging to M.M. Ballou,,Alexander Wadsworth,N.A. Thompson & Co.,M.M. Ballou,,"Copy of plan made by Alexander Wadsworth November 27, 1860",
+42.35742,-71.0591,02_0105,"Boston, MA",1862-04-07,1862-04-24,"Plan of Estates on Washington Street, belonging to the Heirs of the late Samuel Hewes, Dec'd.",,Alexander Wadsworth,N.A. Thompson & Co.,Heirs of the late Samuel Hewes,T.R. Holland Lith.,,
+42.36229,-71.0609,02_0107,"Boston, MA",1862-01-01,1862-04-30,Plan of the Barnard Distillery Estate on Adams Chardon & Hawkins Streets,,,N.A. Thompson & Co.,,Meisel Brothers Lith.,,
+42.33864,-71.07648,02_0109,"Boston, MA",1863-03-12,1863-03-25,"Plan of Lots of Lands on Shawmut Avenue, Worccester & Newland Streets",,,N.A. Thompson & Co.,,Meisel Brothers Lith.,,
+42.34254,-71.07044,02_0110,"Boston, MA",1863-03-12,1863-03-31,"Plan of Four Lots of City Lands on Shamut Avenue, Corner of Waltham St.",,,"Samuel Hatch, J.L. Henshaw",,Meisel Brothers Lith.,,
+42.3735,-71.10847,02_0113,"Boston, MA",1863-04-01,1863-04-01,Plan of Land in Cambridge belonging to Z.L. Raymond and Others,,W.A. Mason,,Z.L. Raymond and others,,,
+42.33347,-71.04867,02_0114,"Boston, MA",1867-01-01,1867-10-08,"Plan of Lands in South Boston belonging to the Heirs of the late John W. Treadwell, Deceased",,,N.A. Thompson & Co.,"the Heirs of the late John W. Treadwell, Deceased",Meisel Brothers Lith.,"four maps on page; see also Insets 1, 3, and 4",
+42.33412,-71.02833,02_0114,"Boston, MA",1867-01-01,1867-10-08,"Plan of Lands in South Boston belonging to the Heirs of the late John W. Treadwell, Deceased",,,N.A. Thompson & Co.,"the Heirs of the late John W. Treadwell, Deceased",Meisel Brothers Lith.,"four maps on page; see also Insets 1, 2, and 3",
+42.33593,-71.04288,02_0114,"Boston, MA",1867-01-01,1867-10-08,"Plan of Lands in South Boston belonging to the Heirs of the late John W. Treadwell, Deceased",,,N.A. Thompson & Co.,"the Heirs of the late John W. Treadwell, Deceased",Meisel Brothers Lith.,four maps on page; see also Insets 2-4,
+42.33725,-71.03747,02_0114,"Boston, MA",1867-01-01,1867-10-08,"Plan of Lands in South Boston belonging to the Heirs of the late John W. Treadwell, Deceased",,,N.A. Thompson & Co.,"the Heirs of the late John W. Treadwell, Deceased",Meisel Brothers Lith.,"four maps on page; see also Insets 1, 2, and 4",
+42.29353,-71.06191,02_0115,"Boston, MA",1863-01-01,1863-06-03,Plan of Three Very Eligible House Lots in Dorchester,,"L. Briggs, Jr.",Samuel Hatch & Co.,formerly owned and occupied by Col. Enoch Train,Meisel Brothers Lith.,,
+42.3352,-71.03099,02_0116,"Boston, MA",1863-01-01,1863-06-10,Plan of Lots of Land at City Point - South Boston,,,N.A. Thompson & Co.,,,,
+42.70587,-71.16072,02_0117,"Boston, MA",1863-01-01,1863-12-17,"Plan of the Central Mill Site in the City of Lawrence, Mass.",,,Samuel Hatch & Co.,,,Samuel Hatch & Co. handwritten in pencil,
+42.35065,-71.06264,02_0119,"Boston, MA",1863-04-12,1864-05-03,"Plan of the Foxcroft Estate, Corner of Washington and Kneeland Streets",,Alexander Wadsworth,N.A. Thompson & Co.,Foxcroft,,,
+42.35202,-71.06512,02_0120,"Boston, MA",1864-03-30,1864-05-18,"Plan of Estate on the East Side of Tremont Street, between Boylston and Eliot Streets",,Alexander Wadsworth,N.A. Thompson & Co.,,,,
+42.3624,-71.05277,02_0123,"Boston, MA",1864-06-11,1864-07-13,"Plan of Stone Estate. Consisting of Twelve Stores on Commercial, Fulton & Richmond Sts. Boston",,Alexander Wadsworth,N.A. Thompson & Co.,Stone,J.H. Bufford & Co.,,
+42.34281,-71.07702,02_0124,"Boston, MA",1864-01-01,1864-11-26,[No title],,,Samuel Hatch & Co.,,Meisel Brothers Lith.,,
+42.35773,-71.06591,02_0127,"Boston, MA",1864-11-25,1865-03-23,"Plan of No. 8, Walnut Street.",,Alexander Wadsworth,N.A. Thompson & Co.,,Meisel Brothers Lith.,,
+42.29898,-71.07373,02_0128,"Boston, MA",1865-03-21,1865-04-04,Plan of the Windsor Fay Estate on the Corner of Washington and Harvard Streets,,Alexander Wadsworth,N.A. Thompson & Co.,Windsr Fay,,,
+42.3587,-71.07152,02_0129,"Boston, MA",1858-02-22,1865-05-19,Plan of the Greenleaf & Adams Estate on the corner of Charles & Pinkney Streets,,Alexander Wadsworth,N.A. Thompson & Co.,Greenleaf and Adams,Meisel Brothers Lith.,,
+42.3595,-71.05902,02_0130,"Boston, MA",1865-05-03,1865-05-24,Store Property. Plan of Estate on Court St.,,Alexander Wadsworth,N.A. Thompson & Co.,,T.R. Holland Lith.,,
+42.3392,-71.07435,02_0131,"Boston, MA",1865-05-27,1865-09-26,"Plan of House Lots on Franklin Square, belonging to Geo. H. Davis",,Alexander Wadsworth,N.A. Thompson & Co.,George H. Davis,Meisel Brothers Lith.,,
+42.35445,-71.05858,02_0134,"Boston, MA",1849-04-25,1865-10-18,Plan of the Mansion House Estate of the late Hon. Edward Everett on Summer St,,Ezra Lincoln Jr.,N.A. Thompson & Co.,Edward Everett,Meisel Brothers Lith.,,
+42.35418,-71.05792,02_0136,"Boston, MA",1866-03-10,1866-04-26,"Plan of Estates on Summer Street belonging to Heirs of Alexander Young, Heirs of Wm. Davis, Jacob H. Loud and Others, Trustees",G1234.B6G46 P53 1871 no.136,Alexander Wadsworth,N.A. Thompson & Co.,"Heirs of Alexander Young, Heirs of Wm. Davis, Jacob H. Loud and Others, Trustees",,,
+42.3585,-71.05832,02_0137,"Boston, MA",1865-10-13,1866-03-15,"Plan of the Brooks Estate, Corner of Court and Washington Street",,Alexander Wadsworth,N.A. Thompson & Co.,Brooks,Meisel Brothers Lith.,,
+42.34982,-71.06484,02_0138,"Boston, MA",1864-06-16,1866-03-16,"Plan of No. 271 273 & 275 Tremont Street, Belonging to Mrs. Mary Flagg",,J.F. Fuller,N.A. Thompson & Co.,Mary Flagg,Meisel Brothers Lith.,,
+42.34443,-71.14353,02_0139,"Boston, MA",1866-01-01,1866-03-28,"Plan of the Burroughs Estate, No. 91 Washington Street",,,N.A. Thompson & Co.,Burroughs,Meisel Brothers Lith.,,
+42.36356,-71.05951,02_0140,"Boston, MA",1866-03-17,1866-03-29,Plan of the Merrimake Stables Estate,,Alexander Wadsworth,N.A. Thompson & Co.,Merrimack Stables,Meisel Brothers Lith.,,
+42.35146,-71.06409,02_0141,"Boston, MA",1866-03-21,1866-04-10,"Plan of Estate on Tremont, Corner of La Grange Street",,Alexander Wadsworth,J.K. Porter & Co.,,Meisel Brothers Lith.,,
+42.35574,-71.05851,02_0142,"Boston, MA",1863-12-05,1866-04-25,Plan of the Chadbourn Estate on Hawley Street,,Alexander Wadsworth,N.A. Thompson & Co.,Chadbourn,Meisel Brothers Lith.,,
+42.36226,-71.05258,02_0144,"Boston, MA",1863-05-16,1866-05-30,"Plan of Double Granite Store, located on Commercial, Richmond, and Mercantile Streets, Boston.",,Alexander Wadsworth,N.A. Thompson & Co.,,,,
+42.35184,-71.0633,02_0147,"Boston, MA",1866-01-01,1866-11-12,Plan of the Corey Estate on Boylston Square,,,N.A. Thompson & Co.,Corey,Meisel Brothers Lith.,,
+42.35527,-71.05667,02_0148,"Boston, MA",1866-10-25,1866-11-13,"To be sold by Public Auction, on the premises, on Tuesday November 13th, 1866 at 12 o'clock, M.",,Alexander Wadsworth,Samuel Hatch & Co.,,Meisel Brothers Lith.,,
+42.35387,-71.05751,02_0149,"Boston, MA",1865-11-25,1866-11-15,"Plan of the Sturgis Mansion House Estate, on Summer Street.",G1234.B6G46 P53 1871 no.149,Alexander Wadsworth,N.A. Thompson & Co.,Sturgis,Meisel Brothers Lith.,,
+42.33637,-71.07992,02_0150,"Boston, MA",1866-01-01,1866-11-17,"To be sold at Auction on Saturday November 17th, 1866, at 3 1/2 o'clock P.M. on the premises.",G1234.B6G46 P53 1871 no.150,,J.K. Porter & Co.,,Meisel Brothers Lith.,,
+42.34369,-71.07504,02_0151,"Boston, MA",1866-01-01,1867-04-23,"Administrators and Guardian - Sale - Plan of Estates to be sold at Public Auction on Tuesday, April 23rd, 1867 at 3 1/2 P.M.",G1234.B6G46 P53 1871 no.151,,N.A. Thompson & Co.,,,"Map marked with handwritten notes. Original date (April 24, 1866) and auctioneer (S.A. Walker) crossed out and replaced with handwritten information.",
+42.35864,-71.05615,02_0153,"Boston, MA",1865-01-17,1867-05-15,"Plan of the Estate of the Late Andrew J. Allen, Deceased, Nos. 68, 70, and 72 State Street, Boston.",G1234.B6G46 P53 1871 no.153,Alexander Wadsworth,N.A. Thompson & Co.,Late Andrew J. Allen,Meisel Brothers Lith.,,
+42.34048,-71.07508,02_0154,"Boston, MA",1867-07-10,1867-08-06,Plan of Building Lots in Boston belonging to George A. Simmons.,G1234.B6G46 P53 1871 no.154,H.H. Moses,N.A. Thompson & Co.,George A. Simmons,Meisel Brothers Lith.,,
+42.35405,-71.05583,02_0155,"Boston, MA",1867-10-01,1867-10-01,Plan of Drake's Wharf,G1234.B6G46 P53 1871 no.155,J.F. Fuller,,,,pin is approximate,
+42.37804,-71.03442,02_0156,"Boston, MA",1867-01-01,1867-10-24,Plan of Building Lots Belonging to the East Boston Company,G1234.B6G46 P53 1871 no.156,John Noble,N.A. Thompson & Co.,East Boston Company,Meisel Brothers Lith.,,
+42.35359,-71.05847,02_0159,"Boston, MA",1868-03-25," April 9, 1868
+",[No title],,Alexander Wadsworth,Samuel Hatch & Co.,,,,
+42.3618,-71.05326,02_0161,"Boston, MA",1868-01-01,1868-04-16,Plan of Estates on Commercial and North Streets,,,N.A. Thompson & Co.,,,"See #161, Inset 2",
+42.36218,-71.05418,02_0161,"Boston, MA",1868-01-01,1868-04-16,Plan of Estates on Commercial and North Streets,,,N.A. Thompson & Co.,,,"See #161, Inset 1",
+42.34169,-71.07181,02_0163,"Boston, MA",1868-03-14," April 28, 1868
+",[No title],,J.F. Fuller,N.A. Thompson & Co.,,,,
+42.36266,-71.05246,02_0165,"Boston, MA",1868-04-24," May 6, 1868
+",Plan of Stores on Commercial and Fulton Streets,,Alexander Wadsworth,N.A. Thompson & Co.,,,,
+42.319549,-71.111559,03_0001L,"Boston, MA",,,Land at Jamaica Plain belonging to W. B. Blakemore,G1234.B6 C65 1915,,,,,,
+42.319549,-71.111559,03_0001R,"Boston, MA",,,Land at Jamaica Plain belonging to W. B. Blakemore,G1234.B6 C65 1915,,,,,dup of 03_0001L with notes on lots sold,
+"42.278133,",-71.123632,03_0002L,"Boston, MA",,,Plan of the Rowe Lot in West Roxbury belonging to George Brown,G1234.B6 C65 1915,Charles Whitney,,,,,
+42.283951,-71.120766,03_0002R,"Boston, MA",,,Plan of Land in West Roxbury owned by Mrs. Sarah E. Bradlee,G1234.B6 C65 1915,William A. Garbett,,,,,
+42.288192,-71.131352,03_0003L,"Boston, MA",,,"Plan of Land on Skinner Hill, Roslindale Ward 23, Boston",G1234.B6 C65 1915,,,,,,
+42.26476,-71.017638,03_0003R,"Boston, MA",,,"Plan of Land owned by the Quincy Land Company, Wollaston Heights",G1234.B6 C65 1915,Whitman and Breck,,,,,
+42.249272,-71.131062,03_0004L,"Boston, MA",,,Plan of Land in Hyde Park belonging to Gordon H. Nott,G1234.B6 C65 1915,,,,,,
+42.266992,-71.034166,03_0004R,"Boston, MA",,,"Plan of Property owned by the Bellevue Park Land Associates, Quincy",G1234.B6 C65 1915,William A. Garbett,,,,,
+,,03_0005L,"Boston, MA",,,Plan of House Lots at Cliftondale - cannot identify location - No city/town name present,G1234.B6 C65 1915,,,,,,
+,,03_0005R,"Boston, MA",,,Cannot identify location - No city/town name present,G1234.B6 C65 1915,,,,,,
+42.247317,-71.112687,03_0006L,"Boston, MA",,,Hyde Park and Fairmount in Dorchester and Milton,G1234.B6 C65 1915,,,,,,
+42.273489,-71.129437,03_0006R,"Boston, MA",,,"Land of Charles J. Page, Roslindale, Mass - Two copies same location",G1234.B6 C65 1915,E.W. Hencke,,,,,
+42.332948,-71.08319,03_0007L,"Boston, MA",,,"Plan of Building Lots at Roslindale, West Roxbury",G1234.B6 C65 1915,T. B. Moses,,,,,
+42.287071,-71.110555,03_0007R,"Boston, MA",,,"Boston Oct 17, 1874",G1234.B6 C65 1915,T. B. Moses,,,,,
+42.28117,-71.162102,03_0008L,"Boston, MA",,,"Plan of the Hay Estate, West Roxbury Station Owned Temple & Perham",G1234.B6 C65 1915,William A. Garbett,Whipple & Phipps,,,,
+,,03_0008R,"Boston, MA",,,"Boston Aug 12, 1872 - cannot identify location - No city/town name present",G1234.B6 C65 1915,William A. Garbett,,,,,
+"42.291698, ",-71.122392,03_0009L,"Boston, MA",,,President and Fellows of Harvard College,G1234.B6 C65 1915,J. Edwin Jones,,,,,
+42.392745,-71.034171,03_0009R,"Boston, MA",,,Plan of the Land of the Winnisimmet Co. and Others in Chelsea and Malden,G1234.B6 C65 1915,,,,,,
+"42.318353, ",-71.105782,03_0010L,"Boston, MA",,,"Plan of House Lots for Sale by George S. Curtis, Centre St, Jamaica Plain-only bottom plan of two mapped",G1234.B6 C65 1915,Garbett & Wood,Atwood & Weld,,,,
+"42.255572, ",-71.125904,03_0010R,"Boston, MA",,,Map of Hyde Park and Vicinity,G1234.B6 C65 1915,,,,,,
+"42.313523, ",-71.117034,03_0011L,"Boston, MA",,,Land Owned by Mrs. S.A. Dickson,G1234.B6 C65 1915,H. H .Moses,,,,,
+"42.321384, ",-71.104712,03_0011R,"Boston, MA",,,"West Roxbury, May 17, 1873",G1234.B6 C65 1915,T. B. Moses,,,,,
+42.308337,-71.111873,03_0012L,"Boston, MA",,,Plan of land to be sold at auction by J.D. Whipple in Jamaica Plain,G1234.B6 C65 1915,,,,,,
+42.289083,-71.134112,03_0012R,"Boston, MA",,,"Boston, May 27, 1892",G1234.B6 C65 1915,Garbett & Wood,,,,,
+,,03_0013L,"Boston, MA",,,Not mappable - no city/town name present,G1234.B6 C65 1915,,,,,,
+,,03_0013R,"Boston, MA",,,Not mappable - no city/town name present,G1234.B6 C65 1915,T. B. Moses,,,,,
+,,03_0014L,"Boston, MA",,,"Plan of land in Dorchester, Mass belonging to the Welles Estate - not mappable - no street names present",G1234.B6 C65 1915,Charles Breck,,Welles Estate,,,
+42.336895,-71.116068,03_0014R,"Boston, MA",,,Plan of lands owned by the Aspinwall Land Company in Brookline,G1234.B6 C65 1915,,,,,,
+42.277234,-71.167051,03_0015R,"Boston, MA",,,"Plan of the Garner Estate near Spring Street Station, Ward 23, Boston",G1234.B6 C65 1915,J. Edwin Jones,Barrows & White,,,,
+42.305949,-71.116436,03_0016R,"Boston, MA",,,"Plan of Side Hill, Jamaica Plain",G1234.B6 C65 1915,William A. Garbett,,,,,
+42.321538,-71.119566,03_0017R,"Boston, MA",,,"Plan of Land in Boston, Massachusetts Taken Dec. 24, 1892 for a Park ",G1234.B6 C65 1915,,,,,,
+,,03_0018L,"Boston, MA",,,Not mappable - no city/town name present,G1234.B6 C65 1915,H. T. Whitman,,,,,
+42.270316,-71.013236,03_0018R,"Boston, MA",,,"Wollaston Park, Old Colony Railroad",G1234.B6 C65 1915,Charles S. Miller,"Wood, Harmon & Co",,,,
+42.273323,-71.025144,03_0019L,"Boston, MA",,,Plan of Land at Quincy belonging to Caroline E. Wood,G1234.B6 C65 1915,John H. Rice,,,,,
+,,03_0019R,"Boston, MA",,,Plan of house lots situated on the west side of Hancock St - Not mappable - no city/town name present,G1234.B6 C65 1915,G.A.Dublin,,,,,
+42.274358,-71.026215,03_0020L,"Boston, MA",,,No title or description,G1234.B6 C65 1915,N. T. Whitman,,,,,
+42.273391,-71.026911,03_0020R,"Boston, MA",,,"No title or description except for ""lot numbers refer toa plan of ""Norfolk Down"", Quincy Mass, dated April 1892",G1234.B6 C65 1915,"Charles D. Elliot, Eng.",,,,,
+42.274543,-71.017746,03_0021R,"Boston, MA",,,"Norfolk Downs, Quincy, Mass.",G1234.B6 C65 1915,"Charles D. Elliot, Eng.",,,,,
+42.286649,-71.105325,03_0022L,"Boston, MA",,,No title or description,G1234.B6 C65 1915,J. Edwin Jones,,,,,
+42.286649,-71.105325,03_0022R,"Boston, MA",,,No title or description,G1234.B6 C65 1915,J. Edwin Jones,,,,,
+,,03_0023L,"Boston, MA",,,Not mappable - no city/town or street names present,G1234.B6 C65 1915,J. Edwin Jones,,,,,
+42.295953,-71.114935,03_0023R,"Boston, MA",,,"Three plans same area-one shown here: ""this is a part of plan of J. Edwin Jones, dated June 21, 1881""",G1234.B6 C65 1915,J. Edwin Jones,,,,,
+42.296071,-71.116024,03_0024L,"Boston, MA",,,"Subdivision of Lot 1 on plan of J. Edwin Jones, June 8 1881",G1234.B6 C65 1915,J. Edwin Jones,,,,,
+42.296074,-71.116064,03_0024R,"Boston, MA",,,Plan of Land at Jamaica Plain near Forest Hills Station belonging to heirs of Joseph M. Weld,G1234.B6 C65 1915,J. Edwin Jones,,,,,
+42.315326,-71.081808,03_0025L,"Boston, MA",,,Plan of Part of the Land of the Estate of J.M. Weld - location is questionable-no cross streets,G1234.B6 C65 1915,,,,,,
+42.299101,-71.113985,03_0025R,"Boston, MA",,,No title or description,G1234.B6 C65 1915,J. Edwin Jones,,,,,
+42.298425,-71.113218,03_0026L,"Boston, MA",,,Plan of Part of the Land of the Estate of J.M. Weld - Forest Hills,G1234.B6 C65 1915,J. Edwin Jones,,,,,
+42.295932,-71.116132,03_0026R,"Boston, MA",,,Part of Land at Jamaica Plain near Forest Hills Station Belonging to the Heirs of Joseph M. Weld,G1234.B6 C65 1915,J. Edwin Jones,,,,,
+42.297526,-71.111945,03_0027L,"Boston, MA",,,No title or description,G1234.B6 C65 1915,J. Edwin Jones,,,,,
+42.276181,-71.093027,03_0027R,"Boston, MA",,,Plan of Building Lots at Mattapan to be sold at public auction,G1234.B6 C65 1915,,Lewis J. Bird & Co.,,,,
+42.319536,-71.11159,03_0028L,"Boston, MA",,,Land at Jamaica Plain belonging to W. B. Blakemore,G1234.B6 C65 1915,"Ernest W. Bowditch, Engineer",,,,,
+42.273788,-71.14793,03_0028R,"Boston, MA",,,Plan of Land in West Roxbury belonging to Wm. B. Blakemore,G1234.B6 C65 1915,J. Edwin Jones,,,,,
+42.286181,-71.154987,03_0029L,"Boston, MA",,,Plan of Land in West Roxbury belonging to William B. Blakemore,G1234.B6 C65 1915,J. Edwin Jones,,,,,
+42.294761,-71.158287,03_0029R,"Boston, MA",,,Plan of Land in West Roxbury owned by Wm. B. Blakemore (Joy Farm),G1234.B6 C65 1915,J. Edwin Jones,,,,,
+42.276572,-71.139182,03_0030L,"Boston, MA",,,Plan of Lots in West Roxbury belonging to Wm. B. Blakemore,G1234.B6 C65 1915,J. Edwin Jones,,,,,
+42.276572,-71.139182,03_0030R,"Boston, MA",,,Duplicate of 03_0029L - Plan of Lots in West Roxbury belonging to Wm. B. Blakemore,G1234.B6 C65 1915,J. Edwin Jones,,,,,
+42.360774,-71.130534,03_0031L,"Boston, MA",,,Plan of Land in Allston belonging to William B. Blakemore,G1234.B6 C65 1915,J. Edwin Jones,,,,,
+42.316311,-71.112095,03_0031R,"Boston, MA",,,"Plan of Robinwood, Jamaica Plain Mass",G1234.B6 C65 1915,"Joseph H. Curtis, Landscape Architect",,,,,
+42.320054,-71.103974,03_0032R,"Boston, MA",,,"Plan of land in Boston Highlands, owned by Thomas",G1234.B6 C65 1915,Garbett & Wood,,,,,
+41.663641,-70.618261,03_0033L,"Boston, MA",,,Cataumet Grove and Shore Co's Lands at Cataumet,G1234.B6 C65 1915,,,,,,
+42.128556,-70.912436,03_0033R,"Boston, MA",,,"Plan of House Lots in Rockland, Mass drawn for J.F. McKayu, Esq.",G1234.B6 C65 1915,"Chas. W. Howland, C.E.",,,,,
+42.383823,-71.100852,03_0034L,"Boston, MA",,,Plan of Building Lots in Somerville belonging to George W. Ireland,G1234.B6 C65 1915,"Charles D. Elliot, Eng.",,,,,
+42.305152,-71.106197,03_0034R,"Boston, MA",,,Plan of Land of the Parkinson Real Estate Trust,G1234.B6 C65 1915,J. Edwin Jones,,,,,
+42.236991,-71.148938,03_0035L,"Boston, MA",,,Plan of Building Lots at Ashcroft Heights in Dedham,G1234.B6 C65 1915,Chas. A. Pearson,,,,,
+42.263983,-71.101037,03_0035R,"Boston, MA",,,"Blue Hill Terrace Co. J.B.L. Bartlett, Treas.",G1234.B6 C65 1915,Chas. C. Richardson,,,,,
+42.319015,-71.103562,03_0036L,"Boston, MA",,,Plan of Land belonging to Miss A. M. Amory,G1234.B6 C65 1915,Garbett & Wood,J. K. Porter & Co.,,,,
+42.284789,-71.152812,03_0037R,"Boston, MA",,,Plan of Land in West Roxbury the Property of William B.Blakemore,G1234.B6 C65 1915,J. Edwin Jones,,,,,
+42.290744,-71.140242,03_0038R,"Boston, MA",,,"Plan of Part of the Bradford Estate, Roslindale (Ward 23), Boston",G1234.B6 C65 1915,Chas. H. W. Wood,,,,,
+42.304892,-71.114594,03_0039R,"Boston, MA",,,Plan of Land of the Jamaica Plain Land Co.,G1234.B6 C65 1915,J. Edwin Jones,L. L. P. Atwood & Co.,,,,
+42.286688,-71.131772,03_0040L,"Boston, MA",,,Plan of Building Lots at Roslindale ,G1234.B6 C65 1915,T. B. Moses,,,,,
+42.371885,-71.198696,03_0040R,"Boston, MA",,,"Plan of West Watertown, Watertown, Mass.",G1234.B6 C65 1915,J. A. Latham,"Wood, Harmon & Co",,,,
+42.310318,-71.067755,03_0041L,"Boston, MA",,,Plan of Buiding Lots in Dorchester,G1234.B6 C65 1915,L. Briggs & Co.,,,,,
+42.277993,-71.12363,03_0041R,"Boston, MA",,,"Brook at Canterbury St near Poplar St., West Roxbury",G1234.B6 C65 1915,,,,,,
+42.284941,-71.118735,03_0042L,"Boston, MA",,,"Copy of Plan Recorded with Suffolk Deeds, March 14, 1887",G1234.B6 C65 1915,Theo. B. Moses,,,,,
+,,03_0042R,"Boston, MA",,,"Unable to find locations -Two Plans: Land in South Boston leased to George O. Murch & Co.,Top Plan and Jamaica Plain, June 15, 1897, Bottom Plan",G1234.B6 C65 1915,L. B. Bealewell; W.C. Bates,,,,,
+42.314054,-71.216009,03_0043L,"Boston, MA",,,Plan of Building Lots Newton Highlands for Sale by Brown & Collins,G1234.B6 C65 1915,,Brown & Collins,,,,
+42.3681,-71.08382,03_0043R,"Boston, MA",,,"Boston Harbor, Mass. Map of Charles River ",G1234.B6 C65 1915,,,,,,
+42.290274,-71.089279,03_0044L,"Boston, MA",,,Plan of Land in Dorchester situated on Blue Hill Ave. Franklin Field owned by John Kelly,G1234.B6 C65 1915,,L. Foster Morse,,,,
+42.286833,-71.160445,03_0044R,"Boston, MA",,,"No title or description - Jamaica Plain, Jan. 20 1898 ",G1234.B6 C65 1915,W. C. Bates,,,,,
+,,03_0045L,"Boston, MA",,,"No title or description - Boston, Jan 14 1869 - Not mappable - no city/town or street names present",G1234.B6 C65 1915,William A. Garbett,,,,,
+42.461379,-71.009664,03_0045R,"Boston, MA",,,"Plan of Land in Saugus, Mass. belonging to Benj. F. Robinson",G1234.B6 C65 1915,L. G. Hawkes,,,,,
+42.463306,-71.009791,03_0046R,"Boston, MA",,,Plan of Land in Saugus belonging to William H. Lowe,G1234.B6 C65 1915,Walter C. Stevens,,,,,
+42.281846,-71.120637,03_0047L,"Boston, MA",,,No title or description - location is approximate,G1234.B6 C65 1915,,,,,,
+42.392163,-71.169814,03_0047R,"Boston, MA",,,Plan of Lots at Belmont owned by William R. Gray,G1234.B6 C65 1915,"E. A. W. Hammett, C.E.",,,,,
+42.332509,-71.08897,03_0048L,"Boston, MA",,,Plan of Lots on Mahan Avenue - unable to locate this or surrounding streets - location is approximate,G1234.B6 C65 1915,Garbett & Wood,,,,,
+42.303165,-71.115726,03_0048R,"Boston, MA",,,"Plan of Property of the Arboretum Land Company, Boston, Mass.",G1234.B6 C65 1915,"French and Bryant, Civil Engineers",,,,,
+,,03_0049R,"Boston, MA",,,Not possible to map. This is an overall state map entitled: Outline Map of Massachusetts showing population according to United States Census of 1890 and Congressional Districts,G1234.B6 C65 1915,,,,,,
+42.415789,-71.022192,03_0050L,"Boston, MA",,,"No title or description - Revere, Mass. - Location is approximate",G1234.B6 C65 1915,C. J. Whitman,,,,,
+42.311095,-71.116857,03_0050R,"Boston, MA",,,"Plan of Land belonging to Sarah L. James, Jamaica Plain",G1234.B6 C65 1915,Chas. H. W. Wood,,,,,
+,,03_0051L,"Boston, MA",,,Not possible to map. No street names present. Plan of Land in the City of Boston taken from William J. Miller by the Old Colony Railroad,G1234.B6 C65 1915,J. W. Rollins Jr. Res Eng,,,,,
+42.286577,-71.113796,03_0051R,"Boston, MA",,,"No title or description - Boston, Oct. 17 1874 - Location is approximate",G1234.B6 C65 1915,T. B. Moses,,,,,
+42.323551,-71.268938,03_0052L,"Boston, MA",,,"Plan of Villa Lots owned by Wellesley Park Trust, Wellesley, Mass. ",G1234.B6 C65 1915,"Frederick R. Page, C. E.",L. L. Patwood,,,,
+42.277282,-71.126916,03_0052R,"Boston, MA",,,Plan of Lands in Boston & Hyde Park belonging to the Metropolitan Land Company,G1234.B6 C65 1915,Geo L. Richardson,,,,,
+42.279354,-71.151196,03_0053L,"Boston, MA",,,"Plan of Bellevue, West Roxbury",G1234.B6 C65 1915,"Brown & Hastings, Engineers",,,,,
+42.28387,-71.084261,03_0053R,"Boston, MA",,,No title or description - location is approximate,G1234.B6 C65 1915,,,,,,
+42.429179,-71.076513,03_0054L,"Boston, MA",,,"Plan of the Estate of Chas. M. Holmes in Malden Center, Mass - location is approximate",G1234.B6 C65 1915,Jos H. Curtis,,,,,
+,,03_0054R,"Boston, MA",,,"Not possible to map. No title or description. Only one street name present - location is approximate, appears to be in Malden",G1234.B6 C65 1915,,,,,,
+42.311942,-71.103753,03_0055L,"Boston, MA",,,No title or description - location is approximate in Jamaica Plain,G1234.B6 C65 1915,,,,,,
+42.311942,-71.103753,03_0055R,"Boston, MA",,,Duplicate of 03_0055L. No title or description - location is approximate in Jamaica Plain,G1234.B6 C65 1915,,,,,,
+42.391897,-71.119301,03_0056L,"Boston, MA",,,"Plan of valuable house lots in Somerville, Mass. near North Ave. ",G1234.B6 C65 1915,W. A. Mason,,,,,
+,,03_0056R,"Boston, MA",,,Not possible to map. Only one street name present and no city/town description.  Plan of Land of Baily L. Page,G1234.B6 C65 1915,,,,,,
+42.305018,-71.116452,03_0057L,"Boston, MA",,,Lots on Jamaica and Johnston Sts. Jamaica Plain to be sold at public auction,G1234.B6 C65 1915,J. Edwin Jones,R. S. Barrows,,,,
+,,03_0057R,"Boston, MA",,,Not possible to map. No title or description - only one street name and no city/town description present,G1234.B6 C65 1915,B. F. Goodnough,,,,,
+,,03_0058L,"Boston, MA",,,Not possible to map. No street names present. Copy of a plan of land laying in Roxbury belonging to Mr. Ebenezer Wells.,G1234.B6 C65 1915,Thomas M. Moseley,,,,,
+,,03_0058R,"Boston, MA",,,Not possible to map. No street names present. Plan of land laying in Roxbury belonging to Mr. Ebenezer Wells.,G1234.B6 C65 1915,Thomas M. Moseley,,,,,
+,,03_0059L,"Boston, MA",,,Not possible to map. No street names present. No city/town names present. Plan by William A. Garbett,G1234.B6 C65 1915,,,,,,
+42.286211,-71.155252,03_0059R,"Boston, MA",,,"No title or description. Roxbury, Nov. 6 1864 - location is approximate",G1234.B6 C65 1915,J. B. Moses,,,,,
+42.278108,-71.123635,03_0060L,"Boston, MA",,,"Plans and sketches relating to lands on and about Ashland St., Brown Ave., Canterbury St., Rowe St., Sharon St., Roslindale",G1234.B6 C65 1915,Charles Whitney,,,,,
+42.39118,-71.169759,03_0061R,"Boston, MA",,,No title or description. Location is approximate and appears to be in Belmont,G1234.B6 C65 1915,,,,,,
+42.284325,-71.12074,03_0062L,"Boston, MA",,,Plan of Land in West Roxbury owned by Mrs. Sarah E. Bradlee - location is approximate,G1234.B6 C65 1915,William A. Garbett,,,,,
+42.281813,-71.120734,03_0062R,"Boston, MA",,,"No title or description - Geo Brown to Joseph Libbey, July 1st, 1856 - location is approximate in Roslindale",G1234.B6 C65 1915,,,,,,
+,,03_0063L,"Boston, MA",,,"Not possible to map. Street names present but no cross streets. No city/town names present. No title or description - James Howard to Robert Seaver, Robert Seaver to Mary E Parker -",G1234.B6 C65 1915,,,,,,
+,,03_0063R,"Boston, MA",,,Not possible to map. Street names present but no cross streets. No city/town names present. No title or description - George Brown's other land. ,G1234.B6 C65 1915,,,,,,
+42.278127,-71.123632,03_0065L,"Boston, MA",,,No title or description. Location is approximate in Roslindale,G1234.B6 C65 1915,,,,,,
+42.282748,-71.160767,03_0066L,"Boston, MA",,,Plan No. 2 Lots of Land in West Roxbury belonging to Charles G. Mackintosh,G1234.B6 C65 1915,Nathaniel Smith,,,,,
+42.282748,-71.160767,03_0066R,"Boston, MA",,,Plan of Land in West Roxbury belonging to Judson Chapin and others,G1234.B6 C65 1915,Nathaniel Smith,,,,,
+42.287318,-71.133698,03_0067R,"Boston, MA",,,No title or description. Location is approximate in Roslindale,G1234.B6 C65 1915,Chas H. W. Wood,,,,,
+42.288418,-71.132069,03_0068L,"Boston, MA",,,No title or description. Location is approximate in Roslindale,G1234.B6 C65 1915,T. B. Moses,,,,,
+42.317812,-71.112732,03_0069R,"Boston, MA",,,No title or description. Location is approximate in Jamaica Plain,G1234.B6 C65 1915,F. R. Page,,,,,
+,,03_0070R,"Boston, MA",,,"Not possible to map. No street names present.  Sketch of lands in Marshfield, Mass owned by George W. Ireland (now deceased)",G1234.B6 C65 1915,,,,,,
+42.134258,-70.693439,03_0071R,"Boston, MA",,,Copy of building lots at Ferry Hill - Marshfield - Location is approximate. Many street names but none are current except for Ferry St.,G1234.B6 C65 1915,H. G. Reed,,,,,
+42.138685,-70.69542,03_0072R,"Boston, MA",,,Plan of building lots in Marshfield on Ferry Hill - Location is approximate. No street names are current. ,G1234.B6 C65 1915,H. G. Ford,,,,,
+42.288031,-71.136644,03_0073R,"Boston, MA",,,"Plan of house lots on the Bradford Estate, Roslindale, Mass.",G1234.B6 C65 1915,,,,,,
+42.288418,-71.132069,03_0074L,"Boston, MA",,,Plan is a duplicate of 03_0068L No title or description. Location is approximate in Roslindale,G1234.B6 C65 1915,T. B. Moses,,,,,
+42.288031,-71.136644,03_0074R,"Boston, MA",,,No title or description. Location is approximate in Roslindale,G1234.B6 C65 1915,Chas H. W. Wood,,,,,
+42.287686,-71.13269,03_0075L,"Boston, MA",,,No title or description. Location is approximate in Roslindale,G1234.B6 C65 1915,,,,,,
+42.310691,-71.103265,03_0076R,"Boston, MA",,,No title or description. Location is approximate in Jamaica Plain,G1234.B6 C65 1915,W. C. Bates,,,,,
+42.139153,-70.69771,03_0077R,"Boston, MA",,,Plan of building lots in Marshfield on Ferry Hill ,G1234.B6 C65 1915,H. G. Ford,,,,,
+42.176213,-71.206976,03_0078R,"Boston, MA",,,"Plan of house lots in Norwood, Mass. Near Winslow Station",G1234.B6 C65 1915,"Robt. Rogers, Eng.",,,,,
+42.289846,-71.114248,03_0079L,"Boston, MA",,,Plan of two lots situated in Roxbury - location is approximate - only one street shown; no cross-street,G1234.B6 C65 1915,Thomas M. Moseley,,,,,
+42.289846,-71.114248,03_0079R,"Boston, MA",,,Plan of two lots situated in Roxbury - location is approximate - only one street shown; no cross-street,G1234.B6 C65 1915,Thomas M. Moseley,,,,,
+42.467172,-70.924808,03_0080R,"Boston, MA",,,"Plan of house lots owned by George Warner, Edward S. Newhall and George H. Robie in Lynn, Mass.",G1234.B6 C65 1915,F. H. Eastman,,,,,
+42.321066,-71.110561,03_0082R,"Boston, MA",,,"Plan of the estate of Wm. P. Gould, Jamaica Plain",G1234.B6 C65 1915,J. Edwin Jones,,,,,
+"42.431333, ",-71.02659,03_0083R,"Boston, MA",,,Plan of land in Malden and Revere belonging to the Linden Land Company,G1234.B6 C65 1915,,,,,,
+42.286462,-71.117804,03_0084L,"Boston, MA",,,"No title or description - West Roxbury, Dec. 4, 1873",G1234.B6 C65 1915,T. B. Morse,,,,,
+42.289906,-71.114283,03_0084R,"Boston, MA",,,"Plan of a lot of land situated in Roxbury belonging to L. M. Sargent, Esq.- location is approximate; no cross st. shown",G1234.B6 C65 1915,Thomas M. Moseley,,,,,
+,,03_0085L,"Boston, MA",,,Not possible to map. No street names present; no city/town names present.,G1234.B6 C65 1915,Charles Whitney,,,,,
+42.261089,-71.140044,03_0085R,"Boston, MA",,,"Location approximate - Land of Ebenezer Weld on continuation of Florence St., West Roxbury",G1234.B6 C65 1915,T. B. Moses,,,,,
+,,03_0086L,"Boston, MA",,,Not possible to map - no cross streets- Plan of land belonging to Ellen M. Mayo in West Roxbury - ,G1234.B6 C65 1915,Charles Whitney,,,,,
+42.261089,-71.140044,03_0086R,"Boston, MA",,,"Duplicate of 03_0085R - Location approximate - Land of Ebenezer Weld on continuation of Florence St., West Roxbury",G1234.B6 C65 1915,T. B. Moses,,,,,
+42.285565,-71.120103,03_0087L,"Boston, MA",,,Copy of Plan recorded Lib 1748 Fol 347 Suffolk Registry of Deeds,G1234.B6 C65 1915,T. B. Moses,,,,,
+42.289906,-71.114283,03_0087R,"Boston, MA",,,"Duplicate of 03_00884R - Plan of a lot of land situated in Roxbury belonging to L. M. Sargent, Esq.- location is approximate; no cross st. shown",G1234.B6 C65 1915,Thomas M. Moseley,,,,,
+42.285534,-71.118989,03_0088R,"Boston, MA",,,"No title or description - Boston, September 28th, 1886",G1234.B6 C65 1915,T. B. Moses,,,,,
+42.386016,-71.109914,03_0089L,"Boston, MA",,,"Copy of 03_0090L - Plan of building lots in Somerville, Mass. surveyed for Joseph J. Giles - two plans",G1234.B6 C65 1915,"Geo. A. Kimball, Civil Engineer",,,,,
+42.385223,-71.109207,03_0089R,"Boston, MA",,,Plan of estate in Somerville surveyed for Joseph J. Giles,G1234.B6 C65 1915,"Charles D. elliot, Engineer and Surveyor",,,,,
+42.386016,-71.109914,03_0090L,"Boston, MA",,,"Original of 03_0089L - Plan of building lots in Somerville, Mass. surveyed for Joseph J. Giles - two plans",G1234.B6 C65 1915,"Geo. A. Kimball, Civil Engineer",,,,,
+42.31833,-71.112333,03_0091R,"Boston, MA",,,"Plan of house lots located at Spring Park, Jamaica Plain",G1234.B6 C65 1915,T. B. Moses,,,,,
+42.314828,-71.097424,03_0092L,"Boston, MA",,,"No title or description - Boston, April 1, 1899",G1234.B6 C65 1915,T. B. Moses,,,,,
+42.284802,-71.15281,03_0093L,"Boston, MA",,,Plan of land in West Roxbury owned by William B. Blakemore,G1234.B6 C65 1915,J. Edwin Jones,,,,,
+42.284802,-71.15281,03_0093R,"Boston, MA",,,"Plan of land in West Roxbury owned by William B. Blakemore - survey of same general area, larger scale",G1234.B6 C65 1915,J. Edwin Jones,,,,,
+42.290551,-71.132562,03_0094R,"Boston, MA",,,Plan of land at Roslindale belonging to the Institution for Savings in Roxbury and Vicinity,G1234.B6 C65 1915,Nathan Smith,,,,,
+42.273734,-71.126841,03_0095R,"Boston, MA",,,"No title or description - surveyed February 6, 1847 - approximate location is in Roslindale",G1234.B6 C65 1915,Charles Whitney,,,,,
+42.27227,-71.131597,03_0096R,"Boston, MA",,,"Roslin Hills, West Roxbury, September 30, 1865 - location is approximate",G1234.B6 C65 1915,T. B. Moses,,,,,
+42.275098,-71.127308,03_0097R,"Boston, MA",,,Plan of building lots at Roslin Hills - location is approximate,G1234.B6 C65 1915,Chas. H. Park,,,,,
+42.34268,-71.090146,03_0098L,"Boston, MA",,,"Plan of Land to be sold by public auction on the premises on Wednesday, April 9th",G1234.B6 C65 1915,"William H. Whitney, Civil Engineer and Surveyor",,,,,
+42.335927,-71.10052,03_0098R,"Boston, MA",,,"Plan of Land to be sold by public auction on the premises on Wednesday, April 9th",G1234.B6 C65 1915,"William H. Whitney, Civil Engineer and Surveyor",S.R Knights and Co.,,,,
+42.38062,-71.1412,03_0099L,"Boston, MA",,,Plan of Land in Cambridge property of Howard National Bank,G1234.B6 C65 1915,"William H. Whitney, Civil Engineer and Surveyor",S.R Knights and Co.,,,,
+42.294129,-71.116136,03_0099R,"Boston, MA",,,Plan of Land at Forest Hills for sale by Hosford and Williams,G1234.B6 C65 1915,"Aspinwall and Lincoln, Civil Engineers",,,,,
+42.271024,-71.166017,03_0100R,"Boston, MA",,,"No title or description - Boston, September 30,1892 - location is in West Roxbury",G1234.B6 C65 1915,Garrett & Wood,,,,,
+42.139165,-70.697878,03_0101R,"Boston, MA",,,"Plan of building lots in Marshfield, Mass on Ferry Hill owned by Geo. W. Ireland",G1234.B6 C65 1915,H. G. Ford,,,,,
+42.306685,-71.107549,03_0102R,"Boston, MA",,,"No title or description - Jamaica Plain, May 16th, 1883",G1234.B6 C65 1915,J. Edwin Jones,,,,,
+42.311932,-71.112734,03_0103R,"Boston, MA",,,Plan of land in Jamaica Plain - Jamaica Plain Real Estate Trust,G1234.B6 C65 1915,"W. C. Bates, Civil Engineer",,,,,
+42.314826,-71.097416,03_0104R,"Boston, MA",,,"No title or description - Boston, April 15, 1899",G1234.B6 C65 1915,H. H. Moses,,,,,
+42.454932,-70.989639,03_0105R,"Boston, MA",,,Plan of lots for sale on the Ballard Farm at East Saugus,G1234.B6 C65 1915,,Charles A. Fiske - Saugus or Joseph Ballard - Boston,,,,
+42.389236,-71.001742,03_0106R,"Boston, MA",,,"Plan of Orient Heights, Boston Mass, Property of Boston Land Co., 1894 - Page also contains a second survey showing  Section A of Orient Heights. Only first, colored overall plan georeferenced here.",G1234.B6 C65 1915,"H. T Whitman, Civil Engineer",Lewis J. Bird & Co. J. L. Nason & Co. S. R. Knights & Co. and several other associalte auctioneers,,,,
+42.310028,-71.103845,03_0107R,"Boston, MA",,,"No title or description - Boston, April 9, 1896",G1234.B6 C65 1915,"Wm. H Whitney, Civil Engineer and Surveyor",,,,,
+42.287439,-71.132485,03_0108R,"Boston, MA",,,Plan of the E. M. Dudley Estate - Roslindale - location is approximate,G1234.B6 C65 1915,"W. C. Bates, Civil Engineer",,,,,
+42.285502,-71.120301,03_0109R,"Boston, MA",,,Plan of land in West Roxbury owned by J. E. Blakemore - location is approximate,G1234.B6 C65 1915,J. B. Moses,,,,,
+,,03_0110R,"Boston, MA",,,"Unable to map, no cross streets - Plan of land in Hyde Park belonging to Conrad Wm. Myers ",G1234.B6 C65 1915,"W. C. Bates, Civil Engineer",,,,,
+42.312669,-71.121842,03_0111R,"Boston, MA",,,"Plan of land in Jamaica Plain, March 1911",G1234.B6 C65 1915,"James Adam, Civil Engineer",,,,,
+42.283339,-71.131342,03_0112R,"Boston, MA",,,"Plan of land in Roslindale, Boston Mass, belonging to Max B. and Agnes B. Ziergiebel",G1234.B6 C65 1915,"W. C. Bates, Civil Engineer",,,,,
+42.286727,-71.153669,03_0115R,"Boston, MA",,,"Plan of house lots near Highland Station, Ward 23 Boston,  Sept. 1883",G1234.B6 C65 1915,Whitman & Breck,O. H. Weed,,,,
+42.305018,-71.116452,03_0116R,"Boston, MA",,,Duplicate of 03_0057L - Lots on Jamaica and Johnston Sts. Jamaica Plain to be sold at public auction,G1234.B6 C65 1915,J. Edvin Jones,R. S.Barrows,,,,
+42.275188,-71.161577,03-0060R,"Boston, MA",,,"Land of Mrs. Mary E. Parker, West Roxbury, Mass. Location is approximate. No cross streets",G1234.B6 C65 1915,"Alexis H. French, C.E.",,,,,
+42.282748,-71.160767,03-0065R,"Boston, MA",,,Plan of Land in West Roxbury belonging to J. Webber and others,G1234.B6 C65 1915,Chas Whitney,,,,,
+42.35,-71.08,G3764.B6:2B2 1882 .P5x,"Back Bay (Boston, MA)",1852,,Plan of Back Bay and vicinity,,,,,,,http://maps.bpl.org/id/12933
+,,G3764.B6 1870 .P53,"Boston, MA",1870,,"Plan of Gray's Wharf, to be sold at public auction, on the premises, on Thursday April 28th 1870 at 12 o'clock noon",,,,,,,http://maps.bpl.org/id/11036
+,,G3764.B6 1856 .P53,"Boston, MA",1856,,"Plan of building lots on Washington, Waltham & Parker Streets and Harrison Avenue, belonging to the Boston Lying-In Hospital Corporation",,,,,,,http://maps.bpl.org/id/11037
+,,G3764.B6 1856 .P53,"Boston, MA",1856,,"Plan of the Coffin Estate, corner of Summer and Chauncy Streets",,,,,,,http://maps.bpl.org/id/11038
+,,G3764.B6 1870 .W33,"Boston, MA",1870,,"Plan of estate, nos 1043 to 1059 Washington Street, Boston, belonging to the heirs of the late William Brigham",,"Wadsworth, Alexander",,,,,http://maps.bpl.org/id/11039
+,,G3764.B6 1870 .W331,"Boston, MA",1870,,Plan of the Hutchinson Estate on the corner of Hanover & Clark Streets,,"Wadsworth, Alexander",,,,,http://maps.bpl.org/id/11040
+,,G3764.B6 1869 .P53,"Boston, MA",1869,,Plan of the estates nos. 246 to 252 Congress corner of Purchase Street and nos. 59 to 69 Purchase Street,,,,,,,http://maps.bpl.org/id/11041
+,,G3764.B6 1865 .W33,"Boston, MA",1865,,"Plan of real estate on Cambridge Street near Bowdoin Square, belonging to the heirs of the late Deacon Moses",,"Wadsworth, Alexander",,,,,http://maps.bpl.org/id/11042
+,,G3764.B6 1869 .P531,"Boston, MA",1869,,Plan of land on Bedford and Avon Streets belonging to the proprietors of the Second Church in Boston,,,,,,,http://maps.bpl.org/id/11043
+,,G3764.B6 1847 .W33,"Boston, MA",1847,,"Plan of an estate in High St. to be sold at auction Sat. May 1st 1847 at 12 o'clock on the premises by Whitwell, Seaver & Co. auctioneers",,"Wadsworth, Alexander",,,,,http://maps.bpl.org/id/11044
+,,G3764.B6 1856 .W33,"Boston, MA",1856,,Plan of the estate on the southerly corner of Washington and Franklin Streets,,"Wadsworth, Alexander",,,,,http://maps.bpl.org/id/11045
+,,G3764.B6 1857 .W33,"Long Wharf (Boston, MA)",1857,,"Plan of a portion of the properties of the Long Wharf or Boston Pier & Central Wharf & Wet Dock Corporatins, showing sixteen warehouse lots of land",,"Wadsworth, Alexander",,,,,http://maps.bpl.org/id/11046
+,,G3764.B6:2B2G46 1871 .P5x,"Boston, MA",1871,,Plan of lands belonging to the Commonwealth of Massachusetts,,,,,,,http://maps.bpl.org/id/12109
+,,G3764.B6:2S6G46 1850 .B67x,"Boston, MA",1850,,Plan of city lands to be sold Oct. 30th 1850,,,,,,,http://maps.bpl.org/id/12110
+,,G3764.B6:2S5G46 1850 .W3x,"South Boston (Boston, MA)",1850,,[Plan of lots in South Boston],,Boston (Mass.). Engineering Dept.,,,,,http://maps.bpl.org/id/12115
+,,G3764.B6:2S5G46 1857 .B67x,"South Boston (Boston, MA)",1857,,"Plan of two lots of valuable land in Washington Village, South Boston",,Boston (Mass.). Engineering Dept.,,,,,http://maps.bpl.org/id/12116
+,,G3764.B6G46 1871 .P5x,"Boston, MA",1871,,"Plan of estates nos. 13-17 Oliver Street, to be sold by public auction on Wednesday April 12th 1871 at 12 o'clock m. on the premesis, by order of Thomas Bancroft, executor of the late Aaron Bancrofts Estate",,,,,,,http://maps.bpl.org/id/12117
+,,G3764.B6G46 1851 .W5x,"Boston, MA",1851,,"Plan of estates on Beacon St., Somerset St. & Pemberton Square",,Whitwell & Henck,,,,,http://maps.bpl.org/id/12119
+,,G3764.B6 1850 .B67x,"Boston, MA",1850-1875,,A plan of 8 lots of city land known as the Arsenal Lot,,,,,,,http://maps.bpl.org/id/12121
+,,G3764.B6G46 1844 .H5x,"Boston, MA",1844,,"Real estate on Milk & Oliver Sts. belonging to the Boston Mang. Co. & Merrimack Mang. Co. to be sold on Friday, March 15th 1844 12 o'clock m. by Whitwell Seaver & Co",,"Higginson, Waldo",,,,,http://maps.bpl.org/id/12122
+,,G3764.B6G46 1843 .W3x,"Boston, MA",1843,,"[Plan of lots on Beacon Street and Somerset Court, Boston]",,"Wadsworth, Alexander",,,,,http://maps.bpl.org/id/12123
+,,G3764.B6:2W3G46 1836 .W3x,"West End (Boston, MA)",1836,,Plan of land & wharves belonging to Mill Pond Wharf Co. near Bartons Point,,"Wadsworth, Alexander",,,,,http://maps.bpl.org/id/12124
+,,G3764.B6G46 1841 .W3x,"Boston, MA",1841,,"Plan of the estate of the late Joseph Head Esq. to be sold at auction, Oct. 8th 1841",,"Wadsworth, Alexander",,,,,http://maps.bpl.org/id/12125
+,,G3764.B6G46 1855 .B8x,"Boston, MA",1855,,Plan of Mercantile Wharf property in Boston Mass,,"Bryant, J. G. F.",,,,,http://maps.bpl.org/id/12126
+,,G3764.B6G46 1853 .L5x,"Boston, MA",1853,,"Plan of Quincy House lot, corner of Brattle St. and Brattle Sq. belonging to the estate of Josiah Quincy Jr",,"Lincoln, Ezra",,,,,http://maps.bpl.org/id/12127
+,,G3764.B6G46 1853 .B7,"Boston, MA",1853,,"Plan of City Wharf in Boston, Mass",,"Bryant, Gridley James Fox",,,,,http://maps.bpl.org/id/12128
+,,G3764.B6G46 1858 .W3x,"Boston, MA",1858,,Plan of the Federal St. Meeting House estate,,"Wadsworth, Alexander",,,,,http://maps.bpl.org/id/12129
+,,G3764.B6G46 1850 .W5x,"Boston, MA",1850,,Plan of the old Julien estate,,"Wadsworth, Alexander",,,,,http://maps.bpl.org/id/12130
+,,G3764.B6G46 1855 .P5x,"Boston, MA",1855,,"Plan of the Pratt estate, corner of Summer & Hawley Streets",,,,,,,http://maps.bpl.org/id/12131
+,,G3764.B6:2B3G46 1843 .P5x,"Beacon Hill (Boston, MA)",1843,,[Plan of residences on Park Street in Boston],,,,,,,http://maps.bpl.org/id/12132
+,,G3764.B6G46 1843 .P5x,"Boston, MA",1843,,Plan of Bishop Parker's estate Bedford Street,,,,,,,http://maps.bpl.org/id/12133
+,,G3764.B6G46 1853 .P5x,"Boston, MA",1853,,[Plan of the Gore Estate at the corner of Pitts and Green streets],,,,,,,http://maps.bpl.org/id/12134
+,,G3764.B6:2B3G46 1845 .W3x,"Beacon Hill (Boston, MA)",1845,,[Plan of lots between Mount Vernon and Pinckney Streets in Boston],,"Wadsworth, Alexander",,,,,http://maps.bpl.org/id/12135
+,,G3764.B6G46 1865 .W3x,"Boston, MA",1865,,Plan of the Brooks estate corner of Court & Washington Street,,"Wadsworth, Alexander",,,,,http://maps.bpl.org/id/12136
+,,G3764.B6:2C45G46 1842 .P5x,"Chinatown (Boston, MA)",1842,,"[Plan of lots in Chinatown, between Broad and Front Streets, and Beach and Orange Streets, Boston]",,,,,,,http://maps.bpl.org/id/12137
+,,G3764.B6:2C45G46 1861 .W3x,"Chinatown (Boston, MA)",1861,,"[Plan of lots on Pine Street, Boston, between Washington and Front Streets]",,"Wadsworth, Alexander",,,,,http://maps.bpl.org/id/12138
+,,G3764.B6:2N5G46 1853 .L5x,"North End (Boston, MA)",1853,,Plan of store lots near Haymarket Square,,"Lincoln, Ezra",,,,,http://maps.bpl.org/id/12139
+,,G3764.B6G46 1844 .W3x,"Boston, MA",1844,,"[Plan of lots for sale on Morton and Milk Streets, Boston]",,"Wadsworth, Alexander",,,,,http://maps.bpl.org/id/12141
+,,G3764.B6G46 1846 .W3x,"Boston, MA",1846,,[Plan of lots for sale on Pearl Street in Boston],,"Wadsworth, Alexander",,,,,http://maps.bpl.org/id/12142
+42.3523,-71.063594,G3764.B6:2C45G46 1890 .P43x,"Chinatown (Boston, MA)",1890-1895,,"[Plan of lots in Chinatown (Boston), between Avery and Eliot Streets, and Tremont Street and Harrison Avenue].",,,,,,,http://maps.bpl.org/id/17497
+42.3494,-71.065372,G3764.B6G46 1670 .P53 1900,"Boston, MA",1915,,"[Plan of part of Boston bounded by Eliot, Washington, and Pleasant streets showing landownership in the late 17th century].",,,,,,,http://maps.bpl.org/id/19574
+,,F73.68.S75 S688 1844,"Boston, MA",1844,,"Catalogue of 128 lots of land in the South Cove, with the numbers, dimensions, and contents affixed to each lot, to be divided among the stockholders, by order of the Directors of the South Cove Corporation : the right of choice, among said lots, will be sold by auction, to the stockholders only, upon the terms and conditions annexed, on Monday March 4, 1844, at 11 o'clock, a.m., at the United States Hotel, Boston",,"South Cove Corporation (Boston, Mass.)",,,,,http://www.archive.org/details/catalogueof128lo00sout
+,,G3764.B6:2B7G46 1852 .B4,"Brighton (Boston, MA)",1852,,Plan of house lots in the Village of Brighton : upon a part of the well known Winship Estate ... To be sold by public auction ... on the fifteenth day of June 1852,,"Bennett, Joseph",,,,,https://collections.leventhalmap.org/search/commonwealth:pn89gw588
+,,G3764.B6:2D6G46 1893 .P5,"Dorchester (Boston, MA)",1893,,"[Plan of lots on West Selden Street, Dorchester]",,,,,,,http://maps.bpl.org/id/11163
+,,G3764.L3G46 1859 .G7,"Lawrence, MA",1859,,"Ground plan of 50 brick dwelling houses, belonging to the Lawrence Machine Shop, Lawrence, Mass : to be sold by auction on the premises, July 21st, 1859 ",,,,,,,http://maps.bpl.org/id/13011
+,,G3764.B6:2C45G46 1872 .P5x,"Chinatown (Boston, MA)",1872,,"Plan of the estate of late Doct. John W. Warren, No. 89 Harrison Avenue, cor. of Kneeland St. & Plymouth Pl. to be sold at public auction on Wednesday Mar. 13 1872 at 12 o'clk, m. on the premises",,,,,,,http://maps.bpl.org/id/12144
+,,G3764.B6:2S6G46 1872 .P5x,"South End (Boston, MA)",1872,,Plan of the estate of the late Warren White : to be sold at public auction on Wednesday March 27th 1872 at 12 o'clock m. on the respective premises,,,,,,,http://maps.bpl.org/id/12150
+,,G3764.B6G46 1881 .B67,"Boston, MA",1881,,"Plan of an estate belonging to the City of Boston to be sold by public auction on Wednesday, Sept. 14th, 1881 ... : per order of the Joint Standing Committee on Public Buildings, Wm. Woolley, Chairman",,Boston (Mass.). City surveyor,,,,,http://maps.bpl.org/id/12239
+,,G3764.B6 1868 .B675,"Boston, MA",1868,,"Plan of estates on High Street belonging to the City of Boston : to be sold by public auction on Thursday May 21st 1868, at 12 1/2 o'clock, P.M. on the premises",,Boston (Mass.). City surveyor,,,,,http://maps.bpl.org/id/11018
+,,G3764.B6:2C45G46 1871 .B67,"Chinatown (Boston, MA)",1871,,"Plan of estates on Suffolk St. District : belonging to the City of Boston : to be sold at public auction, Dec. 23rd 1871 ",,"Davis, Thomas W.",,,,,http://maps.bpl.org/id/12457
+,,G3764.B6:2C45G46 1871.2 .B67,"Chinatown (Boston, MA)",1871,,Plan of estates on Suffolk St. district : belonging to the City of Boston : to be sold at public auction on Saturday Dec. 16th & 23rd 1871 ,,"Davis, Thomas W.",,,,,http://maps.bpl.org/id/12458
+,,G3764.B6:2S6G46 1872 .B67x,"South End (Boston, MA)",1872,,"Plan of estates on Suffolk Street district, belonging to the City of Boston, to be sold at public auction, on Saturday, May 11, 1872, at 12 o'clock m., on the premises, by order of the Joint Special Committee on Suffolk Street District",,"Davis, Thomas W.",,,,,http://maps.bpl.org/id/12147
+42.33368,-71.074455,G3764.B6:2R7G46 1883 .D38,"Roxbury (Boston, MA)",1883,,"Plan of the Roxbury Canal lands belonging to the city of Boston to be sold by public auction on Saturday May 19th 1883 at 3 o'clock p.m. on the premises : by order of the Joint Standing Committee on Public Lands, Andrew J. Hall, chairman ",,"Davis, Thomas W.",,,,,
+,,G3764.B9A3 1891 .H4,"Brookline, MA",1891,,"Corey Hill Terraces, Brookline",,"Hennell, Robert",,,,,http://maps.bpl.org/id/10302
+,,G3764.N5G46 1894 .R6x,"Newton, MA",1894,,"General plan for subdividing into roads and building lots, the property of the Newton Boulevard Syndicate, blocks 1, 2, 3, 4, 5, 10 & 12 : and of Robert R. Bishop, blocks 6 & 7",,"Rice, George S.",,,,,http://maps.bpl.org/id/12873
+,,G3764.B6:2W4G46 1858 .P5x,"West Roxbury (Boston, MA)",1858,,"Plan of lands in West-Roxbury, belonging to the estate of Chas. M. Taft : to be sold by public auction in Wednesday June 9th at 31/2 o'clock p.m",,,,,,,http://maps.bpl.org/id/11186
+,,G3764.N2G46 1860 .S7,"Natick, MA",1860,,Plan of house lots in Natick belonging to Eben. Whitney : together with a part of Natick Village,,"Stone, George H.",,,,,http://maps.bpl.org/id/10529
+,,G3764.B6:2R7 1857 .M6,"Roxbury (Boston, MA)",1857,,Plan of land in Roxbury belonging to the heirs of Alfred Evans,,"Moses, T. B.",,,,,http://maps.bpl.org/id/10776
+,,G3764.B6 1854 .P47,"Boston, MA",1854,,"Peremptory sale : this valuable property will positively be sold at public auction on Saturday the 29th day of April current at 12 o'clock, to settle the estate of the late Mrs. J.T. Apthorp",,,,,,,http://maps.bpl.org/id/10960
+,,G3764.N5G46 1878 .S5x,"Newton, MA",1878,,"Plan of land in Newton, 6th ward : being a portion of the estate of J. Willey [sic]Edmands, decd. ... to be sold by public-auction ... June 19th, 1878 ... Samuel Hatch & Co",,"Smilie, E. S.",,,,,http://maps.bpl.org/id/12866
+,,G3764.B6:2B7G46 1890 .P5,"Brighton (Boston, MA)",1890,,Plan of house lots at Oak Sq. Brighton : belonging to Oak Sq. Land Trust,,,,,,,http://maps.bpl.org/id/12584
+,,G3764.B6:2W4 1892 .M6,"West Roxbury (Boston, MA)",1892,,"Plan of house lots, Mt. Vernon St., West Roxbury : owned by the Mt. Vernon Land Company, 257 Washington St., Room 3",,Mount Vernon Land Company (Boston),,,,,http://maps.bpl.org/id/11154
+,,G3764.B6:2D6G46 1836 .M6,"Dorchester (Boston, MA)",1836,,Plan of lots on Mount-Bowdoin in Dorchester,,"Mosely, Thomas M.",,,,,http://maps.bpl.org/id/11128
+,,G3764.B6:2E2 1844 .E3,"East Boston (Boston, MA)",1844,,Plan of East Boston : exhibiting the land & water lots and other improvements,,"Eddy, R. H.",,,,,http://maps.bpl.org/id/11130
+,,G3764.B6:2E2G46 1837 .E3,"East Boston (Boston, MA)",1837,,Plan of East Boston showing the land and water lots sold and unsold : also all buildings and other improvements,,"Eddy, R. H.",,,,,http://maps.bpl.org/id/11134
+,,G3764.B6:2E2G46 1851 .E3,"East Boston (Boston, MA)",1851,,"Plan of East Boston showing the land and water lots sold and unsold, also all buildings and other improvements",,"Eddy, R. H.",,,,,http://maps.bpl.org/id/11135
+,,G3764.B6:2W4 1873 .T7x,"West Roxbury (Boston, MA)",1873,,"Trustees' sale : beautiful building lots on Walnut St. and Walnut Avenue, in West Roxbury, containing about 3,126,519 square feet",,,,,,,http://maps.bpl.org/id/11149
+,,G3764.B6:2D6G46 1866 .W3,"Dorchester (Boston, MA)",1866,,"[Plan of house lots for sale on Savin Hill Avenue, Dorchester, Mass.]",,"Wadsworth, Alexander",,,,,http://maps.bpl.org/id/11160
+,,G3764.B6:2D6G46 1870 .F6,"Dorchester (Boston, MA)",1870,,"Plan of house lots in ward 16 : owned by Saml. B. Pierce & Geo. C. Ludington, Boston, near the Dorchester Station, Norfolk Street, on the Boston, Hartford & Erie R.R",,"Fowler, A. B.",,,,,http://maps.bpl.org/id/11161
+,,G3764.B6:2J3G46 1855 .P5x,"Jamaica Plain (Boston, MA)",1855,,"Plan of house lots located on Jamaica Plain belonging to the estate of John Dorr, dec'd",,,,,,,http://maps.bpl.org/id/11170
+,,G3764.B6:2D6G46 1872 .G3x,"Dorchester (Boston, MA)",1872,,Plan of land belonging to J.M. & G.H. Pike : ward 16 - Boston,,,,,,,http://maps.bpl.org/id/11173
+,,G3764.B6:2W4G46 1855 .P5x,"West Roxbury (Boston, MA)",1855,,"Plan of dwelling houses & house lots, in West Roxbury",,,,,,,http://maps.bpl.org/id/12085
+,,G3764.B6:2W4G46.1 1858 .P5x,"West Roxbury (Boston, MA)",1858,,"Plan of lands in West-Roxbury, belonging to the estate of Chas. M. Taft : to be sold by public auction on Wednesday June 9th 1858 at 3 1/2 o'clock p.m",,,,,,,http://maps.bpl.org/id/11187
+,,G3764.N5G46 1851 .P5x,"Newton, MA",1851,,Plan of land belonging to William Kenrick : near the depot of Newton Corner,,,,,,,http://maps.bpl.org/id/12867
+,,G3764.B6:2S6G46 1870 .B67x,"South End (Boston, MA)",1870,,"Plan of building lots on Columbus Avenue, and various streets and squares west of said avenue : to be sold by public auction at the Merchants Exchange Reading Room in the basement of the Old State House on Tuesday April 12th, 1870, at 12 o'clock ",,Boston (Mass.). Engineering Dept.,,,,,http://maps.bpl.org/id/12111
+,,G3764.B6G46 1872 .P5x,"Boston, MA",1872,,"Plan of estate nos 207, 209, 211 & 215 Federal Street, belonging to the estate of the late Solomon Piper : to be sold at public auction, on Thursday, March 28th 1872 at 12 o'clock p.m. on the premises",,,,,,,http://maps.bpl.org/id/12151
+,,G3764.B6:2B2 1850 .L56,"Back Bay (Boston, MA)",1850,,Plan of Public Garden : showing proposed arrangement of lots thereon,,"Lincoln, Ezra",,,,,http://maps.bpl.org/id/12205
+,,G3764.B6G46 1880 .P5x,"Boston, MA",1880-1890,,"[Plan of lots on Park, Beacon and Tremont Streets in Boston]",,,,,,,http://maps.bpl.org/id/12225
+,,G3764.B6G46 1874 .P5x,"Boston, MA",1874,,"Plan of lots on Fort Hill district, belonging to the City of Boston : to be sold at public auction, on Wednesday, April 15th at 11 o'clock a.m. on the premises",,,,,,,http://maps.bpl.org/id/12243
+,,G3764.B6:2B7G46 1863 .C8x,"Brighton (Boston, MA)",1858,,"Plan of 82 building lots, in the town of Brighton, comprising 48 acres of the Parkman Farm next the estate of Saml. Bigelow Esqr : to be sold by public auction on Monday, May 18th 1863, a 4 o'clock on the premises",,"Cuningham, John",,,,,http://maps.bpl.org/id/12586
+,,G3764.B6:2C38G46 1866 .B3,"Charlestown (Boston, MA)",1866,,"Plan of real estate in Charlestown belonging to Seth Barker & others : to be sold on the premises at public auction, June 26th, 28th, and 30th, 1866, at 3 p.m",,"Ball, H. W.",,,,,http://maps.bpl.org/id/12592
+,,G3764.B6:2B2G46 1855 .W5,"South End (Boston, MA);Back Bay (Boston, MA)",1855,,Plan of house lots & other lands offered for sale by the Boston Water Power Company,,Whitwell & Henck,,,,,http://maps.bpl.org/id/12656
+,,G3764.B6:2R7G46 1872 .W5x,"Roxbury (Boston, MA)",1872,,Plan of house lots in Boston belonging to Otis H. Weed,,Whitman & Breck,,,,,http://maps.bpl.org/id/12673
+,,G1234.B6:2B2G46 F9 1881,"Back Bay (Boston, MA)",1881,,"Schedule of sales, Commonwealth Avenue lands, 1880-81 : with plan",,Fuller & Whitney,,,,,
+,,G1234.B6:2B2G46 .F9 1882,"Back Bay (Boston, MA)",1882,,"Sectional plans of Commonwealth Avenue lands from Dartmouth Street to West Chester Park, showing street-numbers, houses and lots with their widths and owners' names to date : also, assessors valuation of vacant land per foot 1881-2",,Fuller & Whitney,,,,,
+,,G1234.B6:2B2G46 .F9 1882.2,"Back Bay (Boston, MA)",1882,,"The Back Bay Park lands record : a schedule and plan issued on the first of each month showing recorded deeds located by numbered lots on the plan : also progress in filling operations and street and lot improvements during the preceding month commencing April 1, 1882",,Fuller & Whitney,,,,,
+,,G1234.B6:2B2G46 .F9 1882.3,"Back Bay (Boston, MA)",1882,,"Sectional plans of Commonwealth Avenue lands from Dartmouth Street to West Chester Park, showing street-numbers, houses and lots with their widths and owners' names to date : also, assessors valuation of vacant land per foot-1881",,Fuller & Whitney,,,,,
+,,G3764.B6:2B2G46 1883 .P5x,"Back Bay (Boston, MA);South End (Boston, MA)",1883,,"[Plan of lots on Falmouth Street, Boston]",,,,,,,http://maps.bpl.org/id/12678
+,,G3764.B6:2F4G46 1890 .B6x,"Fenway (Boston, MA)",1890-1899,,Plan 1,,Boston (Mass.). Board of Survey,,,,,http://maps.bpl.org/id/12679
+,,G3764.A7G46 1871 .H6x,"Arlington, MA",1871,,"Plan of building lots on the ""Kimball"" Estate Arlington, Mass. ... at 3 o'clock p.m",,"Hovey, J.",,,,,http://maps.bpl.org/id/12684
+,,G3764.B6:2W4G46 1870 .P5x,"West Roxbury (Boston, MA)",1870,,Plan no. 1 of building lots near Spring St. Station West Roxbury belonging to the West Roxbury Land Co,,,,,,,http://maps.bpl.org/id/12702
+,,G3764.C2G46 1861 .M3x,"Cambridge, MA",1861,,Plan of building lots and land in Cambridge & Somerville belonging to Mr. Ozias Morse,,"Mason, W. A.",,,,,http://maps.bpl.org/id/12713
+,,G3764.C2G46 1853 .M3x,"Cambridge, MA",1853,,"Plan of lots in Cambridge belonging to Dr. John Ware : to be sold by public auction on Tuesday October 11th, at 4 o'clock p.m. on the premises",,"Mason, W. A.",,,,,http://maps.bpl.org/id/12715
+,,G3764.C4 1857 .P5x,"Chelsea, MA",1857,,"Plan of the U.S. Marine Hospital estate Chelsea, Mass : showing the subdivision into the buildings lots",,,,,,,http://maps.bpl.org/id/12724
+,,G3764.C2G46 1851 .P5x,"Cambridge, MA",1851,,"Plan of land in Cambridgeport held by the receivers of the Phoenix Bank : to be sold by public auction Friday June 20, 1851 at 4 o'clk. p.m. on the premises",,,,,,,http://maps.bpl.org/id/12737
+,,G3764.C2G46 1850 .W4,"Cambridge, MA",1850,,"Plan of the Craigie Estate in Cambridge : to be sold at public auction on the premises on Thursday June 27th, 1850 at 4 o'clock p.m",,"White, Ferdinand E.",,,,,http://maps.bpl.org/id/12738
+,,G3764.C2G46 1851 .W3x,"Cambridge, MA",1851,,"Plan of house lots on the Fayerweather Estate in Cambridge : to be sold by public auction Saturday June 26th 1852, on the premises",,"Wadsworth, Alexander",,,,,
+,,G3764.B7G46 1850 .E2x,"Braintree, MA",1850,,Plan of house lots in Braintree : to be sold at public auction on Saturday May 25th 1850 at 3 o'clock p.m. on the premises,,"Eaton, S. Dwight",,,,,http://maps.bpl.org/id/12749
+,,G3764.B9G46 1850 .W3x,"Brookline, MA",1850,,"Plan of the Sumner Estate in Brookline : to be sold at public auction, on the premises on Saturday June 1st, 1850, at 3 o'clock p.m",,"Wadsworth, Alexander",,,,,http://maps.bpl.org/id/12757
+,,G3764.B6:2C38G46 1851 .P5x,"Charlestown (Boston, MA)",1851,,Plan of land in Charlestown held by the receivers of the Phoenix Bank : to be sold by public auction [Tuesday] June 19 1851 at 4 o clk pm on the premises : N.A. Thompson Auctr,,,,,,,http://maps.bpl.org/id/12760
+,,G3764.D85G46 1871 .R4x,"Duxbury, MA",1871,,"Revised plan of house lots belonging to the Duxbury Shore Co : Duxbury, Mass., July 1871",,,,,,,http://maps.bpl.org/id/12780-0
+,,G3764.F352G46 1872 .E2x,"Falmouth Heights, MA",1873,,"Plan of Falmouth Heights, Falmouth Mass., April 1st 1873",,E. Boyden & Son,,,,,http://maps.bpl.org/id/12786
+,,G3764.L3G46 1847 .P5x,"Lawrence, MA",1847,,"Plan of lots in that part of Methuen called Lawrence : to be sold by the Essex Company at auction on the 28th of April, 1847, on the premises at 11 o'clock a.m",,,,,,,http://maps.bpl.org/id/12827
+,,G3764.M66G46 1846 .P5,"Methuen, MA",1846,,Plan of lots in Methuen : to be sold by the Essex Company at auction on the 28th of Apr. 1846,,,,,,,http://maps.bpl.org/id/13004
+,,G3764.M362G46 1873 .M6x,"Marshfield, MA",1873,,"Plan of building lots at Marshfield Highlands : to be sold at public auction on the premises on Thursday, Aug. 21st 1873 at 12 o'clock noon",,"Minot, S. L.",,,,,
+,,G3764.N3G46 1853 .L3x,"Needham, MA",1853,,"Last sale of real estate in Bostonville, at public auction : on Monday next Oct. 10, 1853, at 1 o'clock, p.m",,,,,,,http://maps.bpl.org/id/13006
+,,G3764.B6:2N5G46 1810 .T3x,"North End (Boston, MA)",1810,,"[Plan of estates on Charles River bridge, Prince Street, Lynn Court, and Snow Hill Street]",,"Taylor, William",,,,,http://maps.bpl.org/id/12855
+,,G3764.N5:2A8G46 1847 .W3x,"Auburndale (Newton, Mass.)",1847,,"Plan of lots in North Auburn Dale, Newton, Mass",,"Ward, W. F.",,,,,
+,,G3764.S8G46 1933 B4x,"Stoughton, MA",1933,,Plan of lots in Stoughton Mass,,"Bellamy, Robert B.",,,,,
+,,G3764.N5:2G46 1855 .P5x,"Newton Corner (Newton, MA)",1855,,"Plan of house lots at Newton Corner near the residence of Dr. Hitchcock, lately belonging to W.S. Tuckerman",,,,,,,http://maps.bpl.org/id/12862
+,,G3764.N5:2W4G46 1853 .P5x,"West Newton (Newton, MA)",1853,,"Plan of lots to be sold at auction in West New[ton] on Friday, September 23d, 1853, at 3 o'clock, p.m : by the foot & by the acre",,,,,,,http://maps.bpl.org/id/12863
+,,G3764.N5G46 1850 .P5x,"Newton, MA",1850,,"[Plan of house lots on Briggs Place, Newton]",,,,,,,http://maps.bpl.org/id/12864
+,,G3764.N5:2W4G46 1850 .P5x,"West Newton (Newton, MA)",1850,,"Plan of house lots in West Newton, belonging to Chester Judson, to be sold by public auction, on Thursday August 12th at 4 o'clock p.m",,,,,,,http://maps.bpl.org/id/12869
+,,G3764.R4G46 1873 .W5x,"Revere, MA",1873,,"Plan of building lots in Revere, Harris Estate",,Whitman & Breck,,,,,
+,,G3764.S4G46 1856 .W3x,"Somerville, MA",1856,,Plan of lots in Somerville : owned by Ozias Morse & others,,W.A. Mason & Co.,,,,,
+,,G3764.S4G46 1847 .W5x,"Somerville, MA",1847,,"Plan of building lots on Winter Hill in Somerville : belonging to Messrs. Woods, Smith, Melvin & Page",,"Whitney, Charles",,,,,
+,,G3764.S4G46 1842 .W3x,"Somerville, MA",1842,,Plan of Ten Hills Farm,,"Wadsworth, Alexander",,,,,
+,,G3764.V5G46 1890 .W5x,"Vineyard Haven, MA",1890-1899,,Plan of a section of sea shore lots at Makonikey Heights Marthas Vineyard Mass,,"Whitman, H. T.",,,,,
+,,G3764.W84G46 1874 .W4x,"Winthrop, MA",1874,,Plan of house lots in Winthrop : owned by Dr. Samuel Ingalls,,Whitman & Breck,,,,,
+,,G3764.M53G46 1856 .W36,"Medford, MA",1856,,"Plan of lots in Medford, formerly owned by Joseph B. Felt, and known as the John Quincy Adams Estate",,W.A. Mason & Co,,,,,http://maps.bpl.org/id/12966
+,,G3764.O22G46 1890 .V56,"Cottage City, MA;Oak Bluffs, MA",1890,,"Plan of the Highlands, the property of the Vineyard Grove Co : Cottage City, Mass",,,,,,,http://maps.bpl.org/id/12969
+,,G3884.P4 1860 .P53x,"Petersburg, VA",1860-1869,,"Plan of the estate of the late Richd. F. Ha[nn]on, Esq., Petersburg, Va. (northern portion, in lots)",,,,,,,http://maps.bpl.org/id/14024
+,,G3764.B6:2S5G46 1846 .A44x,"South Boston (Boston, MA)",1846,,"[Plan of lots on O Street, South Boston]",,"Alger, Cyrus",,,,,http://maps.bpl.org/id/14402
+,,G3764.L7G46 1852 .B88x,"Lowell, MA",1852,,"Plan of land in Ayers' New-City, Lowell, Mass : belonging to Daniel Ayer",,Butterfield & Swan,,,,,http://maps.bpl.org/id/14404
+,,G3764.C4G46 1836 .L49x,"Chelsea, MA",1836,,"Plan of Winnisimmet, in Chelsea",,"Lewis, Alonzo",,,,,http://maps.bpl.org/id/14866
+,,G3764.O5G46 1897 .H44x,"Onset, MA;Wareham, MA",1897,,Plan of land of Onset and Point Independence,,H.E. Gifford,,,,,http://maps.bpl.org/id/17888
+,,G3764.B6G46 1835 .F8,"Boston, MA",1835,,"Plan of building lots on Phillips Place, Tremont & Somerset Streets",,"Fuller, Stephen P.",,,,,http://maps.bpl.org/id/12120
+,,G3764.B6G46 1835.2 .F8,"Boston, MA",1835,,"Plan of building lots on Phillips Place, Tremont & Somerset Streets",,"Fuller, Stephen P.",,,,,http://maps.bpl.org/id/12140
+34.91036,-85.48024,G3924.N36G45 1889 .W55,"New England, GA",1889-1894,,"Map of New England City, Dade County, Ga. ",,"Williams, R. M.",,,,,http://maps.bpl.org/id/18002
+43.76,-70.14,G3734.Y32G46 1893 .N69,"Littlejohn Island, ME;Yarmouth, ME",1893,,"Plan of cottage lots on Littlejohn's Island, Casco Bay, about 7 1/2 miles northeast of Portland",,Nowell and Batchelder,,,,,http://maps.bpl.org/id/18009
+44.09464,-70.214138,G3734.L4G46 1855 .P53,"Lewiston, ME",1855,,"Plan of the Lewiston Water Power Co.'s works, Lewiston, Me",,,,,,,http://maps.bpl.org/id/18036
+,,F73.68.D6 S688 1840,"Boston, MA",1840,,"Catalogue of 556 lots of land, and 8 wharves, in the South Cove, with the numbers, dimensions, contents, and minimum price, affixed to each lot respectively : by order of the directors of the South Cove Corporation, the right of choice, among said lots, will be sold by auction, upon the terms and conditions annexed, on Thursday, April 9, 1840, at 10 o'clock, A.M. (weather fair or foul), at the United States Hotel, Boston",,"South Cove Corporation (Boston, Mass.)",,,,,http://www.archive.org/details/catalogueof556lo00sout
+,,F73.68.S75 S688 1845,"Boston, MA",1845,,"Catalogue of 132 lots of land, in the South Cove, with the numbers, dimensions, and contents affixed to each lot, to be divided among the stockholders by order of the directors of the South Cove Corporation : the right of choice, among said lots, will be sold by auction to the stockholders only, upon the terms and conditions annexed, on Tuesday, February 18, 1845, at 10 o'clock, A.M., at the United States Hotel, Boston",,"South Cove Corporation (Boston, Mass.)",,,,,http://www.archive.org/details/catalogueof132lo00sout
+40.65,-74.1,G3804.N4:2S8G46 1841 .M34,"Staten Island (New York, NY)",1841,,"Plan of a part of New Brighton, Staten Island, showing the 500 blocks comprised in a proposed sale of lots ",,"McKean, Henry S.",,,,,http://maps.bpl.org/id/18302
+35.10849,-77.044114,G3904.B4G46 1864 .N45,"New Bern, NC",1864,,A plan of the town of New Bern ,,"Nelson, C. A.",,,,,http://maps.bpl.org/id/18557
+42.38419,-71.191138,G3764.B43G46 1880 .C87,"Belmont, MA",1880-1889,,Plan of land owned by O.E. Hunt & E.C. Cutter at Waverly in Belmont ,,"Curtis, Joshua H.",,,,,http://maps.bpl.org/id/18771
+42.3601,-71.09044,G3764.C2:2K4G46 1897 .P53,"Kendall Square (Cambridge, MA)",1897,,"[Plan of lots in Kendall Square, Cambridge, between Massachusetts Ave., Vassar St. and Claflin St.] ",,Aspinwall & Lincoln,,,,,http://maps.bpl.org/id/18772
+40.02,-75.24,G3824.P5:2F3G46 1868 .M37,"Fairmount Park (Philadelphia, PA)",1868,,"Map of farms and lots embraced within the limits of Fairmount Park as appropriated for public use by Act of Assembly, approved the 14th day of April, A.D. 1868",,,,,,,http://maps.bpl.org/id/19023
+42.29,-70.88,G3764.H84G46 1910 .H39,"Hull, MA",1910-1919,,"Plan of the Kenberma Park Estates : Nantasket Beach, Hull, Mass. ",,"Hayward, E. B.",,,,,https://collections.leventhalmap.org/search/commonwealth:0r96fn51x
+42.36,-71.112,G1234.B6:2B2G46 F9 1882,"Back Bay (Boston, MA)",1882,,Plan of Back Bay showing improvements on streets and estates ,,Fuller & Whitney,,,,,http://maps.bpl.org/id/19989
+42.34,-73.16,G3764.B249G46 1771 .P53,"Becket, MA",1771,,A plan of Becket protracted by a scale of 120 rods to an inch,,,,,,,https://collections.leventhalmap.org/search/commonwealth:0r96fq62v
+42.21893,-70.97165,G3764.B7:2N6G46 1898 .W32,"Braintree, MA;Weymouth, MA",1898,,Bird's eye view and sketch of house lots for sale on Norfolk Hills in Braintree & Weymouth : belonging to Messrs A.H. Hews and Charles A. Mason ,,W.A. Mason & Son,,,,,https://collections.leventhalmap.org/search/commonwealth:0p09bk80s
