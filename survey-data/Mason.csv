@@ -1,10 +1,10 @@
-Identifier,Latitude,Longitude,Folder,Date,City/Town ,Property Owner ,Survey Title ,Streets ,Neighbors ,Notes,Background Notes ,Material Type,Surveyor 
+ï»¿identifier,latitude,longitude,folder,date,city_town,property_owner,survey_title,streets,neighbors,notes,background_notes,material,surveyor
 Perkins_M_T1-15,42.365029,-71.106064,T1,9999-01-01,,,,"River St, Western Ave",Abutter: M & K Ricker,"shows old engine house, Horse Railroad tracks hay scales, hayscales, fantastic north arrow",,,Unknown
 Perkins_M_T1-16,42.388901,-71.119963,T1,1886-03-01,"Cambridge, MA",,Plan of Premises,"North Ave, Union Sq vicinity","Caroline S. Porter, Fitchburg Railroad, H.C. Rand",,,,W.A. Mason & Son Co.
 Perkins_M_T1-19,42.375539,-71.100973,T1,1887-12-17,"Somerville, MA","Dickinson; Connor, Mary",,"Dickinson St, Leon St, Benefit St, (now Hammond St)",,,,,W.A. Mason & Son Co.
 Perkins_M_T1-2,42.365037,-71.101252,T1,9999-01-01,"Cambridge, MA",,,"Norfolk St, Austin St, now Bishop Allen Dr",,"shows dwellings, hydrant",,,Unknown
 Perkins_M_T1-20,42.369935,-71.095963,T1,1887-05-10,"Cambridge, MA","Dickinson, Alex",,"Columbia St, Hampshire St",Abutter: P. Putnam,,,,W.A. Mason & Son Co.
-Perkins_M_T1-21,42.361057,-71.10284,T1,1885-05-22,"Cambridge, MA","Dana, S. A.",,"Brookline St, Pilgirm St, Pacific Ave","Jennings, H. McCaw, W. Hast, M. Egan",,,,W.A. Mason & Son Co.
+Perkins_M_T1-21,42.361057,-71.10284,T1,1885-05-22,"Cambridge, MA","Dana, S. A.",,"Brookline St, Pilgrim St, Pacific Ave","Jennings, H. McCaw, W. Hast, M. Egan",,,,W.A. Mason & Son Co.
 Perkins_M_T1-22,42.367193,-71.113279,T1,1885-11-30,"Cambridge, MA","Charles, T.; Seavey, F.H.",,"Putnam Ave, Hayes St","J. N. Burleigh, D. Humphrey, Heirs of Thos. Mara","elaborate title block, house, tool house, stable, shed shown",,,W.A. Mason & Son Co.
 Perkins_M_T1-3,42.368647,-71.051534,T1,1836-04-08,"Boston, MA",Winnisimmet Ferry Co.,Winnisimmet Ferry Co. Wharf,"Commercial St, Hanover St",Grueby,"primitive map with great northarrow, traced 8/1886",,,"Fuller, S.P."
 Perkins_M_T1-33,42.364581,-71.050563,T1,1836-04-08,"Boston, MA",Winnisimmet Ferry Co.,Winnisimmet Ferry Co. Wharf,Commercial St,"Nathaniel Goddard, J. W. Revere",traced 8/1886,,,"Fuller, S.P."
@@ -55,7 +55,7 @@ Perkins_M_T103-4,42.365885,-71.107711,T103,1909-09-01,"Cambridge, MA","Hersum, E
 Perkins_M_T103-5,42.374358,-71.1395,T103,1909-07-31,"Cambridge, MA",Coolidge,,"Coolidge Ave, Mount Auburn St,",,,,,W.A. Mason & Son Co.
 Perkins_M_T103-9_bp,42.357648,-71.111745,"T102, T103, T105, T108 bp",1909-08-26,"Cambridge, MA","Sortwell, Alvin F. ",,"Tufts St, Magazine St, Chestnut St","Esther E. McPherson, Ella J. Gould, ""Twenty Associates""",blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T104-10,42.360019,-71.0865,T104,1909-03-01,"Cambridge, MA",,Charles River Water Front (easterly from Massachusetts Avenue),"Broadway, Kendall Sq, Main St, Esplanade, Charles River, Princeton Ave, Amherst St","W. & J.C. Fiske, Benjamin F. Brown, George B. Roberts, Edward Kendall, H.O. Bright, W.H. Wood, B. Tillon & W. Fiske, Harriet A. Porter, M.L. Smith",,,,W.A. Mason & Son Co.
-Perkins_M_T104-10_bp,42.360019,-71.0865,T104 bp,1909-03-01,"Cambridge, MA",,Charles River Water Front (easterly from Massachusetts Avenue),"Broadway, Kendall Sq, Main St, Esplanade, Charles River Mass Ave, Massachusetts Ave , Princeton Ave, Amherst St",,blueprint,,blueprint,W.A. Mason & Son Co.
+Perkins_M_T104-10_bp,42.360019,-71.0865,T104 bp,1909-03-01,"Cambridge, MA",,Charles River Water Front (easterly from Massachusetts Avenue),"Broadway, Kendall Sq, Main St, Esplanade, Charles River Mass Ave, Massachusetts Ave, Princeton Ave, Amherst St",,blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T104-10_bp,42.360019,-71.0865,T104 bp,1909-07-31,"Cambridge, MA",Coolidge,,"Metropolitan Park, Coolidge Ave, Mount Auburn St",,blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T104-10,42.360019,-71.0865,T104,1909-09-15,"Cambridge, MA",Coolidge,,"Metropolitan Park, Coolidge Ave, Mount Auburn St",,,,,W.A. Mason & Son Co.
 Perkins_M_T104-3,42.360137,-71.070991,T104,1909-10-08,"Boston, MA",,Rear of No. 146 Charles St.,"Charles St, Charles River Parkway","Parker, Shea",,,,W.A. Mason & Son Co.
@@ -65,7 +65,7 @@ Perkins_M_T105-12,42.370756,-71.106997,T105,1909-11-10,"Cambridge, MA","Leavitt,
 Perkins_M_T105-13A,42.381515,-71.137719,T105,1909-10-25,"Cambridge, MA","Whouley, M.F.",,"Chilton St, Fayerweather St",,,,,W.A. Mason & Son Co.
 Perkins_M_T105-14,42.390874,-71.123836,T105,9999-01-01,"Cambridge, MA","Malcolm, John L.",,"Walden St, Massachusetts Ave, Mass Ave",,,,,W.A. Mason & Son Co.
 Perkins_M_T105-15_bp,42.377869,-71.124592,"T102, T103, T105, T108 bp",1909-12-07,"Cambridge, MA","Goodale, George Lincoln",,Berkeley St,"George Lincoln Goodale. John Allyn, Charles B. Tower, Walter Wesselhoeft, J. A. Rockwell",blueprint,,blueprint,W.A. Mason & Son Co.
-Perkins_M_T105-16,42.355904,-71.108564,T105,1920-01-01,"Cambridge, MA","Reardon, Edmund",,"Henry St, Chestnut St, Sidney St",,,,,W.A. Mason & Son Co.
+Perkins_M_T105-16,42.355904,-71.108564,T105,1920-01-01,"Cambridge, MA","Reardon,Edmund",,"Henry St, Chestnut St, Sidney St",,,,,W.A. Mason & Son Co.
 Perkins_M_T105-2,42.393251,-71.131239,T105,1922-04-01,"Cambridge, MA",,Plan of Premises,"Rindge Ave, Sargent St, Middlesex St",handwritten notes,,,,W.A. Mason & Son Co.
 Perkins_M_T105-2,42.393251,-71.131239,T105,1922-04-01,"Cambridge, MA",,Plan of Premises,"Rindge Ave, Sargent St, Middlesex St",,,,,W.A. Mason & Son Co.
 Perkins_M_T105-2,42.393251,-71.131239,T105,1922-04-01,"Cambridge, MA",,Plan of Premises,"Rindge Ave, Sargent St, Middlesex St",,,,,W.A. Mason & Son Co.
@@ -107,7 +107,7 @@ Perkins_M_T109-10,42.368707,-71.080599,T109,1910-08-05,"Cambridge, MA","Adams, J
 Perkins_M_T109-11,42.394333,-71.127366,T109,1910-09-01,"Cambridge, MA",Roman Catholic Archbishop of Boston,,"Hollis St, Mass Ave, Massachusetts Ave",,,,,W.A. Mason & Son Co.
 Perkins_M_T109-13,42.392348,-71.129458,T109,1910-09-01,"Cambridge, MA",Roman Catholic Archbishop of Boston,,"Yerxa Rd, Rindge Ave, Van Norden St, Middlesex St",,,,,W.A. Mason & Son Co.
 Perkins_M_T109-15,42.368481,-71.080663,T109,1910-08-05,"Cambridge, MA","Adams, James",,"Third St, Vine St, Spring St",,,,,W.A. Mason & Son Co.
-Perkins_M_T109-16,42.371093,-71.097969,T109,1910-08-22,"Cambridge, MA","Walsh, Thomas J.; Walsh, James",,"Tremont St, Hampshire St, Norfolk St",,,,,W.A. Mason & Son Co.
+Perkins_M_T109-16,42.371093,-71.097969,T109,1910-08-22,"Cambridge, MA","Walsh,ThomasJ.;Walsh,James",,"Tremont St, Hampshire St, Norfolk St",,,,,W.A. Mason & Son Co.
 Perkins_M_T109-19,42.365813,-71.091478,T109,1910-09-16,"Cambridge, MA",Cambridge Electric Light Railroad,,Hampshire St,,,,,W.A. Mason & Son Co.
 Perkins_M_T109-20,42.37053,-71.151785,T109,1910-08-16,"Watertown, MA","Davenport, Alfred M.",,Grove St,,,,,W.A. Mason & Son Co.
 Perkins_M_T109-20,42.37053,-71.151785,T109,1910-08-16,"Watertown, MA","Davenport, Alfred M.",,Grove St,sheet contents,,,,W.A. Mason & Son Co.
@@ -218,7 +218,7 @@ Perkins_M_T120-2,42.363808,-71.099235,T120,1912-07-01,"Cambridge, MA","Douglass,
 Perkins_M_T120-3_bp,42.38978,-71.134238,T120 bp,1911-11-07,"Cambridge, MA","Bellis, William J.",,Bolton St,,blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T120-5_bp,42.365611,-71.102904,T120 bp,1912-07-01,"Cambridge, MA",,Plan of land Plan B,"Austin St, Essex St, Mass Ave, Massachusetts Ave","J.H. Concoran, Hyde, Douglas, R. Wentworth, Manhattan Market Co., Peters",blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T120-6,42.374521,-71.120617,T120,1912-07-01,"Cambridge, MA","Furbish, F.B.",,"Church St, Palmer St","Thomas Stearns, Morrell Wyman,",,,,W.A. Mason & Son Co.
-Perkins_M_T120-7,42.354964,-71.107721,T120,1912-07-01,"Cambridge, MA","Reardon, Edmund",,"Sidney St, Chestnut St, Henry St",,,,,W.A. Mason & Son Co.
+Perkins_M_T120-7,42.354964,-71.107721,T120,1912-07-01,"Cambridge, MA","Reardon,Edmund",,"Sidney St, Chestnut St, Henry St",,,,,W.A. Mason & Son Co.
 Perkins_M_T120-9_bp,42.429638,-71.183794,T120 bp,1912-08-01,"Arlington, MA","Welsh, Willard",,"Westmoreland Ave, Crescent Hill Ave","William Salter, John Kirchmayer, James H. Colprit",blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T121-1_bp,42.364379,-71.091328,T121 bp,1912-10-01,"Cambridge, MA","Bright, Elmer H.",,"Harvard St, Burleigh St","Annie B. Mathews, Sarah M. Fay, Old South Canal, Broadway Storage Co., Lever Bros Limited",blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T121-1_bp,42.364379,-71.091328,T121 bp,1912-10-01,"Cambridge, MA","Bright, Elmer H.",,"Harvard St, Burleigh St","Annie B. Mathews, Sarah M. Fay, Old South Canal, Broadway Storage Co., Lever Bros Limited",blueprint,,blueprint,W.A. Mason & Son Co.
@@ -417,8 +417,8 @@ Perkins_M_T14-9,42.372091,-71.08658,T14,1889-01-15,"Cambridge, MA",West End Stre
 Perkins_M_T140-10,42.36334,-71.359946,T140,1926-05-01,"Wayland, MA","Bullard, W.A.",,"State Rd, Main St, Millbrook Rd,",Presently (2017) Wayland Safety Building/Police/Fire/Rescue,,,,W.A. Mason & Son Co.
 Perkins_M_T140-13_bp,42.453442,-71.227155,T140 bp,1926-04-01,"Lexington, MA","Wheeler, Harry A.",,"Somerset Rd, Hancock St","Ellen D. Spaulding, Edmund S. Kelley, Margaret G. Brown, Lexington Historical Society, Clara B. Putnam, Orrin W. Fisk",blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T140-13_bp,42.453442,-71.227155,T140 bp,1926-04-01,"Lexington, MA","Wheeler, Harry A.",,"Somerset Rd, Hancock St","Ellen D. Spaulding, Edmund S. Kelley, Margaret G. Brown, Lexington Historical Society, Clara B. Putnam, Orrin W. Fisk",blueprint,,blueprint,W.A. Mason & Son Co.
-Perkins_M_T140-14_bp,42.355381,-71.107217,T140 bp,1926-06-21,"Cambridge, MA","Reardon, Edmund",,"Chestnut St, Sidney St, Waverly St, Henry St",,blueprint,,blueprint,W.A. Mason & Son Co.
-Perkins_M_T140-14,42.355381,-71.107217,T140,1926-12-15,"Cambridge, MA","Reardon, Edmund",,,3 sheets of paper with calculations,,,,W.A. Mason & Son Co.
+Perkins_M_T140-14_bp,42.355381,-71.107217,T140 bp,1926-06-21,"Cambridge, MA","Reardon,Edmund",,"Chestnut St, Sidney St, Waverly St, Henry St",,blueprint,,blueprint,W.A. Mason & Son Co.
+Perkins_M_T140-14,42.355381,-71.107217,T140,1926-12-15,"Cambridge, MA","Reardon,Edmund",,,3 sheets of paper with calculations,,,,W.A. Mason & Son Co.
 Perkins_M_T140-16_bp,42.364965,-71.102464,T140 bp,1926-04-01,"Cambridge, MA","Bullock, Charles",,"Mass Ave, Massachusetts Ave, Norfolk St, Essex St","Mary L. Jones, Asa C. Lamson, Central Square Amusement Co.",blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T140-17_bp,42.373106,-71.099567,T140 bp,1926-02-01,"Cambridge, MA","Cassedy, James S.; Lynch, Albert E.",,"Hampshire St, Cambridge St, Inman Sq","Joseph L. P. St. Coeur & Eldac Richardson, Jacob S. Litter",blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T140-18_bp,42.363602,-71.089858,T140 bp,1923-08-01,"Cambridge, MA","Willard, Francis L.",,"Main St, Harvard St","Susie J. Couiser, Mabel C. Welsh, Anna W.H. Nichols, Charles F. McCLure, J.D. Carhart, Oscar G. Peterson,",blueprint,,blueprint,W.A. Mason & Son Co.
@@ -664,7 +664,7 @@ Perkins_M_T153-4_bp,42.374699,-71.094069,T153 bp,1920-03-01,"Somerville, MA","An
 Perkins_M_T153-4_bp,42.374699,-71.094069,T153 bp,1920-03-01,"Somerville, MA","Andler, Israel",,"Columbia St, Columbia Court","Frank Fishman, Bridget Clancy, Mary E. Clancy, Bennie Klayman, Nathan Robinson",blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T153-5_bp,42.349692,-71.152804,T153 bp,1917-11-01,"Brighton (Boston, MA)",,Plan of Land,"Market St, Washington St, Henshaw St","Henry A. Rueter, Mary A. Southwick, Emily Graff, George A., Lyman O. & Walter C. Warren, Katherine A. Quinn",blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T153-5,42.349692,-71.152804,T153,1919-09-22,"Brighton (Boston, MA)",,Plan of Land,"Market St, Washington St, Henshaw St","Henry A. Rueter, Mary A. Southwick, Emily Graff, George A., Lyman O. & Walter C. Warren, Katherine A. Quinn",,,,W.A. Mason & Son Co.
-Perkins_M_T153-5,42.349692,-71.152804,T153,1919-09-22,"Brighton (Boston, MA)",,Plan of Land,"Market St, Washington St, Henshaw St","George A. , Lyman O. Walter C. Warren, George A. Southwick, Katherine A. Quinn, Henry A. Reuter, Emily Graff",sheet with sketch,,,W.A. Mason & Son Co.
+Perkins_M_T153-5,42.349692,-71.152804,T153,1919-09-22,"Brighton (Boston, MA)",,Plan of Land,"Market St, Washington St, Henshaw St","George A., Lyman O. Walter C. Warren, George A. Southwick, Katherine A. Quinn, Henry A. Reuter, Emily Graff",sheet with sketch,,,W.A. Mason & Son Co.
 Perkins_M_T153-8,42.365687,-71.10756,T153,1884-04-02,"Cambridge, MA","Fellows, Cyrus",,"Soden St, Franklin St","Benjamin King, Daniel S. Coolidge, George B. Caswell, Justin A. Jacobs","""From plan by J.G. Chase Sep. 17 1869""",,,W.A. Mason & Son Co.; J.G. Chase
 Perkins_M_T153-8.1_bp,42.361917,-71.087267,T153 bp,1920-03-01,"Cambridge, MA","Dixon, Forest W.; Fallis, John",,"Dock St, Deacon St Main St",Anna W.H. Nichols,duplicate number with linen sheets. This number changed to be R153-8.1 to accommodate GIS Carto database input,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T153-9_bp,42.376011,-71.130842,T153 bp,1919-10-01,"Cambridge, MA","Nelligan, Elizabeth J.",,"Foster St, Doane St, Sparks St","Michael Greene, William Balmer, Francis McDonald",blueprint,,blueprint,W.A. Mason & Son Co.
@@ -691,10 +691,10 @@ Perkins_M_T155-4_bp,42.314734,-71.063663,T155 bp,1920-07-01,"Dorchester (Boston,
 Perkins_M_T155-5,42.389087,-71.126765,T155,1920-10-01,"Cambridge, MA",Frank H. Davis Company,,"Richdale Ave, Walden St","Charles C. and Adelaide L. Peters, Carrie DeBow, James F. & Celia E. Casby, John J. & Ellen Corcoran, A.H. Hewes & Co. Inc.",,,,W.A. Mason & Son Co.
 Perkins_M_T155-5_bp,42.389087,-71.126765,T155 bp,1920-10-01,"Cambridge, MA",Frank H. Davis Company,,"Richdale Ave, Walden St","Charles C. and Adelaide L. Peters, Carrie DeBow, James F. & Celia E. Casby, John J. & Ellen Corcoran, A.H. Hewes & Co. Inc.",blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T155-6_bp,42.395371,-71.135117,T155 bp,1920-07-01,"Cambridge, MA",,Plan of Land,"Dudley St, Jackson St",Luigi Tagliafico et al,blueprint,,blueprint,W.A. Mason & Son Co.
-Perkins_M_T155-7_bp,42.392177,-71.12632,T155 bp,1920-09-01,"Cambridge, MA","Walsh, Thomas J.; Walsh, James",,"Fairfield St, Rindge Ave",,blueprint,,blueprint,W.A. Mason & Son Co.
-Perkins_M_T155-7,42.392177,-71.12632,T155,1920-09-01,"Cambridge, MA","Walsh, Thomas J.; Walsh, James",,"Fairfield St, Rindge Ave",sketch on paper,,,,W.A. Mason & Son Co.
-Perkins_M_T155-7,42.392177,-71.12632,T155,1920-12-21,"Cambridge, MA","Walsh, Thomas J.; Walsh, James",,"Fairfield St, Rindge Ave","Letter: Engineer for Court Land Court, to Mssrs. McLellan, Carney & Brickley",,,,W.A. Mason & Son Co.
-Perkins_M_T155-7,42.392177,-71.12632,T155,1920-12-22,"Cambridge, MA","Walsh, Thomas J.; Walsh, James",,"Fairfield St, Rindge Ave","Letter: McLellan, Carney & Brickley to W.a. Mason & Sons",,,,W.A. Mason & Son Co.
+Perkins_M_T155-7_bp,42.392177,-71.12632,T155 bp,1920-09-01,"Cambridge, MA","Walsh,ThomasJ.;Walsh,James",,"Fairfield St, Rindge Ave",,blueprint,,blueprint,W.A. Mason & Son Co.
+Perkins_M_T155-7,42.392177,-71.12632,T155,1920-09-01,"Cambridge, MA","Walsh,ThomasJ.;Walsh,James",,"Fairfield St, Rindge Ave",sketch on paper,,,,W.A. Mason & Son Co.
+Perkins_M_T155-7,42.392177,-71.12632,T155,1920-12-21,"Cambridge, MA","Walsh,ThomasJ.;Walsh,James",,"Fairfield St, Rindge Ave","Letter: Engineer for Court Land Court, to Mssrs. McLellan, Carney & Brickley",,,,W.A. Mason & Son Co.
+Perkins_M_T155-7,42.392177,-71.12632,T155,1920-12-22,"Cambridge, MA","Walsh,ThomasJ.;Walsh,James",,"Fairfield St, Rindge Ave","Letter: McLellan, Carney & Brickley to W.a. Mason & Sons",,,,W.A. Mason & Son Co.
 Perkins_M_T155-9_bp,42.386765,-71.140299,T155 bp,1920-10-18,"Cambridge, MA","Andreole, Pasqualina",,"Concord Ave, Birth St, Bay State Rd","Angelo Raolette, Claude L. Allen, John & Bridget Kennan",blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T155-9_bp,42.386765,-71.140299,T155 bp,1920-10-18,"Cambridge, MA","Andreole, Pasqualina",,"Concord Ave, Birth St, Bay State Rd","Angelo Raolette, Claude L. Allen, John & Bridget Kennan",blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T156-1,42.379783,-71.12087,T156,1921-03-01,"Cambridge, MA","Fowler, Delilah D.; Saunders, Herbert A.; Smith, Carrie E. ",,Chauncy St,,,,,W.A. Mason & Son Co.
@@ -1012,7 +1012,7 @@ Perkins_M_T178-5,42.375896,-71.103591,T178,1923-10-01,"Somerville, MA","Correia,
 Perkins_M_T178-6,42.387257,-71.124684,T178,1923-09-06,"Cambridge, MA",,Plan of Premises,"Mount Pleasant St, Upland Rd, Buena Vista Park",,,,,W.A. Mason & Son Co.
 Perkins_M_T178-8,42.385034,-71.130027,T178,1923-10-08,"Cambridge, MA",,Plan of Land,"Fenno St, Sherman St","John Flemming, Michael ""Leary, Suther Blaikei, Abigall Toye, Humhrey Sugrue, John Fitzpatrick",,,,W.A. Mason & Son Co.
 Perkins_M_T178-8,42.385034,-71.130027,T178,1923-10-08,"Cambridge, MA",,Plan of Land,"Fenno St, Sherman St","John Flemming, Michael ""Leary, Suther Blaikei, Abigall Toye, Humhrey Sugrue, John Fitzpatrick",,,,W.A. Mason & Son Co.
-Perkins_M_T179-1,42.37263,-71.117018,T179,1924-02-04,"Cambridge, MA","Young Spaulding, Niles",,"Mass Ave, Massachusetts Ave, Plympton St, Linden St",,,,,W.A. Mason & Son Co.
+Perkins_M_T179-1,42.37263,-71.117018,T179,1924-02-04,"Cambridge, MA","YoungSpaulding,Niles",,"Mass Ave, Massachusetts Ave, Plympton St, Linden St",,,,,W.A. Mason & Son Co.
 Perkins_M_T179-11,42.395965,-71.132473,T179,1923-12-21,"Cambridge, MA",,Plan of Premises,"Dudley St, Reed St","Mary Schiappa, Albert Bassi",,,,W.A. Mason & Son Co.
 Perkins_M_T179-12,42.382771,-71.104851,T179,1923-10-25,"Somerville, MA","Kitfield, Fred M.",,"Somerville Ave, Vine St",St. Anthony's Church,,,,W.A. Mason & Son Co.
 Perkins_M_T179-13,42.374537,-71.150873,T179,1923-11-01,"Watertown, MA",,Plan of Land,"Belmont St, Mount Auburn St",,,,,W.A. Mason & Son Co.
@@ -1212,7 +1212,7 @@ Perkins_M_T193-8,42.373312,-71.125767,T193,1925-06-22,"Cambridge, MA",,Plan of P
 Perkins_M_T193-9_bp,42.364751,-71.102169,T193 bp,1925-06-18,"Cambridge, MA",,Plan of Premises,"Norfolk St, Mass Ave, Massachusetts Ave","Harris Ginsburg, Olympia Theatres Inc., Sadie Athanas",blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T194-1,42.388283,-71.124399,T194,1924-07-05,"Cambridge, MA","Evans, Frank T.",,"Cambridge Terrace, Vuena Vista Park, Richdale Ave",,,,,W.A. Mason & Son Co.
 Perkins_M_T194-1_bp,42.388283,-71.124399,T194 bp,1924-07-05,"Cambridge, MA","Evans, Frank T.",,"Cambridge Terrace, Vuena Vista Park, Richdale Ave",,blueprint,,blueprint,W.A. Mason & Son Co.
-Perkins_M_T194-1,42.388283,-71.124399,T194,1927-09-01,"Cambridge, MA","Evans, Frank T.",,"Cambridge Terrace, Vuena Vista Park, Richdale Ave","certification letter, possibly for this survey, mentioning Ezra Andleman on Portland Street and Lilac Court€¦",,,,W.A. Mason & Son Co.
+Perkins_M_T194-1,42.388283,-71.124399,T194,1927-09-01,"Cambridge, MA","Evans, Frank T.",,"Cambridge Terrace, Vuena Vista Park, Richdale Ave","certification letter, possibly for this survey, mentioning Ezra Andleman on Portland Street and Lilac CourtÃ¢â€šÂ¬Ã‚Â¦",,,,W.A. Mason & Son Co.
 Perkins_M_T194-2,42.370791,-71.113429,T194,1925-08-01,"Cambridge, MA","Southwick, Annie E.",,"Mass Ave, Massachusetts Ave, Trowbridge St","Helen L. Leach & Gertrude B. Townsend, Frances A. Parker, Marion L. Conley, Nellie A. Gould",letter to C.A. Mason from Boston Elevated Railway,,,W.A. Mason & Son Co.
 Perkins_M_T194-5,42.397981,-71.130102,T194,1925-02-27,"Cambridge, MA",,Plan of Land,"Cameron Ave, Fair Oaks St, Camp St, Mass Ave, Massachusetts Ave","David Farguhar, Columbia Jewelry Co., Sarah A. Henderson, Michael Cavanough",,,,W.A. Mason & Son Co.
 Perkins_M_T194-7_bp,42.369056,-71.101418,T194 bp,1924-05-20,"Cambridge, MA","Nash, Albert W.",,"Prospect St, Harvard St, Broadway","Kate L. Allen and Annie E. Allen, James F. Aylward",blueprint,,blueprint,W.A. Mason & Son Co.
@@ -1299,7 +1299,7 @@ Perkins_M_T202-2,42.45244,-71.137778,T202,1926-07-02,"Winchester, MA","Nelson, A
 Perkins_M_T202-2_bp,42.45244,-71.137778,T202 bp,1926-07-02,"Winchester, MA","Nelson, Arthur T.",,"Church St, Common St","James B. & Lydia B. Webster, Emma A. Emery, Augusta J. Marchant, Depot Grounds",blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T202-2,42.45244,-71.137778,T202,1926-07-02,"Winchester, MA","Nelson, Arthur T.",,"Church St, Common St",,,,,W.A. Mason & Son Co.
 Perkins_M_T202-4_bp,42.369987,-71.226967,T202 bp,1926-03-10,"Waltham, MA",Standard Oil Company of New York,,"Muldoon Court, Calvary St",Boston & Maine Railroad Fitchburg Div. Watertown Branch,blueprint,,blueprint,W.A. Mason & Son Co.
-Perkins_M_T202-5_bp,42.357585,-71.104932,T202 bp,1926-06-19,"Cambridge, MA","Reardon, Edmund",,"Waverly St, Allston St, Bell Court, Erie St","U.S. Column Company, Fort Washington Park",blueprint,,blueprint,W.A. Mason & Son Co.
+Perkins_M_T202-5_bp,42.357585,-71.104932,T202 bp,1926-06-19,"Cambridge, MA","Reardon,Edmund",,"Waverly St, Allston St, Bell Court, Erie St","U.S. Column Company, Fort Washington Park",blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T203-1,42.37802,-71.149263,T203,1925-12-01,"Cambridge, MA","Clow, J.H.",,"Holworthy St, Park Ave, Holmes St, High St",,,,,W.A. Mason & Son Co.
 Perkins_M_T203-1_bp,42.37802,-71.149263,T203 bp,1925-12-01,"Cambridge, MA","Clow, J.H.",,"Holworthy St, Park Ave, Holmes St, High St",,blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T203-10_bp,42.313068,-71.208529,T203 bp,1926-12-05,"Newton, MA",,Plan of road,"Winchester St, Upland Ave","George. W. Briggs, Davis S. Farnham, Safford and Coburn, Wm. L. Lockhart, J. Alba Davis, Edward Cox, David S. Farnham, Wllen M. Moore, Sm.H. Giles, Charles B. Lentell",blueprint,,blueprint,Dept. of Public Works
@@ -1477,7 +1477,7 @@ Perkins_M_T211-2_bp,42.359135,-71.115344,T211 bp,1926-12-07,"Cambridge, MA",,Pla
 Perkins_M_T211-4,42.370035,-71.110345,T211,1927-01-19,"Cambridge, MA","Carrig, James A.",,Dana St,,,,,W.A. Mason & Son Co.
 Perkins_M_T211-5,42.345501,-71.075417,T211,1926-12-30,"Boston, MA",,Plan of Land,Columbus St,,,,,W.A. Mason & Son Co.
 Perkins_M_T211-5,42.345501,-71.075417,T211,1927-06-10,"Boston, MA",,Plan of Land,Columbus St,,,,,W.A. Mason & Son Co.
-Perkins_M_T211-6,42.360015,-71.10733,T211,1927-05-17,"Cambridge, MA","Reardon, Edmund",,"Erie St, Pearl St",,,,,W.A. Mason & Son Co.
+Perkins_M_T211-6,42.360015,-71.10733,T211,1927-05-17,"Cambridge, MA","Reardon,Edmund",,"Erie St, Pearl St",,,,,W.A. Mason & Son Co.
 Perkins_M_T211-6,42.360015,-71.10733,T211,1927-05-20,"Cambridge, MA",John Reardon & Sons Co.,,"Erie St, Pearl St",,,,,W.A. Mason & Son Co.
 Perkins_M_T211-7,42.310645,-71.124737,T211,1927-06-01,"Jamaica Plain (Boston, MA)",,Moss Hill,"Moss Hill Rd, Cedarwood Rd",,,,,W.A. Mason & Son Co.
 Perkins_M_T211-9,42.419615,-71.152434,T211,1927-09-19,"Arlington, MA","Winn, G.A. ",,"Mystic St, Summer St",,,,,W.A. Mason & Son Co.
@@ -1756,7 +1756,7 @@ Perkins_M_T231-15,42.355905,-71.136034,"T224, T231",1941-05-15,"Boston, MA",Alba
 Perkins_M_T231-8_bp,42.372398,-71.109747,T231 bp,1941-01-22,"Cambridge, MA","White, Joseph F.",,Broadway; Ellery St; Cleveland St,,,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T231-11_bp,42.348798,-71.098753,T231 bp,1940-08-20,"Boston, MA",Gulf Oil Corporation,,Beacon St; Commonwealth Ave,"Burton, Roger O.; Toomey, Thomas F.","subway tracks, below ground and surface details",,blueprint,W.A. Mason & Son Co.
 Perkins_M_T231-15_bp,42.355905,-71.136034,T231 bp,1941-05-15,"Boston, MA",Albany Carpet Cleaning Co.,,Emery Rd; Pennimen Rd,,,,blueprint,W.A. Mason & Son Co.
-Perkins_M_OS_T24-10,42.357375,-71.104444,OS T24,1890-10-16,"Cambridge, MA","Reardon, Edmund",,"Waverly St, Erie St ext, Bell Court, Allston St",Fort Washington,,,,Unknown
+Perkins_M_OS_T24-10,42.357375,-71.104444,OS T24,1890-10-16,"Cambridge, MA","Reardon,Edmund",,"Waverly St, Erie St ext, Bell Court, Allston St",Fort Washington,,,,Unknown
 Perkins_M_OS_T24-12,42.371021,-71.086709,OS T24,1890-11-28,"Cambridge, MA","Bettinson, J.W.",,"Eighth St, Otis St, Ninth St, Thorndike St",,houses shown,"1887-90, express - H. W. Bettinson & Co, 103 Cambridge St, Cambridge, 32 Court St, Boston; home:  65 Otis  (1861 - express 5 Congress Sq)",,Unknown
 Perkins_M_OS_T24-13,42.37336,-71.150234,OS T24,1890-10-13,"Watertown, MA","Bird, Ann E.",,"Sawin St, Cottage St","Watertown Branch Fitchburg RR, Mt. Auburn Cemetery","elaborate title block, areas on lots",,,Unknown
 Perkins_M_OS_T24-14,42.374525,-71.151672,OS T24,1890-10-13,"Watertown, MA","Bird, Ann E.",,"Belmont St, Mount Auburn St, Masters Ave",Mt. Auburn Union Mission Chapel,,"widow of Joseph, home junction of Belmont",,Unknown
@@ -1774,7 +1774,7 @@ Perkins_M_T25-1,42.39724,-71.13339,T25,1876-05-24,"Cambridge, MA","Cook, J.B.",,
 Perkins_M_T25-13,42.378923,-71.129426,T25,1892-07-21,"Cambridge, MA","Tower, Mrs. D.B.",,Parker St,"Edwin H. Abbott, J. A. Henshaw","nice title block, names on lots",,,W.A. Mason & Son Co.
 Perkins_M_T25-14,42.378943,-71.129372,T25,1892-06-25,"Cambridge, MA","Tower, Mrs. D.B.",,"Craigie St, Parker St, buckingham St, Hall Pl,",,,,,W.A. Mason & Son Co.
 Perkins_M_T25-16,42.369396,-71.114475,T25,1892-05-01,"Cambridge, MA","Gooch, N.G.",,"Banks St, Mount Auburn St, Putnam Ave, surry St, Green St","J. G. Gooch, J. V. Apthorp, Bolster","nice title block, names on lots",,,W.A. Mason & Son Co.
-Perkins_M_T25-18,42.395684,-71.129329,T25,1892-06-18,"Cambridge, MA","Reardon, Edmund",,"Cedar St, Norris St, North Ave","Walter Lernod, Albert A. Redway, Ira Littlefield, Morrill Frost, Grace E. Coffin","elaborate title block, names on lots",,,W.A. Mason & Son Co.
+Perkins_M_T25-18,42.395684,-71.129329,T25,1892-06-18,"Cambridge, MA","Reardon,Edmund",,"Cedar St, Norris St, North Ave","Walter Lernod, Albert A. Redway, Ira Littlefield, Morrill Frost, Grace E. Coffin","elaborate title block, names on lots",,,W.A. Mason & Son Co.
 Perkins_M_T25-2,42.35829,-71.325463,T25,1892-07-29,"Weston, MA","Brown, H.L.; Freeman, James",,Elm St,Oliver Locke,"nice title block and northarrow, shows stone walls",,,W.A. Mason & Son Co.
 Perkins_M_T25-3,42.387684,-71.11705,T25,1892-05-14,"Somerville, MA","Blaikie, Suther",,"Massland St, Somerville Ave",,nice title block,,,W.A. Mason & Son Co.
 Perkins_M_T25-6,42.372064,-71.117705,T25,1892-05-16,"Cambridge, MA","Danforth, Cyrus",,"Bow St, Linden St","John F. Danskin, Cunio",shows house on lot,,,W.A. Mason & Son Co.
@@ -1816,9 +1816,9 @@ Perkins_M_T29-1,42.363364,-71.077659,T29,1892-12-02,,,,First St,Damon,,,,W.A. Ma
 Perkins_M_T29-10,42.397565,-71.132162,T29,1892-12-20,"Cambridge, MA","Wilbur, J.W.",,"Harvey St, Westley Ave",Boston & Lowell Branch Railroad,,,,W.A. Mason & Son Co.
 Perkins_M_T29-11,42.375591,-71.106638,T29,1892-11-14,"Cambridge, MA",,"Plan of Valuable House Lots for Sale, Francis Traynor Agent","Magnolia St, Nina St, Cambridge St, Hovey St, Pinta St, Santa Maria St, Leonard Ave",,"elaborate title block and northarrow, areas on lots",,,W.A. Mason & Son Co.
 Perkins_M_T29-12,42.374913,-71.203782,T29,1892-10-15,,"Hetherston, Andrew",,Main St,,"homestead, stone walls, landscaping shown",,,W.A. Mason & Son Co.
-Perkins_M_T29-14,42.490327,-71.136882,T29,1892-09-07,"Woburn, MA","Reardon, Edmund",,"Beach St, Salem St","Poor Farm, Job Perkins, T. Pasho, B. Richardson, O. F. Bryant, Mrs. N. Hyde, Susan Edgell, Luke Tidd, F. Keyes, Boston & Lowell Railroad","names on properties, areas on properties, nice title block and north arrow",,,W.A. Mason & Son Co.
+Perkins_M_T29-14,42.490327,-71.136882,T29,1892-09-07,"Woburn, MA","Reardon,Edmund",,"Beach St, Salem St","Poor Farm, Job Perkins, T. Pasho, B. Richardson, O. F. Bryant, Mrs. N. Hyde, Susan Edgell, Luke Tidd, F. Keyes, Boston & Lowell Railroad","names on properties, areas on properties, nice title block and north arrow",,,W.A. Mason & Son Co.
 Perkins_M_T29-15,42.490331,-71.136818,T29,9999-01-01,"Woburn, MA",,,"Salem St, Beach St",,,,,Unknown
-Perkins_M_T29-16,42.395375,-71.12978,T29,1892-08-22,"Cambridge, MA","Reardon, Edmund",,"Cedar St, Norris St, North Aven","Ira Littlefield, Walter Lerned, Albert A. Redway",,,,W.A. Mason & Son Co.
+Perkins_M_T29-16,42.395375,-71.12978,T29,1892-08-22,"Cambridge, MA","Reardon,Edmund",,"Cedar St, Norris St, North Aven","Ira Littlefield, Walter Lerned, Albert A. Redway",,,,W.A. Mason & Son Co.
 Perkins_M_T29-17,42.360074,-71.134323,T29,1892-09-19,"Allston (Boston, MA)",,,"Brentwood St, Athol St Holton St",,,,,W.A. Mason & Son Co.
 Perkins_M_T29-18,42.359416,-71.136072,T29,1892-11-04,"Allston (Boston, MA)","Rice, Abel F.",,"Everett St, Holton St, Aldee St","Saml. N. Davenport, Florence Davenport",,,,W.A. Mason & Son Co.
 Perkins_M_T29-19,42.359432,-71.136142,T29,1892-12-13,"Allston (Boston, MA)","Rice, Abel F.",,"Everett St, Holton St, Aldee St","Saml. N. Davenport, Florence Davenport",,,,W.A. Mason & Son Co.
@@ -1829,10 +1829,10 @@ Perkins_M_T29-6,42.374513,-71.108236,T29,1892-10-17,"Cambridge, MA",,,"Ellery St
 Perkins_M_T3-1,42.340045,-71.154971,T3,1887-03-12,"Brighton (Boston, MA)","Hathaway, James A.",,Chestnut Hill Ave,"George. A. Wilson, B.F. Ricker, City of Boston, W.S. Parker",,,,W.A. Mason & Son Co.
 Perkins_M_T3-11,42.391104,-71.150637,T3,1887-03-25,"Cambridge, MA","Bay State Brick Co.; Tibbets, Charles E.",Bay State Brick Co. to Charles E. Tibbetts,Spruce St,Abuttors: Thomas G. Kent,Spruce St. formerly Kidders Lane,,,W.A. Mason & Son Co.
 Perkins_M_T3-13,42.385042,-71.124399,T3,1887-04-20,"Cambridge, MA",,,"Avon Hill St, Hillside Ave, Washington Ave,","Abuttors: Chloe C. Kelley, James Mellon, Stillman F. Kelley,",,,,W.A. Mason & Son Co.
-Perkins_M_T3-14,42.372872,-71.119464,T3,1884-04-01,"Cambridge, MA","Read, William",,"Mount Auburn St Boylston St, Harvard Sq",piece cut off by city to widen Harvard Square,"Stables, Cambridge Railroad Co., stores shops dwellings",,,W.A. Mason & Son Co.
+Perkins_M_T3-14,42.372872,-71.119464,T3,1884-04-01,"Cambridge, MA","Read,William",,"Mount Auburn St Boylston St, Harvard Sq",piece cut off by city to widen Harvard Square,"Stables, Cambridge Railroad Co., stores shops dwellings",,,W.A. Mason & Son Co.
 Perkins_M_T3-15,42.367478,-71.052285,T3,1887-01-10,"Boston, MA","Grueby, Edward L.",,"Hanover St, Commercial St",Abuttors: Fitchburg Railroad Co.,"Livery stable, dwelling",,,W.A. Mason & Son Co.
 Perkins_M_T3-15a,42.367359,-71.052232,T3,1905-03-08,"Boston, MA",Constitution Wharf,,Commercial St,"John H. Rice 10 & 12 Federal St., boston, Mass Surveyor for the constitution Wharf Co.",Brick Warehouse,,,"Rice, John H."
-Perkins_M_T3-2,42.379724,-71.122618,T3,1884-03-31,"Cambridge, MA","Dresser, Edwin",,"Chauncy St , Wallace St","Lewis heirs, George. C. Raymond, M. B. Boynton, Chas. Moore, Chas. F. Stearns",,,,"Hodges, A."
+Perkins_M_T3-2,42.379724,-71.122618,T3,1884-03-31,"Cambridge, MA","Dresser, Edwin",,"Chauncy St, Wallace St","Lewis heirs, George. C. Raymond, M. B. Boynton, Chas. Moore, Chas. F. Stearns",,,,"Hodges, A."
 Perkins_M_T3-3,42.387688,-71.105093,T3,1886-12-30,"Somerville, MA",,,"Benton Ave, Cambria St, Summer St, Central St","R.P. Benton, H.M. Pitman, John H. Dawe, New England Life Insurance Company",Benton Ave. colored in red,,,W.A. Mason & Son Co.
 Perkins_M_T3-3,42.387688,-71.105093,T3,1886-12-30,"Somerville, MA",,,Benton Ave,"Abuttors: R.P. Benton, H.M. Pitman, John H. Dawe, New England Life Insurance Company",,,,W.A. Mason & Son Co.
 Perkins_M_T3-6,42.349458,-71.131829,T3,1887-03-08,"Allston (Boston, MA); Brighton (Boston, MA)",,"House lots for sale in Allston, Brighton district ward 25 Boston","Commonwealth Ave, Gorham St, Holmes Ave, (Brainard), Harvard Ave",,,,,W.A. Mason & Son Co.
@@ -1850,7 +1850,7 @@ Perkins_M_T31-13,42.368493,-71.101971,T31,9999-01-01,"Cambridge, MA","Allen, Fra
 Perkins_M_T31-14,42.392776,-71.131502,T31,1894-02-06,"Cambridge, MA","Whitman, E. P.",,"Middlesex St, Spruce St","Fitchburg Railroad, E. Perry, O'Hara, P. O'Keefe, D. O'Keefe, D. O'Connell","nice title block, names on lots",,,W.A. Mason & Son Co.
 Perkins_M_T31-15,42.367438,-71.052226,T31,1894-02-10,"Boston, MA","Grueby, Edward L.",,"Hanover St, Flagg St","Land of the Constitution Wharf Co., John H. Rice, Winnisimmet Ferry Company","nice title block, shows dwellings, livery, stable, store, warehouse, signed in agreement by surveyors for Edward Grueby and the Constitution Wharf Co.",,,W.A. Mason & Son Co.
 Perkins_M_T31-16,42.369016,-71.116868,T31,1905-03-08,"Cambridge, MA",,,"DeWolf St, Beaver St, Otter St, Cowperthwaite St, Dyke St",Charles River Harbor Line,,,,W.A. Mason & Son Co.
-Perkins_M_T31-4,42.372194,-71.117023,T31,1894-03-12,"Cambridge, MA","Young Spaulding, Niles",,"Plympton St, Bow St, Linden St, Harvard St",,"elaborate title block and northarrow, house on lot",,,W.A. Mason & Son Co.
+Perkins_M_T31-4,42.372194,-71.117023,T31,1894-03-12,"Cambridge, MA","YoungSpaulding,Niles",,"Plympton St, Bow St, Linden St, Harvard St",,"elaborate title block and northarrow, house on lot",,,W.A. Mason & Son Co.
 Perkins_M_T31-6,42.363594,-71.096005,T31,1893-10-18,"Cambridge, MA","Haywood, A. F.",,"Main St, Clark St, Windsor St, School St",,"nice title block and northarrow, shows lamp, stakes, stone bounds",,,W.A. Mason & Son Co.
 Perkins_M_T31-9,42.398009,-71.12927,T31,1894-03-08,"Cambridge, MA","Wilbur, J.W.",,,"Lexington & Arlington Railroad, Cameron",nice title block and north arrow,,,W.A. Mason & Son Co.
 Perkins_M_T32-1,42.373843,-71.10623,T32,1894-03-26,"Cambridge, MA",,,,,,,,W.A. Mason & Son Co.
@@ -1885,7 +1885,7 @@ Perkins_M_T34-22,42.358136,-71.104846,T34,1894-12-10,"Cambridge, MA","Dana, S. A
 Perkins_M_T34-23,42.36904,-71.09688,T34,1895-01-14,"Cambridge, MA","Ingalls, Frances B.",,"Columbia St, Market St",,houses on lots,,,W.A. Mason & Son Co.
 Perkins_M_T34-24,42.384637,-71.128525,T34,1894-10-10,"Cambridge, MA",A.H. Hews & Co. Inc.,,Huron St,"A.N.Wyeth, C. A. Mason",,,,W.A. Mason & Son Co.
 Perkins_M_T34-26,43.269769,-71.960192,T34,1894-09-01,"Bradford, NH","Gillis, Charles",Hotel Premises and Land of Mr. Charles Gillis,Hillsboro Rd,"Melvin, Morse, Sortell","nice title block, shows hotel buildings, flag pole, hands point to other town directions",,,W.A. Mason & Son Co.
-Perkins_M_T34-27,42.379276,-71.134087,T34,1894-10-18,"Cambridge, MA","Read, William",,"Appleton St, Highland St","Gould, H.N. Tilton, C. C. Little, Hrs of Wm. Cook, F. A. Kennedy, City of Cambridge Reservoir","nice title block, names on lots, buildings on Read Estate",,,W.A. Mason & Son Co.
+Perkins_M_T34-27,42.379276,-71.134087,T34,1894-10-18,"Cambridge, MA","Read,William",,"Appleton St, Highland St","Gould, H.N. Tilton, C. C. Little, Hrs of Wm. Cook, F. A. Kennedy, City of Cambridge Reservoir","nice title block, names on lots, buildings on Read Estate",,,W.A. Mason & Son Co.
 Perkins_M_T34-28,42.376173,-71.13361,T34,1894-11-12,,,,Lowell St,"Avon House, Susan L. Bell, School House Lot, R. J.Melledge, W.B.Durant",,,,W.A. Mason & Son Co.
 Perkins_M_T34-29,42.377247,-71.111755,T34,1875-06-22,"Cambridge, MA","Ebenezer, Francis",,,"Mrs. J. Rand, Mrs. Brooks, A.Hyatt S.E.Turner, C. W. Munroe, W.A.Locke, A.A.Harris, C. B. Davenport, W.M.Davis,","nice title block and northarrow, names on lots, houses",,,W.A. Mason & Son Co.
 Perkins_M_T34-5,42.366202,-71.108569,T34,1894-12-08,"Cambridge, MA","Green, Jos",,Sodon St,Joseph Green,houses on lots,,,W.A. Mason & Son Co.
@@ -2003,7 +2003,7 @@ Perkins_M_T42-1,42.391485,-71.13128,T42,1900-03-02,"Cambridge, MA",,Desirable ho
 Perkins_M_T42-12,42.380625,-71.101564,T42,1896-07-23,"Somerville, MA",American Tube Works,,"Lake St, Church St, Church St Place",,,,,W.A. Mason & Son Co.
 Perkins_M_T42-14,42.364524,-71.111162,T42,1896-07-15,"Cambridge, MA","Nesson, Israel",,"Western Ave, Howard St",,,,,W.A. Mason & Son Co.
 Perkins_M_T42-16,42.36464,-71.098123,T42,1896-07-20,"Cambridge, MA","Green, Henry",,Pine St,I. Nesson,,,,W.A. Mason & Son Co.
-Perkins_M_T42-17,42.36103,-71.096695,T42,9999-01-01,"Cambridge, MA",,,"Albany St, Mass Ave, Massachusetts Ave, Smart St , Windsor St",M. Barrett,,,,Unknown
+Perkins_M_T42-17,42.36103,-71.096695,T42,9999-01-01,"Cambridge, MA",,,"Albany St, Mass Ave, Massachusetts Ave, Smart St, Windsor St",M. Barrett,,,,Unknown
 Perkins_M_T42-18,42.366564,-71.111716,T42,1896-06-19,"Cambridge, MA","Chamberlain, Newell; Chamberlain, George D.",,Hayes St,,,,,W.A. Mason & Son Co.
 Perkins_M_T42-19,42.37041,-71.087431,T42,1896-07-08,"Cambridge, MA","Goepper, William",,"Ninth St, Thorndike St","Goepper brothers, Woodman",,,,W.A. Mason & Son Co.
 Perkins_M_T42-2,42.367685,-71.095427,T42,1895-05-01,"Cambridge, MA","Neckolaewsky, S.",,"Market St, Windsor St, Broadway",,,,,W.A. Mason & Son Co.
@@ -2038,9 +2038,9 @@ Perkins_M_T44-19,42.372028,-71.117511,T44,1897-04-13,"Cambridge, MA",,,"Linden S
 Perkins_M_T44-2,42.38818,-71.114239,T44,1897-02-20,"Somerville, MA","Gilson, Delia S.",,"Linden Ave, Gilson Park",,,,,Unknown
 Perkins_M_T44-2,42.38818,-71.114239,T44,1897-12-28,"Somerville, MA","Gilson, Delia S.",,"Linden Ave, Gilson Terrace",,,,,W.A. Mason & Son Co.
 Perkins_M_T44-21,42.37116,-71.109036,T44,1897-05-01,"Cambridge, MA","Porter, Linn B.",,"Harvard St, Dana St, Chatham St",,,,,W.A. Mason & Son Co.
-Perkins_M_T44-23,42.395668,-71.129571,T44,1897-05-17,"Cambridge, MA","Reardon, Edmund",,"Massachusetts Ave, Mass Ave, North Ave, Cedar St, Norris St","Abuttors: Ira Littlefield, Albert A. Redway, City of Cambridge, Walter Lerned, Grace E. Coffin, Morrill Trust",,,,W.A. Mason & Son Co.
+Perkins_M_T44-23,42.395668,-71.129571,T44,1897-05-17,"Cambridge, MA","Reardon,Edmund",,"Massachusetts Ave, Mass Ave, North Ave, Cedar St, Norris St","Abuttors: Ira Littlefield, Albert A. Redway, City of Cambridge, Walter Lerned, Grace E. Coffin, Morrill Trust",,,,W.A. Mason & Son Co.
 Perkins_M_T44-25,42.384931,-71.127725,T44,1897-05-16,"Cambridge, MA",A.H. Hews & Co. Inc.,,"Huron Ave, Newell St","Abuttors: A.N. Wyeth, Charles A. Mason",,,,W.A. Mason & Son Co.
-Perkins_M_T44-25_bp,42.384931,-71.127725,T44 bp,1897-05-17,"Cambridge, MA","Reardon, Edmund",,"Massachusetts Ave, Mass Ave, North Ave, Cedar St, Norris St","Abuttors: Ira Littlefield, Albert A. Redway, City of Cambridge, Walter Lerned, Grace E. Coffin, Morrill Trust",blueprint,,blueprint,W.A. Mason & Son Co.
+Perkins_M_T44-25_bp,42.384931,-71.127725,T44 bp,1897-05-17,"Cambridge, MA","Reardon,Edmund",,"Massachusetts Ave, Mass Ave, North Ave, Cedar St, Norris St","Abuttors: Ira Littlefield, Albert A. Redway, City of Cambridge, Walter Lerned, Grace E. Coffin, Morrill Trust",blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T44-26,42.359305,-71.159284,T44,1897-05-13,"Brighton (Boston, MA)","Whitten, J.O.",,Charles River,"Park purposes, estate of J.O. Whitten",,,,W.A. Mason & Son Co.
 Perkins_M_T44-27,42.373019,-71.119555,T44,1897-03-01,"Cambridge, MA",Harvard Square,,"Brattle St, Boylston St, Dunster St, Mount Auburn St, Mass Ave, Massachusetts Ave, Harvard College Grounds",,,,,W.A. Mason & Son Co.
 Perkins_M_T44-28,42.358528,-71.1654,T44,1897-05-13,"Brighton (Boston, MA)","Whitten, J.O.",,Charles River,"Park purposes, estate of J.O. Whitten",,,,W.A. Mason & Son Co.
@@ -2161,7 +2161,7 @@ Perkins_M_T50-4,42.370038,-71.114068,T50,1899-04-12,"Cambridge, MA","Horton, Aug
 Perkins_M_T50-5,42.220656,-70.969741,T50,9999-01-01,"Braintree, MA","Hews, Albert H.; Mason, Charles A.",,"Commercial St, Quincy Ave, Kirkland St, Brookline St","Hews & Mason, Rhoda Hill, Pierce, Church",,,,Unknown
 Perkins_M_T50-6,42.374366,-71.097888,T50,1899-03-07,"Somerville, MA","Heffernan, George D.",,Houghton St,"George D. Heffernan. Cunningham, Grover, Ellis",houses on lots,,,Unknown
 Perkins_M_T50-9,42.373268,-71.102089,T50,1897-04-28,"Cambridge, MA",,,"Fayette St, Antrim St",,,,,W.A. Mason & Son Co.
-Perkins_M_T51-1,42.360871,-71.096317,T51,1898-07-27,"Cambridge, MA","Otis, James",,"Smart St, Massachusetts Ave, Mass Ave, Albany St, Windsor St","Barrett, Mary E. Barrett",nice title block,,,W.A. Mason & Son Co.
+Perkins_M_T51-1,42.360871,-71.096317,T51,1898-07-27,"Cambridge, MA","Otis,James",,"Smart St, Massachusetts Ave, Mass Ave, Albany St, Windsor St","Barrett, Mary E. Barrett",nice title block,,,W.A. Mason & Son Co.
 Perkins_M_T51-11,42.359115,-71.099042,T51,1899-01-09,"Cambridge, MA",Lamb & Ritchie Co.,,"Patrick St, Albany St","Boston & Albany Branch Railroad, Pickeral Track","shows buildings on lot, deed references, nice title block and northarrow",,,W.A. Mason & Son Co.
 Perkins_M_T51-14,42.370431,-71.087117,T51,1898-11-10,"Cambridge, MA","Goepper, William",,"Spring St, Ninth St, Thorndike St",Robert Weitze,"shows houses, street numbers",,,W.A. Mason & Son Co.
 Perkins_M_T51-3,42.386587,-71.130702,T51,1899-01-01,"Cambridge, MA",,,"Walden St, Sherman St",,,,,Unknown
@@ -2172,7 +2172,7 @@ Perkins_M_T51-9,42.375405,-71.147751,T51,1898-11-19,"Cambridge, MA",Alex McDonal
 Perkins_M_T52-1,42.359778,-71.104285,T52,1899-05-29,"Cambridge, MA","Dorsey, Joseph A.",,"Emily St, Sidney St, Brookline St, Valentine St, Decatur St",Joseph A. Dorsey,,,,W.A. Mason & Son Co.
 Perkins_M_T52-1,42.359778,-71.104285,T52,1899-07-08,"Cambridge, MA","Nesson, Israel",,"Harvard St, Burleigh St",,shows houses on lots,,,Unknown
 Perkins_M_T52-10,42.413508,-71.16218,T52,1899-06-10,"Arlington, MA","Harding, Harriet A.",,"Bartlett Ave, Irving St",,,,,W.A. Mason & Son Co.
-Perkins_M_T52-12,42.370735,-71.106211,T52,1898-11-09,"Cambridge, MA","Teele, Samuel P.",,"Hancock Park, Hancock St",,"house shown on lot, nice title block and north-arrow",,,W.A. Mason & Son Co.
+Perkins_M_T52-12,42.370735,-71.106211,T52,1898-11-09,"Cambridge, MA","Teele,SamuelP.",,"Hancock Park, Hancock St",,"house shown on lot, nice title block and north-arrow",,,W.A. Mason & Son Co.
 Perkins_M_T52-13,42.370877,-71.100946,T52,1899-05-18,"Cambridge, MA","MacLeod, W.G.",,"Amory St, Summer St",L. J. Verity,,"Agent 1890, h: 96 Inman, office same",,W.A. Mason & Son Co.
 Perkins_M_T52-14,42.364338,-71.092139,T52,1899-07-08,"Cambridge, MA","Nesson, Israel",,"Burleigh St, Harvard St",,houses on lots,,,W.A. Mason & Son Co.
 Perkins_M_T52-16,42.383778,-71.1134,T52,1899-07-08,"Somerville, MA","Nesson, Israel",,Beacon St,Cotter,house on lot,,,W.A. Mason & Son Co.
@@ -2182,7 +2182,7 @@ Perkins_M_T52-22,42.399032,-71.130593,T52,1899-05-30,"Cambridge, MA",Clark Broth
 Perkins_M_T52-23,42.360165,-71.104289,T52,1899-05-22,"Cambridge, MA",Cambridge Field Co.,,"Decatur St, Sidney St, Brookline St",,,,,W.A. Mason & Son Co.
 Perkins_M_T52-25,42.358677,-71.138559,T52,1887-02-08,"Allston (Boston, MA)",Sewall; Day Cordage Co.,,"Everett St, Lincoln St, Western Ave",George H. Scott,elaborate title block and northarrow,,,W.A. Mason & Son Co.
 Perkins_M_T52-4,42.38391,-71.115055,T52,1899-07-17,"Cambridge, MA",Cambridge Real Estate Trust,,"Traymore St, Harris St, Eustis St",E.R.Ellis,nice title block and north arrow,,,W.A. Mason & Son Co.
-Perkins_M_T52-7,42.36455,-71.095711,T52,9999-01-01,"Cambridge, MA","Teele, Samuel P.",,"Washington St, Clark St, Lafayette Sq",,shows houses on lots,,,W.A. Mason & Son Co.
+Perkins_M_T52-7,42.36455,-71.095711,T52,9999-01-01,"Cambridge, MA","Teele,SamuelP.",,"Washington St, Clark St, Lafayette Sq",,shows houses on lots,,,W.A. Mason & Son Co.
 Perkins_M_T52-8,42.363383,-71.101185,T52,9999-01-01,"Cambridge, MA",,Lafayette Square,"Massachusetts Ave, Mass Ave, Main St, Green St, Brookline St, Columbia St, Douglass St","New York Biscuit Co., fire engine house, Kennedy, Mason, Blanchard",shows buildings on lots,,,Unknown
 Perkins_M_T52-9,42.363354,-71.101224,T52,9999-01-01,"Cambridge, MA",,Lafayette Square,"Mass Ave, Massachusetts Avenue, Main St, Sidney St, Brookline St, Green St, Commercial St","Kelly, Albert Hobart",,,,Unknown
 Perkins_M_T53-10,42.364965,-71.09431,T53,1899-10-12,"Cambridge, MA",,Plan of Premises,"Hastings St, Moore St",Formely,,,,W.A. Mason & Son Co.
@@ -2269,7 +2269,7 @@ Perkins_M_T6-13,42.353272,-71.141667,T6,1885-04-06,"Allston (Boston, MA)","Baldw
 Perkins_M_T6-16,42.362064,-71.134409,T6,1885-04-18,"Allston (Boston, MA)",Cambridge Savings Bank,,"Raymond St, Everett Sq","Louisa Wentworth, Smith, Kidder, Arkerson, Evans, Hunter, Colman, Simpson heirs","elaborate title block and northarrow, buildings shown",,,W.A. Mason & Son Co.
 Perkins_M_T6-3,42.391654,-71.122039,T6,1883-05-01,"Cambridge, MA","Fobes, Daniel",,"Blake St, North Ave Orchard St, Hadley St","Henderson Bros., Cambridge Horse Railroad, D. Blake","houses shown on Hadley St., elaborate title block. Updated 2/1884","Wholesale confectioner, 96 and 98 Sudbury St, Boston - Fobes, Haywood & Co. Joined with two other confectionary companies to form the New England Confectionary Company (NECCO) Henderson Bros: wagons, carriages, North Cambridge",,W.A. Mason & Son Co.
 Perkins_M_T6-5,42.368762,-71.10638,T6,1883-11-01,"Cambridge, MA","Burlingame, Anson",,"Clinton St, Lee St, Main St","Cambridge Horse Railroad, Ellen S. Fiske, George. Fisher, F.L.Pratt, Perez F. Bonney, B. F. Tweed, E.D.Sawyer",house and buildings shown,,,W.A. Mason & Son Co.
-Perkins_M_T6-7,42.372813,-71.120296,T6,1888-06-30,"Cambridge, MA","Read, William",,"Mount Auburn St, Boylston St","old Hastings Mansion, Mrs. John Greenleaf, Gregory Heirs, Jas Andrews, John Winthrop, Old Winthrop Mansion","mansions, stable and store",,,W.A. Mason & Son Co.
+Perkins_M_T6-7,42.372813,-71.120296,T6,1888-06-30,"Cambridge, MA","Read,William",,"Mount Auburn St, Boylston St","old Hastings Mansion, Mrs. John Greenleaf, Gregory Heirs, Jas Andrews, John Winthrop, Old Winthrop Mansion","mansions, stable and store",,,W.A. Mason & Son Co.
 Perkins_M_T6-8,42.359297,-71.126937,T6,1884-03-01,"Allston (Boston, MA)","Chamberlain Brothers; Boynton, Parker P.",,"Cambridge St, N Harvard St","Z. G. Brownell, Dan'l Robbins, George.Upton","elaborate title block, and north arrow, houses shown",,,W.A. Mason & Son Co.
 Perkins_M_T6-9,42.349886,-71.12993,T6,1886-08-10,"Allston (Boston, MA); Brighton (Boston, MA)","Griggs, Nath'l A.",,"Massachusetts Ave, Holmes Ave",,elaborate title block and north arrow,,,W.A. Mason & Son Co.
 Perkins_M_T60-10,42.364008,-71.100861,T60,1901-08-09,"Cambridge, MA","Doherty, James",,"Massachusetts Ave, Douglass St",,,,,Unknown
@@ -2358,7 +2358,7 @@ Perkins_M_T67-8,42.363495,-71.098816,T67,1903-09-03,"Cambridge, MA","Phillips, C
 Perkins_M_T68-1,42.37419,-71.102521,T68,1838-06-05,"Cambridge, MA; Somerville, MA",,Lot No. 14 on plan by Alexander Wadsworth C.E.,"Cambridge St, Line St, Beacon St",Dimick,,,,W.A. Mason & Son Co.; Alexander Wadsworth C.E.
 Perkins_M_T68-14_bp,42.362687,-71.101418,T68 bp,1903-11-10,"Cambridge, MA",National Biscuit Co.,,"Sidney St, Green St, Franklin St, Brookline St, Mount Auburn St","WG. Miller, W.J. Dwyer, Simplex Electrical Company, J.S. Sawyer, Jesse Wilcox, H.T. Skelton, J.H. Duckrey, Ellen Mulloney, Joseph and Rose Donnelly",blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T68-2_bp,42.37141,-71.096172,T68 bp,1903-10-15,"Cambridge, MA","Gannon, Thomas",,"Elm St, Lincoln St","Eliza Brennan, David Murphy, George T. Battencourt, Eliza Cherest, Margaret M. Ryan",blueprint,,blueprint,W.A. Mason & Son Co.
-Perkins_M_T68-6,42.372341,-71.120107,T68,1903-10-30,"Cambridge, MA","Read, William",,"Mount Auburn St, Boylston St","J.M. Hilton, Louis Webb, O'Brien",,,,W.A. Mason & Son Co.
+Perkins_M_T68-6,42.372341,-71.120107,T68,1903-10-30,"Cambridge, MA","Read,William",,"Mount Auburn St, Boylston St","J.M. Hilton, Louis Webb, O'Brien",,,,W.A. Mason & Son Co.
 Perkins_M_T68-7,42.372477,-71.117886,T68,1903-10-31,"Cambridge, MA",Hasty Pudding Club,,Holyoke St,"Francis Peabody Jr. et. Al trustees, J.P. Moran Tr., Mary E. Mooney, L.A. Grames","""S.L. Fuller, J.J. Storrow, & Thos. N. Perkins trustees",,,W.A. Mason & Son Co.
 Perkins_M_T68-9,42.37188,-71.120311,T68,1903-11-02,"Cambridge, MA",,,"Boylston St, Winthrop St","University Associates, Mary Splaine,",,,,W.A. Mason & Son Co.
 Perkins_M_T69-1,42.349858,-71.152922,T69,1904-04-30,"Brighton (Boston, MA)","Bennett, S.H.",,"Henshaw St, Market St",,,,,W.A. Mason & Son Co.
@@ -2388,7 +2388,7 @@ Perkins_M_T70-17,42.380933,-71.129742,T70,1904-06-10,"Cambridge, MA","Williams, 
 Perkins_M_T70-18,42.377663,-71.134769,T70,1904-05-27,"Cambridge, MA","Carr, Cornelia L.",,"Brattle St, Kennedy Ave","Isabella Carr Thompson, Bartlett",,,,W.A. Mason & Son Co.
 Perkins_M_T70-18,42.377663,-71.134769,T70,1926-07-27,"Cambridge, MA","Carr, Cornelia L.",,"Brattle St, Kennedy Ave","Isabella Carr Thompson, Bartlett",,,,W.A. Mason & Son Co.
 Perkins_M_T70-18_bp,42.377663,-71.134769,T70 bp,1926-07-27,"Cambridge, MA","Carr, Cornelia L.",,"Brattle St, Kennedy Ave","Isabella Carr Thompson, Bartlett",blueprint,,blueprint,W.A. Mason & Son Co.
-Perkins_M_T70-19,42.372856,-71.120376,T70,1904-07-12,"Cambridge, MA","Read, William",,Boylston St,"D. Brewer, J.H.H. McNamee",,,,W.A. Mason & Son Co.
+Perkins_M_T70-19,42.372856,-71.120376,T70,1904-07-12,"Cambridge, MA","Read,William",,Boylston St,"D. Brewer, J.H.H. McNamee",,,,W.A. Mason & Son Co.
 Perkins_M_T70-2,42.374176,-71.102899,T70,1904-06-06,"Cambridge, MA; Somerville, MA","Bullard, W.A.",,"Cambridge St, Line St, Beacon St",,,,,W.A. Mason & Son Co.
 Perkins_M_T70-21,42.384594,-71.118702,T70,1904-07-09,"Cambridge, MA","Barnard, Edward A.",,Massachusetts Ave,"Emma C. Campbell, Watson G. Cutter",,,,W.A. Mason & Son Co.
 Perkins_M_T70-3_bp,42.384637,-71.12787,T70 bp,1904-05-13,"Cambridge, MA","Bond, Catherine H.; Bond, Elizabeth L.",,"Huron Ave, Cutler Ave Upland Rd",,blueprint,,blueprint,W.A. Mason & Son Co.
@@ -2416,13 +2416,13 @@ Perkins_M_OS_T74-3,42.385501,-71.137333,OS T74,1896-08-05,"Cambridge, MA",Bay St
 Perkins_M_OS_T74-4,42.377124,-71.146978,OS T74,1904-02-04,"Cambridge, MA","McDonald, Alexander",,"Aberdeen Ave, Mount Auburn St, Homer Ave, Huron Ave",Friel,,,,W.A. Mason & Son Co.
 Perkins_M_OS_T74-4,42.377124,-71.146978,OS T74,1904-03-21,"Cambridge, MA","McDonald, Alexander",,"Aberdeen Ave, Mount Auburn St, Homer Ave, Huron Ave",Friel,,,,W.A. Mason & Son Co.
 Perkins_M_OS_T74-5,42.376625,-71.103682,OS T74,1899-11-01,"Somerville, MA","Dimick, Calvin",,"Dimick St, Beacon St, Calvin St, Waldo Ave, buckingham St, Harcourt St, Harold St, Concord Ave",,,,,W.A. Mason & Son Co.
-Perkins_M_OS_T74-8,42.357053,-71.103709,OS T74,1903-03-01,"Cambridge, MA","Reardon, Edmund",,"Waverly St, Erie St, Albany St, Grand Junction RR",Charles Davenport,,,,W.A. Mason & Son Co.
-Perkins_M_OS_T74-8,42.357053,-71.103709,OS T74,1903-03-01,"Cambridge, MA","Reardon, Edmund",,"Erie St, Waverly St Albany St",,tracing in pencil with note to attach to '74/8',,,W.A. Mason & Son Co.
+Perkins_M_OS_T74-8,42.357053,-71.103709,OS T74,1903-03-01,"Cambridge, MA","Reardon,Edmund",,"Waverly St, Erie St, Albany St, Grand Junction RR",Charles Davenport,,,,W.A. Mason & Son Co.
+Perkins_M_OS_T74-8,42.357053,-71.103709,OS T74,1903-03-01,"Cambridge, MA","Reardon,Edmund",,"Erie St, Waverly St Albany St",,tracing in pencil with note to attach to '74/8',,,W.A. Mason & Son Co.
 Perkins_M_OS_T76-10,42.354145,-71.109079,OS T76,1900-04-11,"Cambridge, MA",Norcross Brothers Co.,,"Brookline St,",Charles River,,,,W.A. Mason & Son Co.
 Perkins_M_OS_T76-2,42.21887,-70.971648,OS T76,1898-04-10,"Braintree, MA; Weymouth, MA",,Desirable house sites on Norfolk Hills,"Stetson St, Cliff Rd, Brookside Rd, Bellevue Rd, Peregrine Rd, Commercial St, Washington St, Washington Sq","Hews & Mason, Union Religious Society, Watson Park, R. Hill,",,,,W.A. Mason & Son Co.
 Perkins_M_OS_T76-3,42.218943,-70.971589,OS T76,1900-02-22,"Braintree, MA; Weymouth, MA","Hews, Albert H.; Mason, Charles A.","Desirable house sites on Norfolk Hills belonging to Albert H. Hews, Charles A. Mason","Stetson St, Cliff Rd, Brookside Rd, Bellevue Rd, Peregrine Rd, Commercial St, Washington St, Washington Sq","Hews & Mason, Union Religious Society, Watson Park, R. Hill,",,,,W.A. Mason & Son Co.
 Perkins_M_OS_T76-5A_bp,42.359868,-71.104422,OS T76 bp,1902-03-08,"Cambridge, MA",Cambridge Field Co.,,"Brookline St, Decatur St, Sidney St Waverly St",,blueprint,,blueprint,W.A. Mason & Son Co.
-Perkins_M_OS_T76-6,42.489678,-71.13478,OS T76,1904-04-14,"Woburn, MA","Reardon, Edmund",,"Salem St, Beach St","O.F. Bryant, b. Richardson, Mrs. N. Hyde, T. Pasho, Susan Edgell",,,,W.A. Mason & Son Co.
+Perkins_M_OS_T76-6,42.489678,-71.13478,OS T76,1904-04-14,"Woburn, MA","Reardon,Edmund",,"Salem St, Beach St","O.F. Bryant, b. Richardson, Mrs. N. Hyde, T. Pasho, Susan Edgell",,,,W.A. Mason & Son Co.
 Perkins_M_OS_T76-7,42.371878,-71.088899,OS T76,1895-11-01,"Cambridge, MA","Green, Henry",,"Cambridge St, Portland St, Berkshire St",,,,,W.A. Mason & Son Co.
 Perkins_M_OS_T76-7,42.371878,-71.088899,OS T76,1896-02-03,"Cambridge, MA","Green, Henry",,"Cambridge St, Portland St, Berkshire St",,,,,W.A. Mason & Son Co.
 Perkins_M_OS_T76-9,42.357098,-71.103225,OS T76,1898-11-21,"Cambridge, MA",,Extension of Albany Street,"Albany St, Reardon St, Waverly St",,,,,W.A. Mason & Son Co.
@@ -2483,7 +2483,7 @@ Perkins_M_T82-13,42.381131,-71.129131,T82,1906-06-22,"Cambridge, MA","Williams, 
 Perkins_M_T82-2,42.362861,-71.103607,T82,1905-11-17,"Cambridge, MA","Houghton, Blanche E.",,Mount Auburn St,"Flannigan, George Bird",,,,W.A. Mason & Son Co.
 Perkins_M_T82-3,42.399158,-71.130686,T82,1906-01-18,"Cambridge, MA",Clark Brothers,,"Yorktown St, Morrison Place",,,,,W.A. Mason & Son Co.
 Perkins_M_T82-5,42.362226,-71.102893,T82,1906-04-06,"Cambridge, MA","Boardman, Charles",,"Brookline St, Auburn St",Harvard College,,,,W.A. Mason & Son Co.
-Perkins_M_T82-9,42.379098,-71.133428,T82,1906-05-16,"Cambridge, MA","Read, William",,"Highland St, Appleton St, Brewster St","Livermore, Whittemore, Allen, Peabody, Frances J. Hubbard",,,,W.A. Mason & Son Co.
+Perkins_M_T82-9,42.379098,-71.133428,T82,1906-05-16,"Cambridge, MA","Read,William",,"Highland St, Appleton St, Brewster St","Livermore, Whittemore, Allen, Peabody, Frances J. Hubbard",,,,W.A. Mason & Son Co.
 Perkins_M_T83-10_bp,42.364942,-71.06568,T83 bp,1906-06-01,"Boston, MA","Berry, Casper",,"Ashland St, Leverett St",,blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T83-13_bp,42.373291,-71.119734,T83 bp,1906-07-18,"Cambridge, MA","McNamee, John H.H.",,"Boylston St, Brattle St",William Read,blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T83-14,42.374089,-71.102781,T83,1906-07-01,"Cambridge, MA","Dimick, Calvin",,"Cambridge St, Line St","Peltier, McCloskey",,,,W.A. Mason & Son Co.
@@ -2524,7 +2524,7 @@ Perkins_M_T89-1,42.366249,-71.07812,T89,1907-06-08,"Cambridge, MA",John T. Scull
 Perkins_M_T89-2_bp,42.374257,-71.106545,T89 bp,1907-03-13,"Cambridge, MA","Buckingham, Elizabeth R.",,"Ellsworth Ave, Cambridge St",,blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T89-3_bp,42.382022,-71.120074,T89 bp,1907-04-04,"Cambridge, MA","Colgan, A.T.",,"Shepard St, Hudson St, Mass Ave, Massachusetts Ave",,blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T89-3_bp,42.382022,-71.120074,T89 bp,1907-04-04,"Cambridge, MA","Colgan, A.T.",,"Shepard St, Hudson St, Mass Ave, Massachusetts Ave",,blueprint,,blueprint,W.A. Mason & Son Co.
-Perkins_M_T89-6,42.36079,-71.096673,T89,1907-06-19,"Cambridge, MA","Otis, James",,"Albany St, Mass Ave, Massachusetts Ave",,,,,W.A. Mason & Son Co.
+Perkins_M_T89-6,42.36079,-71.096673,T89,1907-06-19,"Cambridge, MA","Otis,James",,"Albany St, Mass Ave, Massachusetts Ave",,,,,W.A. Mason & Son Co.
 Perkins_M_T89-7,42.366239,-71.156354,T89,1907-06-01,"Watertown, MA","Chadbourne, J.H.",,"Elm St, Wheeler Place","Lyndonville Creamery Association, Hinkley",,,,W.A. Mason & Son Co.
 Perkins_M_T89-8,42.404642,-71.148934,T89,1907-06-19,"Arlington, MA","Hill, Henry V.; Hill, Francis",,"Lake St, Spy Pond Lane",,,,,W.A. Mason & Son Co.
 Perkins_M_T9-3,42.350639,-71.15348,T9,9999-01-01,"Brighton (Boston, MA)",Cattle Fair Hotel,,"Market St Washington St, Bennett St",Mrs. Eliza Heard,,,,W.A. Mason & Son Co.
@@ -2536,7 +2536,7 @@ Perkins_M_T90-16_bp,42.352653,-71.135396,"T90, T95 bp",1917-07-31,"Allston (Bost
 Perkins_M_T91-1,42.2156,-71.01036,T91,1907-07-10,"Braintree, MA","Hollis, John W.",,"Oak St, West St, Monatiquot Ave, Hollis Ave Ext",,,,,W.A. Mason & Son Co.
 Perkins_M_T91-12_bp,42.3821,-71.120079,T91 bp,1907-07-15,"Cambridge, MA","Colgan, A.T.",,"Shepard St, Mass Ave, Massachusetts Ave, Hudson St","Adam A. Koch, Emma A. Bearse, Louise P. Brown",blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T91-13_bp,42.391532,-71.129898,T91 bp,1907-08-06,"Cambridge, MA","Welsh, Willard",,"Van Norden St, Middlesex St","J.J. Williams Archbishop of Boston, John J. O'Connor, Henry E. K& Charles T. Hardwick",blueprint,,blueprint,W.A. Mason & Son Co.
-Perkins_M_T91-14,42.37756,-71.13648,T91,1907-07-31,"Cambridge, MA","Newell, Mrs. Frances B.",,"Brattle St, Wells Place",William Piper,"Copy of plan of premises in Old Cambridge€¦April 15, 1893",,,W.A. Mason & Son Co.
+Perkins_M_T91-14,42.37756,-71.13648,T91,1907-07-31,"Cambridge, MA","Newell, Mrs. Frances B.",,"Brattle St, Wells Place",William Piper,"Copy of plan of premises in Old CambridgeÃ¢â€šÂ¬Ã‚Â¦April 15, 1893",,,W.A. Mason & Son Co.
 Perkins_M_T91-15_bp,42.351428,-71.110292,T91 bp,1907-07-25,"Boston, MA","Willard, Charles E.; Abbott, E.M.",,"Commonwealth Ave, Essex St","Francis A.C. Hill, Horace Cousins",blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T91-16,42.399227,-71.129394,T91,1901-02-05,"Cambridge, MA; Somerville, MA",Camp Cameron,,"Mass Ave, Massachusetts Ave, Fair Oaks St, Cameron Ave, Camp St, Seven Pines Ave, Glendale Ave, Yorktown St, Malvern Ave","C.A. Mason, Cavanagh, Henderson, Clark Brothers",,,,W.A. Mason & Son Co.
 Perkins_M_T91-16_bp,42.399227,-71.129394,T91 bp,1901-02-05,"Cambridge, MA; Somerville, MA",Camp Cameron,,"Mass Ave, Massachusetts Ave, Fair Oaks St, Cameron Ave, Camp St, Seven Pines Ave, Glendale Ave, Yorktown St, Malvern Ave","C.A. Mason, Cavanagh, Henderson, Clark Brothers",blueprint,,blueprint,W.A. Mason & Son Co.
@@ -2604,8 +2604,8 @@ Perkins_M_T97-13,42.374174,-71.10236,T97,1908-10-01,"Cambridge, MA; Somerville, 
 Perkins_M_T97-2_bp,42.396468,-71.130315,T97 bp,1908-09-10,"Cambridge, MA","Beneks, Freda Mina ",,"Cedar St, Dudley St, Massachusetts Ave (formerly North Ave), Mass Ave","Andrew W. Woodman, George H. Morrill, Abel Fitch",blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T97-3_bp,42.373209,-71.152643,T97 bp,1908-09-01,"Watertown, MA",,,"French Terrace, Norseman Ave, Bostonia Ave, Mount Auburn St",,blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T97-5,42.366851,-71.096342,T97,1908-09-02,"Cambridge, MA","Murphy, Michael W.",,"Harvard St, Boardman St, Cherry St",,,,,W.A. Mason & Son Co.
-Perkins_M_T97-7,42.372801,-71.119636,T97,1908-08-27,"Cambridge, MA","Read, William",,"Harvard Sq, Brattle St, Boylston St, Dunster St, Mount Auburn St","D. Brewer, J.H.H. McNamee, West End Street Railway Co., Cambridge Savings Bank",,,,W.A. Mason & Son Co.
-Perkins_M_T97-7_bp,42.372801,-71.119636,T97 bp,1908-08-27,"Cambridge, MA","Read, William",,"Harvard Sq, Brattle St, Boylston St, Dunster St, Mount Auburn St","D. Brewer, J.H.H. McNamee, West End Street Railway Co., Cambridge Savings Bank",blueprint,,blueprint,W.A. Mason & Son Co.
+Perkins_M_T97-7,42.372801,-71.119636,T97,1908-08-27,"Cambridge, MA","Read,William",,"Harvard Sq, Brattle St, Boylston St, Dunster St, Mount Auburn St","D. Brewer, J.H.H. McNamee, West End Street Railway Co., Cambridge Savings Bank",,,,W.A. Mason & Son Co.
+Perkins_M_T97-7_bp,42.372801,-71.119636,T97 bp,1908-08-27,"Cambridge, MA","Read,William",,"Harvard Sq, Brattle St, Boylston St, Dunster St, Mount Auburn St","D. Brewer, J.H.H. McNamee, West End Street Railway Co., Cambridge Savings Bank",blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_T97-8,42.357593,-71.362016,T97,1828-12-25,"Wayland, MA","Bullard, Joseph O.",,,"""Plan of premises in Wayland (formerly East Sudbury) being a copy from a plan of land in East Sudbury belonging to Joseph Bullard by Mathew Metcalf surveyor, dated Dec. 25, 1828."" Samuel Russell, Ephraim Morse, Jotham Bullard","Manuscript, illustrations of houses. 9/17/08",,,W.A. Mason & Son Co.
 Perkins_M_OS_T98-15_bp,42.398833,-71.127618,OS T98 bp,1908-12-19,"Somerville, MA","Colesworthy, Helen N.",,"Elmwood St, Harrison St","F. Eva Mason, Clara E. Mason, George W. Chandler and Benedetto G. Jodica, J.W. Loveland, Arthur O. and Lillian R. Harper",blueprint,,blueprint,W.A. Mason & Son Co.
 Perkins_M_OS_T98-17,42.36376,-71.11963,OS T98,1907-03-15,"Brighton (Boston, MA)","Griggs, W.J.",,Western Ave,"Maria F. Whitten, Fuzzard, Metropolitan Park Reservation, Corey, Griggs, Bullard",,,,W.A. Mason & Son Co.
