@@ -1,4 +1,4 @@
-Latitude,Longitude,Identifier,City/Town,Date,Auction Date,Survey Title,Call Number,Surveyor,Auctioneer,Property Owner,Publisher,Notes,Link
+latitude,longitude,identifier,city_town,date,auction_date,survey_title,call_number,surveyor,auctioneer,property_owner,publisher,notes,link
 42.362381,-71.053166,01_0001,"Boston, MA",1864-01-01,1864-07-13,"Plan of Stone Estate consisting of twelve stores on Commercial, Fulton & Richmond Sts. Boston.",Map 81.3[18-?],Alexander Wadsworth,N.A. Thompson & Co.,Stone Estate,,,
 42.340813,-71.068354,01_0002,"Boston, MA",1869-01-01,1881-05-05,Estate of Sarah K. Dall Decd.,Map 81.3[18-?],J. Franklin Fuller,Samuel Hatch & Co.,Sarah K. Dall Estate,,,
 42.361163,-71.064558,01_0004,"Boston, MA",1858-01-01,1858-10-27,"Plan of the Boardman Estate on Hancock Street, between Derne & Cambridge Streets",Map 81.3[18-?],,N.A. Thompson & Co.,Boardman Estate,,,
@@ -248,8 +248,7 @@ Latitude,Longitude,Identifier,City/Town,Date,Auction Date,Survey Title,Call Numb
 42.34048,-71.07508,02_0154,"Boston, MA",1867-07-10,1867-08-06,Plan of Building Lots in Boston belonging to George A. Simmons.,G1234.B6G46 P53 1871 no.154,H.H. Moses,N.A. Thompson & Co.,George A. Simmons,Meisel Brothers Lith.,,
 42.35405,-71.05583,02_0155,"Boston, MA",1867-10-01,1867-10-01,Plan of Drake's Wharf,G1234.B6G46 P53 1871 no.155,J.F. Fuller,,,,pin is approximate,
 42.37804,-71.03442,02_0156,"Boston, MA",1867-01-01,1867-10-24,Plan of Building Lots Belonging to the East Boston Company,G1234.B6G46 P53 1871 no.156,John Noble,N.A. Thompson & Co.,East Boston Company,Meisel Brothers Lith.,,
-42.35359,-71.05847,02_0159,"Boston, MA",1868-03-25," April 9, 1868
-",[No title],,Alexander Wadsworth,Samuel Hatch & Co.,,,,
+42.35359,-71.05847,02_0159,"Boston, MA",1868-03-25,1868-04-09,[No title],,Alexander Wadsworth,Samuel Hatch & Co.,,,,
 42.3618,-71.05326,02_0161,"Boston, MA",1868-01-01,1868-04-16,Plan of Estates on Commercial and North Streets,,,N.A. Thompson & Co.,,,"See #161, Inset 2",
 42.36218,-71.05418,02_0161,"Boston, MA",1868-01-01,1868-04-16,Plan of Estates on Commercial and North Streets,,,N.A. Thompson & Co.,,,"See #161, Inset 1",
 42.34169,-71.07181,02_0163,"Boston, MA",1868-03-14," April 28, 1868
