@@ -738,7 +738,11 @@
         "heldBy": ["Leventhal Map & Education Center at the Boston Public Library"],
         "sponsors": [
           {
-            "name": "Support from [FRRACS](https://www.nocompressor.com/) and individual donors"
+            "name": "FRRACS",
+            "url": "https://www.nocompressor.com/"
+          },
+          {
+            "name": "Indivudal donors"
           }
         ]
       }
