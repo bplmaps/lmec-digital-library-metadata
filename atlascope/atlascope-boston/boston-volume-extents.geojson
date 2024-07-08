@@ -736,7 +736,11 @@
         },
         "catalogPermalink": "https://collections.leventhalmap.org/search/commonwealth:rx916j21s",
         "heldBy": ["Leventhal Map & Education Center at the Boston Public Library"],
-        "sponsors": []
+        "sponsors": [
+          {
+            "name": "Support from [FRRACS](https://www.nocompressor.com/) and individual donors"
+          }
+        ]
       }
     },
     {
