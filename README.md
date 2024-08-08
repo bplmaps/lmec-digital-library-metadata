@@ -8,6 +8,7 @@ Note that it is distinct from [bplmaps/metadata](https://github.com/bplmaps/meta
 
 * `/atlascope`: Volume extent files for Atlascope instances
 * `/allmaps`: Bulk data exports from Allmaps Annotations API
+* `/survey-data`: Survey data from Bellamy and Mason collections
 
 ### Updating metadata for Atlascope
 
