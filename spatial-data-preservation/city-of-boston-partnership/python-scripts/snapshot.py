@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import requests
 import json
 import pandas as pd
@@ -15,34 +13,27 @@ gis_data = gis.json()
 plans_data = plans.json()
 portal_data = portal.json()
 
-# because one server is organized differently,
-# make a list so we can parse it later
+# load the data structure for parsing
 
-# folders = []
-# for f in portal_data['folders']:
-#     folders.append(f)
-
-# make a data dictionary so we can parse efficiently
-
-data = {
-  "servers": [
-      {
-        "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/ArcGIS/rest/services",
-        "data": gis_data,
-        "name": "bostongis",
-      },
-      {
-        "url": "https://gis.bostonplans.org/hosting/rest/services",
-        "data": plans_data,
-        "name": "bostonplans",
-      },
-      {
-        "url": "https://gisportal.boston.gov/arcgis/rest/services",
-        "data": portal_data,
-        "name": "gisportal",
-      }
-  ]
-}
+data={
+    "servers": [
+        {
+          "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/ArcGIS/rest/services",
+          "data": gis_data,
+          "name": "bostongis"
+        },
+        {
+          "url": "https://gis.bostonplans.org/hosting/rest/services",
+          "data": plans_data,
+          "name": "bostonplans"
+        },
+        {
+          "url": "https://gisportal.boston.gov/arcgis/rest/services",
+          "data": portal_data,
+          "name": "gisportal"
+        }
+    ]
+  }
 
 # define the giant queries we'll be using over and over
 
@@ -164,3 +155,4 @@ for server in data['servers']:   # SERVER LOOP
 print(json.dumps(snapshot, indent=2))
 with open(f'../snapshots/snapshot-{date.today()}.json', 'w') as f:
     json.dump(snapshot,f,indent=2)
+    
