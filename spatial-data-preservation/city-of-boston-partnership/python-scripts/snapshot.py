@@ -44,8 +44,8 @@ data={
 
 # check for dir structure
 
-for s in data:
-    if not os.path(f"../data/{s['name']}"):
+for s in data['servers']:
+    if not os.path.exists(f"../data/{s['name']}"):
         os.makedirs(f"../data/{s['name']}")
 
 # define the giant queries we'll be using over and over
@@ -59,10 +59,9 @@ print("📂 Opening input files...")
 with open('../inputs/target.json') as f:
     target=json.load(f)
 
-# open the snapshot json file where we'll write our data
+# make a snapshot json file where we'll write our data
 
-with open('../inputs/snapshot.json') as f:
-    snapshot=json.load(f)
+snapshot={ }
 
 snapshot['servers']=[ ]
 serverCount=0
