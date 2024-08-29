@@ -1,0 +1,419 @@
+{
+  "servers": [
+    {
+      "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/ArcGIS/rest/services",
+      "name": "bostongis",
+      "services": [
+        {
+          "featureServers": [
+            {
+              "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/ArcGIS/rest/services/Tree_Canopy_Metrics/FeatureServer",
+              "name": "Tree_Canopy_Metrics",
+              "layers": [
+                {
+                  "name": "NBHD % Tree canopy coverage",
+                  "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/ArcGIS/rest/services/Tree_Canopy_Metrics/FeatureServer/1/query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&relationParam=&returnGeodetic=false&outFields=*&returnGeometry=true&returnCentroid=false&returnEnvelope=false&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=4326&defaultSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnTrueCurves=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token="
+                },
+                {
+                  "name": "HEX % Tree Canopy Metrics",
+                  "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/ArcGIS/rest/services/Tree_Canopy_Metrics/FeatureServer/2/query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&relationParam=&returnGeodetic=false&outFields=*&returnGeometry=true&returnCentroid=false&returnEnvelope=false&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=4326&defaultSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnTrueCurves=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token="
+                },
+                {
+                  "name": "CT Tree Canopy Metrics",
+                  "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/ArcGIS/rest/services/Tree_Canopy_Metrics/FeatureServer/3/query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&relationParam=&returnGeodetic=false&outFields=*&returnGeometry=true&returnCentroid=false&returnEnvelope=false&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=4326&defaultSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnTrueCurves=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token="
+                },
+                {
+                  "name": "PARCELS Tree Canopy Metrics",
+                  "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/ArcGIS/rest/services/Tree_Canopy_Metrics/FeatureServer/4/query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&relationParam=&returnGeodetic=false&outFields=*&returnGeometry=true&returnCentroid=false&returnEnvelope=false&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=4326&defaultSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnTrueCurves=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token="
+                },
+                {
+                  "name": "WARDS % Tree Canopy Metrics",
+                  "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/ArcGIS/rest/services/Tree_Canopy_Metrics/FeatureServer/5/query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&relationParam=&returnGeodetic=false&outFields=*&returnGeometry=true&returnCentroid=false&returnEnvelope=false&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=4326&defaultSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnTrueCurves=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token="
+                },
+                {
+                  "name": "OPEN SPACE % Tree Canopy Metrics",
+                  "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/ArcGIS/rest/services/Tree_Canopy_Metrics/FeatureServer/6/query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&relationParam=&returnGeodetic=false&outFields=*&returnGeometry=true&returnCentroid=false&returnEnvelope=false&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=4326&defaultSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnTrueCurves=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token="
+                },
+                {
+                  "name": "CITY Tree Canopy Metrics",
+                  "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/ArcGIS/rest/services/Tree_Canopy_Metrics/FeatureServer/7/query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&relationParam=&returnGeodetic=false&outFields=*&returnGeometry=true&returnCentroid=false&returnEnvelope=false&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=4326&defaultSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnTrueCurves=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token="
+                },
+                {
+                  "name": "CITY AP Tree Canopy Metrics",
+                  "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/ArcGIS/rest/services/Tree_Canopy_Metrics/FeatureServer/8/query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&relationParam=&returnGeodetic=false&outFields=*&returnGeometry=true&returnCentroid=false&returnEnvelope=false&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=4326&defaultSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnTrueCurves=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token="
+                }
+              ]
+            },
+            {
+              "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/ArcGIS/rest/services/UniversitiesTemporaryHousingLocations/FeatureServer",
+              "name": "UniversitiesTemporaryHousingLocations",
+              "layers": [
+                {
+                  "name": "UniversitiesTemporaryHousingLocations",
+                  "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/ArcGIS/rest/services/UniversitiesTemporaryHousingLocations/FeatureServer/0/query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&relationParam=&returnGeodetic=false&outFields=*&returnGeometry=true&returnCentroid=false&returnEnvelope=false&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=4326&defaultSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnTrueCurves=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token="
+                }
+              ]
+            },
+            {
+              "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/ArcGIS/rest/services/Zoning_Sub_Districts_/FeatureServer",
+              "name": "Zoning_Sub_Districts_",
+              "layers": [
+                {
+                  "name": "Zoning Sub Districts ",
+                  "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/ArcGIS/rest/services/Zoning_Sub_Districts_/FeatureServer/0/query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&relationParam=&returnGeodetic=false&outFields=*&returnGeometry=true&returnCentroid=false&returnEnvelope=false&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=4326&defaultSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnTrueCurves=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token="
+                }
+              ]
+            },
+            {
+              "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/ArcGIS/rest/services/Bike_Racks/FeatureServer",
+              "name": "Bike_Racks",
+              "layers": [
+                {
+                  "name": "Bike_Racks",
+                  "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/ArcGIS/rest/services/Bike_Racks/FeatureServer/0/query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&relationParam=&returnGeodetic=false&outFields=*&returnGeometry=true&returnCentroid=false&returnEnvelope=false&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=4326&defaultSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnTrueCurves=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token="
+                }
+              ]
+            }
+          ],
+          "mapServers": []
+        }
+      ],
+      "folders": []
+    },
+    {
+      "url": "https://gis.bostonplans.org/hosting/rest/services",
+      "name": "bostonplans",
+      "services": [
+        {
+          "featureServers": [
+            {
+              "url": "https://gis.bostonplans.org/hosting/rest/services/BPDA_Urban_Renewal_Areas/FeatureServer",
+              "name": "BPDA_Urban_Renewal_Areas",
+              "layers": [
+                {
+                  "name": "Urban Renewal Areas",
+                  "url": "https://gis.bostonplans.org/hosting/rest/services/BPDA_Urban_Renewal_Areas/FeatureServer/0/query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&relationParam=&returnGeodetic=false&outFields=*&returnGeometry=true&returnCentroid=false&returnEnvelope=false&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=4326&defaultSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnTrueCurves=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token="
+                }
+              ]
+            }
+          ],
+          "mapServers": []
+        }
+      ],
+      "folders": [
+        {
+          "url": "https://gis.bostonplans.org/hosting/rest/services/Branch_Versioning",
+          "name": "Branch_Versioning",
+          "services": [
+            {
+              "featureServers": [
+                {
+                  "url": "https://gis.bostonplans.org/hosting/rest/services/Branch_Versioning/Bos_Institutions_Academic_Medical/FeatureServer",
+                  "name": "Branch_Versioning/Bos_Institutions_Academic_Medical/FeatureServer",
+                  "layers": "Restricted"
+                }
+              ],
+              "mapServers": []
+            }
+          ]
+        },
+        {
+          "url": "https://gis.bostonplans.org/hosting/rest/services/Hosted",
+          "name": "Hosted",
+          "services": [
+            {
+              "featureServers": [],
+              "mapServers": []
+            }
+          ]
+        },
+        {
+          "url": "https://gis.bostonplans.org/hosting/rest/services/Utilities",
+          "name": "Utilities",
+          "services": [
+            {
+              "featureServers": [],
+              "mapServers": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://gisportal.boston.gov/arcgis/rest/services",
+      "name": "gisportal",
+      "services": [
+        {
+          "featureServers": [],
+          "mapServers": []
+        }
+      ],
+      "folders": [
+        {
+          "url": "https://gisportal.boston.gov/arcgis/rest/services/Assessing",
+          "name": "Assessing",
+          "services": [
+            {
+              "featureServers": [],
+              "mapServers": []
+            }
+          ]
+        },
+        {
+          "url": "https://gisportal.boston.gov/arcgis/rest/services/Basemaps",
+          "name": "Basemaps",
+          "services": [
+            {
+              "featureServers": [],
+              "mapServers": []
+            }
+          ]
+        },
+        {
+          "url": "https://gisportal.boston.gov/arcgis/rest/services/BaseServices",
+          "name": "BaseServices",
+          "services": [
+            {
+              "featureServers": [],
+              "mapServers": []
+            }
+          ]
+        },
+        {
+          "url": "https://gisportal.boston.gov/arcgis/rest/services/BTD",
+          "name": "BTD",
+          "services": [
+            {
+              "featureServers": [],
+              "mapServers": []
+            }
+          ]
+        },
+        {
+          "url": "https://gisportal.boston.gov/arcgis/rest/services/CityServices",
+          "name": "CityServices",
+          "services": [
+            {
+              "featureServers": [
+                {
+                  "url": "https://gisportal.boston.gov/arcgis/rest/services/CityServices/Addresses_Mattress_Pickup_311/FeatureServer",
+                  "name": "CityServices/Addresses_Mattress_Pickup_311/FeatureServer",
+                  "layers": [
+                    {
+                      "url": "https://gisportal.boston.gov/arcgis/rest/services/CityServices/Addresses_Mattress_Pickup_311/FeatureServer/0/query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=4326&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnExceededLimitFeatures=false&quantizationParameters=&returnCentroid=false&timeReferenceUnknownClient=false&sqlFormat=none&resultType=&featureEncoding=esriDefault&datumTransformation=&f=pjson",
+                      "name": "DOIT.ADDRESSES_MATTRESS_PICKUP_311"
+                    }
+                  ]
+                }
+              ],
+              "mapServers": []
+            }
+          ]
+        },
+        {
+          "url": "https://gisportal.boston.gov/arcgis/rest/services/DND",
+          "name": "DND",
+          "services": [
+            {
+              "featureServers": [],
+              "mapServers": []
+            }
+          ]
+        },
+        {
+          "url": "https://gisportal.boston.gov/arcgis/rest/services/Education",
+          "name": "Education",
+          "services": [
+            {
+              "featureServers": [],
+              "mapServers": []
+            }
+          ]
+        },
+        {
+          "url": "https://gisportal.boston.gov/arcgis/rest/services/EnvironmentEnergy",
+          "name": "EnvironmentEnergy",
+          "services": [
+            {
+              "featureServers": [],
+              "mapServers": []
+            }
+          ]
+        },
+        {
+          "url": "https://gisportal.boston.gov/arcgis/rest/services/GreenLinks",
+          "name": "GreenLinks",
+          "services": [
+            {
+              "featureServers": [],
+              "mapServers": []
+            }
+          ]
+        },
+        {
+          "url": "https://gisportal.boston.gov/arcgis/rest/services/Hosted",
+          "name": "Hosted",
+          "services": [
+            {
+              "featureServers": [],
+              "mapServers": []
+            }
+          ]
+        },
+        {
+          "url": "https://gisportal.boston.gov/arcgis/rest/services/Imagery",
+          "name": "Imagery",
+          "services": [
+            {
+              "featureServers": [],
+              "mapServers": []
+            }
+          ]
+        },
+        {
+          "url": "https://gisportal.boston.gov/arcgis/rest/services/Infrastructure",
+          "name": "Infrastructure",
+          "services": [
+            {
+              "featureServers": [],
+              "mapServers": []
+            }
+          ]
+        },
+        {
+          "url": "https://gisportal.boston.gov/arcgis/rest/services/ISD",
+          "name": "ISD",
+          "services": [
+            {
+              "featureServers": [],
+              "mapServers": [
+                {
+                  "url": "https://gisportal.boston.gov/arcgis/rest/services/ISD/landmarks_historic_districts_viewing/MapServer",
+                  "name": "ISD/landmarks_historic_districts_viewing/MapServer",
+                  "layers": [
+                    {
+                      "url": "https://gisportal.boston.gov/arcgis/rest/services/ISD/landmarks_historic_districts_viewing/MapServer/0/query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=4326&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnExceededLimitFeatures=false&quantizationParameters=&returnCentroid=false&timeReferenceUnknownClient=false&sqlFormat=none&resultType=&featureEncoding=esriDefault&datumTransformation=&f=pjson",
+                      "name": "Landmark Polygons"
+                    },
+                    {
+                      "url": "https://gisportal.boston.gov/arcgis/rest/services/ISD/landmarks_historic_districts_viewing/MapServer/1/query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=4326&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnExceededLimitFeatures=false&quantizationParameters=&returnCentroid=false&timeReferenceUnknownClient=false&sqlFormat=none&resultType=&featureEncoding=esriDefault&datumTransformation=&f=pjson",
+                      "name": "Landmark Objects"
+                    },
+                    {
+                      "url": "https://gisportal.boston.gov/arcgis/rest/services/ISD/landmarks_historic_districts_viewing/MapServer/2/query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=4326&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnExceededLimitFeatures=false&quantizationParameters=&returnCentroid=false&timeReferenceUnknownClient=false&sqlFormat=none&resultType=&featureEncoding=esriDefault&datumTransformation=&f=pjson",
+                      "name": "Historic Districts"
+                    },
+                    {
+                      "url": "https://gisportal.boston.gov/arcgis/rest/services/ISD/landmarks_historic_districts_viewing/MapServer/3/query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=4326&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnExceededLimitFeatures=false&quantizationParameters=&returnCentroid=false&timeReferenceUnknownClient=false&sqlFormat=none&resultType=&featureEncoding=esriDefault&datumTransformation=&f=pjson",
+                      "name": "Historic Districts Protection Area"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "url": "https://gisportal.boston.gov/arcgis/rest/services/Live",
+          "name": "Live",
+          "services": [
+            {
+              "featureServers": [],
+              "mapServers": []
+            }
+          ]
+        },
+        {
+          "url": "https://gisportal.boston.gov/arcgis/rest/services/Parcels",
+          "name": "Parcels",
+          "services": [
+            {
+              "featureServers": [],
+              "mapServers": []
+            }
+          ]
+        },
+        {
+          "url": "https://gisportal.boston.gov/arcgis/rest/services/Planning",
+          "name": "Planning",
+          "services": [
+            {
+              "featureServers": [],
+              "mapServers": []
+            }
+          ]
+        },
+        {
+          "url": "https://gisportal.boston.gov/arcgis/rest/services/PublicProperty",
+          "name": "PublicProperty",
+          "services": [
+            {
+              "featureServers": [],
+              "mapServers": []
+            }
+          ]
+        },
+        {
+          "url": "https://gisportal.boston.gov/arcgis/rest/services/PublicSafety",
+          "name": "PublicSafety",
+          "services": [
+            {
+              "featureServers": [],
+              "mapServers": []
+            }
+          ]
+        },
+        {
+          "url": "https://gisportal.boston.gov/arcgis/rest/services/PWD",
+          "name": "PWD",
+          "services": [
+            {
+              "featureServers": [],
+              "mapServers": []
+            }
+          ]
+        },
+        {
+          "url": "https://gisportal.boston.gov/arcgis/rest/services/SAM",
+          "name": "SAM",
+          "services": [
+            {
+              "featureServers": [],
+              "mapServers": []
+            }
+          ]
+        },
+        {
+          "url": "https://gisportal.boston.gov/arcgis/rest/services/Schools",
+          "name": "Schools",
+          "services": [
+            {
+              "featureServers": [],
+              "mapServers": []
+            }
+          ]
+        },
+        {
+          "url": "https://gisportal.boston.gov/arcgis/rest/services/StoryMaps",
+          "name": "StoryMaps",
+          "services": [
+            {
+              "featureServers": [],
+              "mapServers": []
+            }
+          ]
+        },
+        {
+          "url": "https://gisportal.boston.gov/arcgis/rest/services/Utilities",
+          "name": "Utilities",
+          "services": [
+            {
+              "featureServers": [],
+              "mapServers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

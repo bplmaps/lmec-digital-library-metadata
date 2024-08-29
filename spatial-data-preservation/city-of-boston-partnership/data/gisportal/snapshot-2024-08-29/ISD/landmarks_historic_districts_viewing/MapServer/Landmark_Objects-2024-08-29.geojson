@@ -1,0 +1,232 @@
+{
+  "displayFieldName": "Common_Name",
+  "fieldAliases": {
+    "OBJECTID": "OBJECTID",
+    "Unique_ID": "Unique ID",
+    "Geocode_Address": "Geocode Address",
+    "Neighborhood": "Neighborhood",
+    "Common_Name": "Common Name",
+    "Status": "Status",
+    "Date_Designated": "Date Designated",
+    "Areas_Under_Jurisdiction": "Areas Under Jurisdiction",
+    "Petitioner": "Petitioner",
+    "Study_Report": "Study Report",
+    "Display_": "Display",
+    "created_user": "created_user",
+    "created_date": "created_date",
+    "last_edited_user": "last_edited_user",
+    "last_edited_date": "last_edited_date"
+  },
+  "geometryType": "esriGeometryPoint",
+  "spatialReference": {
+    "wkid": 4326,
+    "latestWkid": 4326
+  },
+  "fields": [
+    {
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID"
+    },
+    {
+      "name": "Unique_ID",
+      "type": "esriFieldTypeInteger",
+      "alias": "Unique ID"
+    },
+    {
+      "name": "Geocode_Address",
+      "type": "esriFieldTypeString",
+      "alias": "Geocode Address",
+      "length": 100
+    },
+    {
+      "name": "Neighborhood",
+      "type": "esriFieldTypeString",
+      "alias": "Neighborhood",
+      "length": 100
+    },
+    {
+      "name": "Common_Name",
+      "type": "esriFieldTypeString",
+      "alias": "Common Name",
+      "length": 100
+    },
+    {
+      "name": "Status",
+      "type": "esriFieldTypeString",
+      "alias": "Status",
+      "length": 100
+    },
+    {
+      "name": "Date_Designated",
+      "type": "esriFieldTypeString",
+      "alias": "Date Designated",
+      "length": 100
+    },
+    {
+      "name": "Areas_Under_Jurisdiction",
+      "type": "esriFieldTypeString",
+      "alias": "Areas Under Jurisdiction",
+      "length": 100
+    },
+    {
+      "name": "Petitioner",
+      "type": "esriFieldTypeString",
+      "alias": "Petitioner",
+      "length": 100
+    },
+    {
+      "name": "Study_Report",
+      "type": "esriFieldTypeString",
+      "alias": "Study Report",
+      "length": 255
+    },
+    {
+      "name": "Display_",
+      "type": "esriFieldTypeString",
+      "alias": "Display",
+      "length": 100
+    },
+    {
+      "name": "created_user",
+      "type": "esriFieldTypeString",
+      "alias": "created_user",
+      "length": 255
+    },
+    {
+      "name": "created_date",
+      "type": "esriFieldTypeDate",
+      "alias": "created_date",
+      "length": 8
+    },
+    {
+      "name": "last_edited_user",
+      "type": "esriFieldTypeString",
+      "alias": "last_edited_user",
+      "length": 255
+    },
+    {
+      "name": "last_edited_date",
+      "type": "esriFieldTypeDate",
+      "alias": "last_edited_date",
+      "length": 8
+    }
+  ],
+  "features": [
+    {
+      "attributes": {
+        "OBJECTID": 1,
+        "Unique_ID": 54,
+        "Geocode_Address": "9 Chelsea St Boston MA 02128",
+        "Neighborhood": "East Boston",
+        "Common_Name": "Sidewalk Clock - 9 Chelsea Street",
+        "Status": "Approved Landmark - Sidewalk Clock",
+        "Date_Designated": null,
+        "Areas_Under_Jurisdiction": "Clock only",
+        "Petitioner": "Commissioner",
+        "Study_Report": "https://www.cityofboston.gov/images_documents/90.83_Five_Street_Clocks_tcm3-23748.pdf",
+        "Display_": "Yes",
+        "created_user": null,
+        "created_date": null,
+        "last_edited_user": null,
+        "last_edited_date": null
+      },
+      "geometry": {
+        "x": -71.0383093108771,
+        "y": 42.370117928314514
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2,
+        "Unique_ID": 55,
+        "Geocode_Address": "342 W Broadway, Boston, MA 02127",
+        "Neighborhood": "South Boston",
+        "Common_Name": "Sidewalk Clock - 342 West Broadway",
+        "Status": "Approved Landmark - Sidewalk Clock",
+        "Date_Designated": null,
+        "Areas_Under_Jurisdiction": "Clock only",
+        "Petitioner": "Commissioner",
+        "Study_Report": "https://www.cityofboston.gov/images_documents/90.83_Five_Street_Clocks_tcm3-23748.pdf",
+        "Display_": "Yes",
+        "created_user": null,
+        "created_date": null,
+        "last_edited_user": null,
+        "last_edited_date": null
+      },
+      "geometry": {
+        "x": -71.04972580021486,
+        "y": 42.33835402869534
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3,
+        "Unique_ID": 56,
+        "Geocode_Address": "Ashmont St & Dorchester Ave",
+        "Neighborhood": "Dorchester",
+        "Common_Name": "Sidewalk Clock - Peabody Square",
+        "Status": "Approved Landmark - Sidewalk Clock",
+        "Date_Designated": null,
+        "Areas_Under_Jurisdiction": "Clock only",
+        "Petitioner": "Commissioner",
+        "Study_Report": "https://www.cityofboston.gov/images_documents/90.83_Five_Street_Clocks_tcm3-23748.pdf",
+        "Display_": "Yes",
+        "created_user": null,
+        "created_date": null,
+        "last_edited_user": null,
+        "last_edited_date": null
+      },
+      "geometry": {
+        "x": -71.06406607428421,
+        "y": 42.28593059547983
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
+        "Unique_ID": 57,
+        "Geocode_Address": "333 Massachusetts Ave, Boston, MA 02115",
+        "Neighborhood": null,
+        "Common_Name": "Sidewalk Clock - 333 Massachusetts Ave",
+        "Status": "Approved Landmark - Sidewalk Clock",
+        "Date_Designated": null,
+        "Areas_Under_Jurisdiction": "Clock only",
+        "Petitioner": "Commissioner",
+        "Study_Report": "https://www.cityofboston.gov/images_documents/90.83_Five_Street_Clocks_tcm3-23748.pdf",
+        "Display_": "Yes",
+        "created_user": null,
+        "created_date": null,
+        "last_edited_user": null,
+        "last_edited_date": null
+      },
+      "geometry": {
+        "x": -71.08467482724251,
+        "y": 42.3422966662179
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5,
+        "Unique_ID": null,
+        "Geocode_Address": null,
+        "Neighborhood": "Charlestown",
+        "Common_Name": "Tugboat LUNA",
+        "Status": "Approved Landmark",
+        "Date_Designated": "03-05-1985",
+        "Areas_Under_Jurisdiction": null,
+        "Petitioner": "10 Voters",
+        "Study_Report": "https://www.cityofboston.gov/images_documents/Tugboat%20Luna%20Study%20Report%2071.83_tcm3-52777.pdf",
+        "Display_": "Yes",
+        "created_user": null,
+        "created_date": null,
+        "last_edited_user": null,
+        "last_edited_date": null
+      },
+      "geometry": {
+        "x": -71.05353671334484,
+        "y": 42.37253795362771
+      }
+    }
+  ]
+}

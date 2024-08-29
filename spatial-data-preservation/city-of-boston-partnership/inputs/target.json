@@ -2,6 +2,8 @@
     "UniversitiesTemporaryHousingLocations",
     "Tree_Canopy_Metrics",
     "Bike_Racks",
-    "Zoning_Sub_Districts",
-    "BPDA_Urban_Renewal_Areas"
+    "Zoning_Sub_Districts_",
+    "BPDA_Urban_Renewal_Areas",
+    "CityServices/Addresses_Mattress_Pickup_311/FeatureServer",
+    "ISD/landmarks_historic_districts_viewing/MapServer"
 ]

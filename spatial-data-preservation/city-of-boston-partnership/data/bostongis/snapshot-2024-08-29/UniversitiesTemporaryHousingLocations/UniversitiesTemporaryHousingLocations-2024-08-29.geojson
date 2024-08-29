@@ -1,0 +1,1195 @@
+{
+  "objectIdFieldName": "OBJECTID",
+  "uniqueIdField": {
+    "name": "OBJECTID",
+    "isSystemMaintained": true
+  },
+  "globalIdFieldName": "",
+  "geometryType": "esriGeometryPoint",
+  "spatialReference": {
+    "wkid": 4326,
+    "latestWkid": 4326
+  },
+  "fields": [
+    {
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "Institution",
+      "type": "esriFieldTypeString",
+      "alias": "Institution",
+      "sqlType": "sqlTypeOther",
+      "length": 255,
+      "domain": {
+        "type": "codedValue",
+        "name": "UniversitiesTemporaryHousingLocations_Institution_f21539b6-4ce9-4cf3-8ecd-79c15866b003",
+        "codedValues": [
+          {
+            "name": "Bay State College",
+            "code": "Bay State College"
+          },
+          {
+            "name": "Boston College",
+            "code": "Boston College"
+          },
+          {
+            "name": "Boston University",
+            "code": "Boston University"
+          },
+          {
+            "name": "Emerson College",
+            "code": "Emerson College"
+          },
+          {
+            "name": "Fisher College",
+            "code": "Fisher College"
+          },
+          {
+            "name": "Northeastern University",
+            "code": "Northeastern University"
+          },
+          {
+            "name": "Suffolk University",
+            "code": "Suffolk University"
+          }
+        ]
+      },
+      "defaultValue": null
+    },
+    {
+      "name": "FilingDate",
+      "type": "esriFieldTypeString",
+      "alias": "Filing Date",
+      "sqlType": "sqlTypeOther",
+      "length": 255,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "ProposedLocations",
+      "type": "esriFieldTypeString",
+      "alias": "Proposed Locations",
+      "sqlType": "sqlTypeOther",
+      "length": 255,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "Address",
+      "type": "esriFieldTypeString",
+      "alias": "Address",
+      "sqlType": "sqlTypeOther",
+      "length": 255,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "ZipCode",
+      "type": "esriFieldTypeString",
+      "alias": "Zip Code",
+      "sqlType": "sqlTypeOther",
+      "length": 255,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "Neighborhood",
+      "type": "esriFieldTypeString",
+      "alias": "Neighborhood",
+      "sqlType": "sqlTypeOther",
+      "length": 255,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "CurrentUse",
+      "type": "esriFieldTypeString",
+      "alias": "Current Use",
+      "sqlType": "sqlTypeOther",
+      "length": 255,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "ProposedUse",
+      "type": "esriFieldTypeString",
+      "alias": "Proposed Use",
+      "sqlType": "sqlTypeOther",
+      "length": 255,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "NumberOfRooms",
+      "type": "esriFieldTypeString",
+      "alias": "Total No. of Rooms",
+      "sqlType": "sqlTypeOther",
+      "length": 255,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "RoomsBeLeased",
+      "type": "esriFieldTypeString",
+      "alias": "No. of Rooms/Units being Leased",
+      "sqlType": "sqlTypeOther",
+      "length": 255,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "OccupancyType",
+      "type": "esriFieldTypeString",
+      "alias": "Occupancy Type",
+      "sqlType": "sqlTypeOther",
+      "length": 255,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "Floors",
+      "type": "esriFieldTypeString",
+      "alias": "Floors",
+      "sqlType": "sqlTypeOther",
+      "length": 255,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "ProposedStartDate",
+      "type": "esriFieldTypeString",
+      "alias": "Proposed Start Date",
+      "sqlType": "sqlTypeOther",
+      "length": 255,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "EndDate",
+      "type": "esriFieldTypeString",
+      "alias": "End Date",
+      "sqlType": "sqlTypeOther",
+      "length": 255,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "ProposedMoveInDates",
+      "type": "esriFieldTypeString",
+      "alias": "Proposed Move-In Dates",
+      "sqlType": "sqlTypeOther",
+      "length": 255,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "UsedForIsolation",
+      "type": "esriFieldTypeString",
+      "alias": "Used for Isolation or Quarantine",
+      "sqlType": "sqlTypeOther",
+      "length": 100,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "Status",
+      "type": "esriFieldTypeString",
+      "alias": "BPDA Status",
+      "sqlType": "sqlTypeOther",
+      "length": 100,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "LicensingBoardStatus",
+      "type": "esriFieldTypeString",
+      "alias": "Licensing Board Status",
+      "sqlType": "sqlTypeOther",
+      "length": 100,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "ISDStatus",
+      "type": "esriFieldTypeString",
+      "alias": "ISD Status",
+      "sqlType": "sqlTypeOther",
+      "length": 100,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "OtherSpacesAvailable",
+      "type": "esriFieldTypeString",
+      "alias": "Other Spaces Available to Students",
+      "sqlType": "sqlTypeOther",
+      "length": 1000,
+      "domain": null,
+      "defaultValue": null
+    }
+  ],
+  "features": [
+    {
+      "attributes": {
+        "OBJECTID": 701,
+        "Institution": "Suffolk University",
+        "FilingDate": "15-Jul",
+        "ProposedLocations": "Double Tree Hilton",
+        "Address": "821 Washington Street",
+        "ZipCode": "02111",
+        "Neighborhood": "Chinatown",
+        "CurrentUse": "Hotel",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "267",
+        "RoomsBeLeased": "162",
+        "OccupancyType": "Single occupancy",
+        "Floors": "2-4",
+        "ProposedStartDate": "August 29, 2020",
+        "EndDate": "May 12, 2021",
+        "ProposedMoveInDates": "Aug 29-Sep 1, 2020",
+        "UsedForIsolation": "No",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "Under review",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": "First floor Starbucks, second floor restaurant, Wang YMCA, One conference room, hotel parking (for Suffolk Uni Police Dept.)"
+      },
+      "geometry": {
+        "x": -71.0642549912752,
+        "y": 42.34879700576679
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 702,
+        "Institution": "Suffolk University",
+        "FilingDate": "15-Jul",
+        "ProposedLocations": "Wyndham Hotel",
+        "Address": "5 Blossom Street",
+        "ZipCode": "02114",
+        "Neighborhood": "Beacon Hill",
+        "CurrentUse": "Hotel",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "304",
+        "RoomsBeLeased": "156",
+        "OccupancyType": "Single occupancy",
+        "Floors": "3-8",
+        "ProposedStartDate": "August 29, 2020",
+        "EndDate": "May 12, 2021",
+        "ProposedMoveInDates": "Aug 29-Sep 1, 2020",
+        "UsedForIsolation": "No",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "Under review",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": "First floor restaurant, hotel parking (for Suffolk Uni Police Dept.)"
+      },
+      "geometry": {
+        "x": -71.06661097661976,
+        "y": 42.36185898648975
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 703,
+        "Institution": "Suffolk University",
+        "FilingDate": "15-Jul",
+        "ProposedLocations": "The Boxer Hotel",
+        "Address": "107 Merrimac Street",
+        "ZipCode": "02114",
+        "Neighborhood": "West End",
+        "CurrentUse": "Hotel",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "80",
+        "RoomsBeLeased": "80",
+        "OccupancyType": "Single occupancy",
+        "Floors": "All",
+        "ProposedStartDate": "August 29, 2020",
+        "EndDate": "May 12, 2021",
+        "ProposedMoveInDates": "Aug 29-Sep 1, 2020",
+        "UsedForIsolation": "No",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "Under review",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": "First floor restaurant"
+      },
+      "geometry": {
+        "x": -71.06240602725373,
+        "y": 42.36389000544818
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 705,
+        "Institution": "Northeastern University",
+        "FilingDate": "16-Jul",
+        "ProposedLocations": "The Westin Copley Place",
+        "Address": "10 Huntington Ave.",
+        "ZipCode": "02116",
+        "Neighborhood": "Back Bay",
+        "CurrentUse": "Hotel",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "",
+        "RoomsBeLeased": "470-505",
+        "OccupancyType": "Double occupancy",
+        "Floors": "",
+        "ProposedStartDate": "August 17, 2020",
+        "EndDate": "December 24, 2020",
+        "ProposedMoveInDates": "Aug 17-31, 2020",
+        "UsedForIsolation": "No",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "",
+        "ISDStatus": "Under review",
+        "OtherSpacesAvailable": ""
+      },
+      "geometry": {
+        "x": -71.07760657343209,
+        "y": 42.34868575015107
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 706,
+        "Institution": "Northeastern University",
+        "FilingDate": "16-Jul",
+        "ProposedLocations": "Midtown Hotel",
+        "Address": "220 Huntington Ave.",
+        "ZipCode": "02115",
+        "Neighborhood": "Back Bay",
+        "CurrentUse": "Hotel",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "",
+        "RoomsBeLeased": "157",
+        "OccupancyType": "Double occupancy",
+        "Floors": "All",
+        "ProposedStartDate": "August 15, 2020",
+        "EndDate": "February 14, 2021",
+        "ProposedMoveInDates": "31-Aug-20",
+        "UsedForIsolation": "No",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": ""
+      },
+      "geometry": {
+        "x": -71.08407703160879,
+        "y": 42.3432439882017
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 707,
+        "Institution": "Northeastern University",
+        "FilingDate": "16-Jul",
+        "ProposedLocations": "BSO Cohen Wing",
+        "Address": "301 Mass Ave.",
+        "ZipCode": "02115",
+        "Neighborhood": "Fenway",
+        "CurrentUse": "Exempt - Educational private",
+        "ProposedUse": "Grab and go dining",
+        "NumberOfRooms": "",
+        "RoomsBeLeased": "n/a",
+        "OccupancyType": "n/a",
+        "Floors": "",
+        "ProposedStartDate": "August 15, 2020",
+        "EndDate": "February 14, 2021",
+        "ProposedMoveInDates": "",
+        "UsedForIsolation": "No",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": ""
+      },
+      "geometry": {
+        "x": -71.0856829914671,
+        "y": 42.34284300466513
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 708,
+        "Institution": "Northeastern University",
+        "FilingDate": "16-Jul",
+        "ProposedLocations": "1065 Tremont St",
+        "Address": "1065 Tremont St",
+        "ZipCode": "02120",
+        "Neighborhood": "Fenway",
+        "CurrentUse": "Residential",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "",
+        "RoomsBeLeased": "15",
+        "OccupancyType": "Double occupancy",
+        "Floors": "",
+        "ProposedStartDate": "Sep 1 2020 or later",
+        "EndDate": "August 31, 2021",
+        "ProposedMoveInDates": "Sep 1 2020 or later",
+        "UsedForIsolation": "No",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": ""
+      },
+      "geometry": {
+        "x": -71.08641900638493,
+        "y": 42.336251015003285
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 709,
+        "Institution": "Northeastern University",
+        "FilingDate": "16-Jul",
+        "ProposedLocations": "109 St Stephen St",
+        "Address": "109 St Stephen St",
+        "ZipCode": "02115",
+        "Neighborhood": "Fenway",
+        "CurrentUse": "Residential",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "",
+        "RoomsBeLeased": "7",
+        "OccupancyType": "Double occupancy",
+        "Floors": "",
+        "ProposedStartDate": "Sep 1 2020 or later",
+        "EndDate": "August 31, 2021",
+        "ProposedMoveInDates": "Sep 1 2020 or later",
+        "UsedForIsolation": "No",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": ""
+      },
+      "geometry": {
+        "x": -71.08900096783911,
+        "y": 42.341479017561376
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 710,
+        "Institution": "Northeastern University",
+        "FilingDate": "16-Jul",
+        "ProposedLocations": "115 St Stephen St",
+        "Address": "115 St Stephen St",
+        "ZipCode": "02115",
+        "Neighborhood": "Fenway",
+        "CurrentUse": "Residential",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "",
+        "RoomsBeLeased": "20",
+        "OccupancyType": "Double occupancy",
+        "Floors": "",
+        "ProposedStartDate": "Sep 1 2020 or later",
+        "EndDate": "August 31, 2021",
+        "ProposedMoveInDates": "Sep 1 2020 or later",
+        "UsedForIsolation": "No",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": ""
+      },
+      "geometry": {
+        "x": -71.08923096726222,
+        "y": 42.34132898149454
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 711,
+        "Institution": "Northeastern University",
+        "FilingDate": "16-Jul",
+        "ProposedLocations": "132 Hemenway St",
+        "Address": "132 Hemenway St",
+        "ZipCode": "02115",
+        "Neighborhood": "Fenway",
+        "CurrentUse": "Residential",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "",
+        "RoomsBeLeased": "6",
+        "OccupancyType": "Double occupancy",
+        "Floors": "",
+        "ProposedStartDate": "Sep 1 2020 or later",
+        "EndDate": "August 31, 2021",
+        "ProposedMoveInDates": "Sep 1 2020 or later",
+        "UsedForIsolation": "No",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": ""
+      },
+      "geometry": {
+        "x": -71.09011098327662,
+        "y": 42.342339000827195
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 712,
+        "Institution": "Northeastern University",
+        "FilingDate": "16-Jul",
+        "ProposedLocations": "136 Hemenway St",
+        "Address": "136 Hemenway St",
+        "ZipCode": "02115",
+        "Neighborhood": "Fenway",
+        "CurrentUse": "Residential",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "",
+        "RoomsBeLeased": "6",
+        "OccupancyType": "Double occupancy",
+        "Floors": "",
+        "ProposedStartDate": "Sep 1 2020 or later",
+        "EndDate": "August 31, 2021",
+        "ProposedMoveInDates": "Sep 1 2020 or later",
+        "UsedForIsolation": "No",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": ""
+      },
+      "geometry": {
+        "x": -71.0901610232386,
+        "y": 42.34219898113468
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 713,
+        "Institution": "Northeastern University",
+        "FilingDate": "16-Jul",
+        "ProposedLocations": "165 Hemenway St",
+        "Address": "165 Hemenway St",
+        "ZipCode": "02115",
+        "Neighborhood": "Fenway",
+        "CurrentUse": "Residential",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "",
+        "RoomsBeLeased": "14",
+        "OccupancyType": "Double occupancy",
+        "Floors": "",
+        "ProposedStartDate": "Sep 1 2020 or later",
+        "EndDate": "August 31, 2021",
+        "ProposedMoveInDates": "Sep 1 2020 or later",
+        "UsedForIsolation": "No",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": ""
+      },
+      "geometry": {
+        "x": -71.09111102814448,
+        "y": 42.341458984812796
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 714,
+        "Institution": "Northeastern University",
+        "FilingDate": "16-Jul",
+        "ProposedLocations": "171 Hemenway St",
+        "Address": "171 Hemenway St",
+        "ZipCode": "02115",
+        "Neighborhood": "Fenway",
+        "CurrentUse": "Residential",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "",
+        "RoomsBeLeased": "14",
+        "OccupancyType": "Double occupancy",
+        "Floors": "",
+        "ProposedStartDate": "Sep 1 2020 or later",
+        "EndDate": "August 31, 2021",
+        "ProposedMoveInDates": "Sep 1 2020 or later",
+        "UsedForIsolation": "No",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": ""
+      },
+      "geometry": {
+        "x": -71.09120096596553,
+        "y": 42.3413089906555
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 715,
+        "Institution": "Northeastern University",
+        "FilingDate": "16-Jul",
+        "ProposedLocations": "204 Hemenway St",
+        "Address": "204 Hemenway St",
+        "ZipCode": "02115",
+        "Neighborhood": "Fenway",
+        "CurrentUse": "Residential",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "",
+        "RoomsBeLeased": "6",
+        "OccupancyType": "Double occupancy",
+        "Floors": "",
+        "ProposedStartDate": "Sep 1 2020 or later",
+        "EndDate": "August 31, 2021",
+        "ProposedMoveInDates": "Sep 1 2020 or later",
+        "UsedForIsolation": "No",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": ""
+      },
+      "geometry": {
+        "x": -71.0912710386761,
+        "y": 42.34044900738972
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 716,
+        "Institution": "Northeastern University",
+        "FilingDate": "16-Jul",
+        "ProposedLocations": "309 Huntington Ave",
+        "Address": "309 Huntington Ave",
+        "ZipCode": "02115",
+        "Neighborhood": "Fenway",
+        "CurrentUse": "Residential",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "",
+        "RoomsBeLeased": "7",
+        "OccupancyType": "Double occupancy",
+        "Floors": "",
+        "ProposedStartDate": "Sep 1 2020 or later",
+        "EndDate": "August 31, 2021",
+        "ProposedMoveInDates": "Sep 1 2020 or later",
+        "UsedForIsolation": "No",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": ""
+      },
+      "geometry": {
+        "x": -71.08764796102851,
+        "y": 42.34119499677227
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 717,
+        "Institution": "Northeastern University",
+        "FilingDate": "16-Jul",
+        "ProposedLocations": "311 Huntington Ave",
+        "Address": "311 Huntington Ave",
+        "ZipCode": "02115",
+        "Neighborhood": "Fenway",
+        "CurrentUse": "Residential",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "",
+        "RoomsBeLeased": "5",
+        "OccupancyType": "Double occupancy",
+        "Floors": "",
+        "ProposedStartDate": "Sep 1 2020 or later",
+        "EndDate": "August 31, 2021",
+        "ProposedMoveInDates": "Sep 1 2020 or later",
+        "UsedForIsolation": "No",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": ""
+      },
+      "geometry": {
+        "x": -71.08746498408219,
+        "y": 42.34123099704643
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 718,
+        "Institution": "Northeastern University",
+        "FilingDate": "16-Jul",
+        "ProposedLocations": "313 Huntington Ave",
+        "Address": "313 Huntington Ave",
+        "ZipCode": "02115",
+        "Neighborhood": "Fenway",
+        "CurrentUse": "Residential",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "",
+        "RoomsBeLeased": "6",
+        "OccupancyType": "Double occupancy",
+        "Floors": "",
+        "ProposedStartDate": "Sep 1 2020 or later",
+        "EndDate": "August 31, 2021",
+        "ProposedMoveInDates": "Sep 1 2020 or later",
+        "UsedForIsolation": "No",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": ""
+      },
+      "geometry": {
+        "x": -71.08771099294039,
+        "y": 42.341178987337265
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 719,
+        "Institution": "Northeastern University",
+        "FilingDate": "16-Jul",
+        "ProposedLocations": "315 Huntington Ave",
+        "Address": "315 Huntington Ave",
+        "ZipCode": "02115",
+        "Neighborhood": "Fenway",
+        "CurrentUse": "Residential",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "",
+        "RoomsBeLeased": "4",
+        "OccupancyType": "Double occupancy",
+        "Floors": "",
+        "ProposedStartDate": "Sep 1 2020 or later",
+        "EndDate": "August 31, 2021",
+        "ProposedMoveInDates": "Sep 1 2020 or later",
+        "UsedForIsolation": "No",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": ""
+      },
+      "geometry": {
+        "x": -71.08780101458052,
+        "y": 42.34112299622403
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 720,
+        "Institution": "Northeastern University",
+        "FilingDate": "16-Jul",
+        "ProposedLocations": "49 Sumphony Road",
+        "Address": "49 Sumphony Road",
+        "ZipCode": "02115",
+        "Neighborhood": "Fenway",
+        "CurrentUse": "Residential",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "",
+        "RoomsBeLeased": "11",
+        "OccupancyType": "Double occupancy",
+        "Floors": "",
+        "ProposedStartDate": "Sep 1 2020 or later",
+        "EndDate": "August 31, 2021",
+        "ProposedMoveInDates": "Sep 1 2020 or later",
+        "UsedForIsolation": "No",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": ""
+      },
+      "geometry": {
+        "x": -71.08906098226583,
+        "y": 42.343258998519744
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 721,
+        "Institution": "Northeastern University",
+        "FilingDate": "16-Jul",
+        "ProposedLocations": "52 Westland Ave",
+        "Address": "52 Westland Ave",
+        "ZipCode": "02115",
+        "Neighborhood": "Fenway",
+        "CurrentUse": "Residential",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "",
+        "RoomsBeLeased": "4",
+        "OccupancyType": "Double occupancy",
+        "Floors": "",
+        "ProposedStartDate": "Sep 1 2020 or later",
+        "EndDate": "August 31, 2021",
+        "ProposedMoveInDates": "Sep 1 2020 or later",
+        "UsedForIsolation": "No",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": ""
+      },
+      "geometry": {
+        "x": -71.08822103174863,
+        "y": 42.34345899072949
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 722,
+        "Institution": "Northeastern University",
+        "FilingDate": "16-Jul",
+        "ProposedLocations": "97 St Stephen St",
+        "Address": "97 St Stephen St",
+        "ZipCode": "02115",
+        "Neighborhood": "Fenway",
+        "CurrentUse": "Residential",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "",
+        "RoomsBeLeased": "12",
+        "OccupancyType": "Double occupancy",
+        "Floors": "",
+        "ProposedStartDate": "Sep 1 2020 or later",
+        "EndDate": "August 31, 2021",
+        "ProposedMoveInDates": "Sep 1 2020 or later",
+        "UsedForIsolation": "No",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": ""
+      },
+      "geometry": {
+        "x": -71.0887510194864,
+        "y": 42.341568997291965
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 723,
+        "Institution": "Northeastern University",
+        "FilingDate": "16-Jul",
+        "ProposedLocations": "650 Columbus Avex",
+        "Address": "650 Columbus Ave",
+        "ZipCode": "02118",
+        "Neighborhood": "Fenway",
+        "CurrentUse": "Residential",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "",
+        "RoomsBeLeased": "10",
+        "OccupancyType": "Double occupancy",
+        "Floors": "",
+        "ProposedStartDate": "Sep 1 2020 or later",
+        "EndDate": "August 31, 2021",
+        "ProposedMoveInDates": "Sep 1 2020 or later",
+        "UsedForIsolation": "No",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": ""
+      },
+      "geometry": {
+        "x": -71.08352800416068,
+        "y": 42.338849991720906
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 726,
+        "Institution": "Boston University",
+        "FilingDate": "20-Jul",
+        "ProposedLocations": "1047 Commonwealth Ave",
+        "Address": "1047 Commonwealth Ave",
+        "ZipCode": "02215",
+        "Neighborhood": "Allston-Brighton",
+        "CurrentUse": "Residential",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "",
+        "RoomsBeLeased": "179",
+        "OccupancyType": "Single occupancy",
+        "Floors": "All",
+        "ProposedStartDate": "August 1, 2020",
+        "EndDate": "Aug 1 2021",
+        "ProposedMoveInDates": "Aug 1 2020 onward",
+        "UsedForIsolation": "Yes",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "Licensing Board issued dormitory license",
+        "ISDStatus": "Under review",
+        "OtherSpacesAvailable": ""
+      },
+      "geometry": {
+        "x": -71.1225809674357,
+        "y": 42.35238898655363
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 728,
+        "Institution": "Emerson College",
+        "FilingDate": "3-Aug",
+        "ProposedLocations": "W Hotel",
+        "Address": "100 Stuart Street",
+        "ZipCode": "02116",
+        "Neighborhood": "Downtown",
+        "CurrentUse": "Hotel",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "",
+        "RoomsBeLeased": "216",
+        "OccupancyType": "Single and double occupancy",
+        "Floors": "5-14",
+        "ProposedStartDate": "August 24, 2020",
+        "EndDate": "May 10, 2021",
+        "ProposedMoveInDates": "Aug 25-27, 2020",
+        "UsedForIsolation": "Yes",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "Under review",
+        "ISDStatus": "Under review",
+        "OtherSpacesAvailable": "Second floor conference room to be repurposed as two classrooms"
+      },
+      "geometry": {
+        "x": -71.06550297283897,
+        "y": 42.350877980868155
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 729,
+        "Institution": "Emerson College",
+        "FilingDate": "3-Aug",
+        "ProposedLocations": "Park Plaza Hotel",
+        "Address": "50 Park Plaza",
+        "ZipCode": "02116",
+        "Neighborhood": "Downtown",
+        "CurrentUse": "Hotel",
+        "ProposedUse": "Classroom",
+        "NumberOfRooms": "",
+        "RoomsBeLeased": "n/a",
+        "OccupancyType": "n/a",
+        "Floors": "",
+        "ProposedStartDate": "August 24, 2020",
+        "EndDate": "May 10, 2021",
+        "ProposedMoveInDates": "n/a",
+        "UsedForIsolation": "No",
+        "Status": "Under review",
+        "LicensingBoardStatus": "Under review",
+        "ISDStatus": "Under review",
+        "OtherSpacesAvailable": ""
+      },
+      "geometry": {
+        "x": -71.06937599883926,
+        "y": 42.35125998610537
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 731,
+        "Institution": "Boston University",
+        "FilingDate": "30-Jul",
+        "ProposedLocations": "540 Commonwealth Ave",
+        "Address": "540 Commonwealth Ave",
+        "ZipCode": "02215",
+        "Neighborhood": "Fenway",
+        "CurrentUse": "Classroom and office",
+        "ProposedUse": "Faculty office and video recording",
+        "NumberOfRooms": "n/a",
+        "RoomsBeLeased": "n/a",
+        "OccupancyType": "n/a",
+        "Floors": "n/a",
+        "ProposedStartDate": "August 15, 2020",
+        "EndDate": "",
+        "ProposedMoveInDates": "n/a",
+        "UsedForIsolation": "No",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "n/a",
+        "ISDStatus": "Under review",
+        "OtherSpacesAvailable": "n/a"
+      },
+      "geometry": {
+        "x": -71.09672598126268,
+        "y": 42.34850099885614
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 732,
+        "Institution": "Boston College",
+        "FilingDate": "7-Aug",
+        "ProposedLocations": "Hotel Boston",
+        "Address": "40 Mount Hood Road",
+        "ZipCode": "02135",
+        "Neighborhood": "Allston-Brighton",
+        "CurrentUse": "Hotel",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "",
+        "RoomsBeLeased": "74",
+        "OccupancyType": "Single and double occupancy",
+        "Floors": "All",
+        "ProposedStartDate": "August 17, 2020",
+        "EndDate": "",
+        "ProposedMoveInDates": "Aug 17, 2020 onward",
+        "UsedForIsolation": "Yes",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "Licensing Board issued a temporary dormitory license",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": "A portion of the parking at this location will be\rused for staff and campus police. The cafe in the main building may be used as a\rphysically distanced study space for students residing at the facility."
+      },
+      "geometry": {
+        "x": -71.14319592631718,
+        "y": 42.341855906040536
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 734,
+        "Institution": "Fisher College",
+        "FilingDate": "8-Aug",
+        "ProposedLocations": "Loews Hotel",
+        "Address": "154 Berkeley Street",
+        "ZipCode": "02116",
+        "Neighborhood": "Bay Village",
+        "CurrentUse": "Hotel",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "255",
+        "RoomsBeLeased": "55",
+        "OccupancyType": "Single and double occupancy",
+        "Floors": "7-8",
+        "ProposedStartDate": "September 6, 2020",
+        "EndDate": "November 30, 2020",
+        "ProposedMoveInDates": "Sep 6-7, 2020",
+        "UsedForIsolation": "No",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": "All common spaces within the hotel, including the lobby, restaurant, the fitness center (if it is open for use by Hotel guests), and other common areas and common elements of the Hotel ordinarily open for use by Hotel guests. The College plans to use a room off the lobby that was formerly meeting space for meal delivery and study space. The College would deliver meals and students would pick up and take to their room."
+      },
+      "geometry": {
+        "x": -71.07251629201498,
+        "y": 42.349292352635906
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 735,
+        "Institution": "Bay State College",
+        "FilingDate": "12-Aug",
+        "ProposedLocations": "The Revolution Hotel",
+        "Address": "40 Berkeley Street",
+        "ZipCode": "02116",
+        "Neighborhood": "South End",
+        "CurrentUse": "Hostel and Dorm",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "163",
+        "RoomsBeLeased": "15",
+        "OccupancyType": "Single and double occupancy",
+        "Floors": "3",
+        "ProposedStartDate": "August 30, 2020",
+        "EndDate": "November 25, 2020",
+        "ProposedMoveInDates": "8/30/2020 onward",
+        "UsedForIsolation": "Yes",
+        "Status": "Under review",
+        "LicensingBoardStatus": "",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": "n/a"
+      },
+      "geometry": {
+        "x": -71.07049906690172,
+        "y": 42.3458893448312
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 737,
+        "Institution": "Fisher College",
+        "FilingDate": "26-Aug",
+        "ProposedLocations": "Residence Inn",
+        "Address": "125 Brookline Ave",
+        "ZipCode": "02215",
+        "Neighborhood": "Fenway",
+        "CurrentUse": "Hotel",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "",
+        "RoomsBeLeased": "",
+        "OccupancyType": "",
+        "Floors": "",
+        "ProposedStartDate": "",
+        "EndDate": "",
+        "ProposedMoveInDates": "",
+        "UsedForIsolation": "",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": ""
+      },
+      "geometry": {
+        "x": -71.10049096453103,
+        "y": 42.34575898496083
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 738,
+        "Institution": "Fisher College",
+        "FilingDate": "26-Aug",
+        "ProposedLocations": "Kimpton Hotel",
+        "Address": "155 Portland St",
+        "ZipCode": "02114",
+        "Neighborhood": "West End",
+        "CurrentUse": "Hotel",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "",
+        "RoomsBeLeased": "",
+        "OccupancyType": "",
+        "Floors": "",
+        "ProposedStartDate": "",
+        "EndDate": "",
+        "ProposedMoveInDates": "",
+        "UsedForIsolation": "",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": ""
+      },
+      "geometry": {
+        "x": -71.06134102263626,
+        "y": 42.364218995147844
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 740,
+        "Institution": "MassArt",
+        "FilingDate": "19-Aug",
+        "ProposedLocations": "Hilton Back Bay",
+        "Address": "40 Dalton St",
+        "ZipCode": "02115",
+        "Neighborhood": "Back Bay",
+        "CurrentUse": "Hotel",
+        "ProposedUse": "Dormitory",
+        "NumberOfRooms": "",
+        "RoomsBeLeased": "",
+        "OccupancyType": "",
+        "Floors": "",
+        "ProposedStartDate": "",
+        "EndDate": "",
+        "ProposedMoveInDates": "",
+        "UsedForIsolation": "",
+        "Status": "Recommendation issued",
+        "LicensingBoardStatus": "",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": ""
+      },
+      "geometry": {
+        "x": -71.08526096264222,
+        "y": 42.346458999604515
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 741,
+        "Institution": "New England Shool of Law",
+        "FilingDate": "",
+        "ProposedLocations": "Revere Hotel Boston Common",
+        "Address": "200 Stewart Street",
+        "ZipCode": "02116",
+        "Neighborhood": "Downtown",
+        "CurrentUse": "Hotel",
+        "ProposedUse": "Classroom",
+        "NumberOfRooms": "n/a",
+        "RoomsBeLeased": "Grand Ballroom",
+        "OccupancyType": "n/a",
+        "Floors": "",
+        "ProposedStartDate": "September 9, 2020",
+        "EndDate": "November 22, 2020",
+        "ProposedMoveInDates": "As needed",
+        "UsedForIsolation": "n/a",
+        "Status": "Under review",
+        "LicensingBoardStatus": "Under review",
+        "ISDStatus": "",
+        "OtherSpacesAvailable": ""
+      },
+      "geometry": {
+        "x": -71.06757103980947,
+        "y": 42.350542998107734
+      }
+    }
+  ]
+}
