@@ -128,10 +128,8 @@ for server in data['servers']:   # SERVER LOOP
 
                 for service in folder_data['services']: # GET F/S and M/S
                     if service['type']=='FeatureServer':
-                        # print(f"FS: {service['name']}")
                         fs.append(f"{service['name']}/{service['type']}")
                     elif service['type']=='MapServer':
-                        # print(f"MS: {service['name']}")
                         ms.append(f"{service['name']}/{service['type']}")
                 
                 fslCount=0
@@ -179,8 +177,6 @@ for server in data['servers']:   # SERVER LOOP
                             new={ "url": url, "name": feature, "layers": [] }
                             snapshot['servers'][serverCount]['folders'][folder2Count]['services'][msCount]['mapServers'].append(new)
                             for layer in feature_data['layers']:
-                                # if not os.path.exists(f"{folderpath}"):
-                                #     os.makedirs(f"{folderpath}")
                                 layer_req=f"{url}/{layer['id']}{query2}"
                                 new={ "url": f"{url}/{layer['id']}{query2}", "name": layer['name'] }
                                 snapshot['servers'][serverCount]['folders'][folder2Count]['services'][msCount]['mapServers'][mslCount]['layers'].append(new)
