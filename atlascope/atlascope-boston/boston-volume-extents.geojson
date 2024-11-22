@@ -573,7 +573,7 @@
         "bibliographicEntry": "_Atlas of Taunton City, Massachusetts_ (Geo. H. Walker & Co., 1881)",
         "source": {
           "type": "xyz",
-          "url": "file:///Volumes/ATLASARCHIV/urban-atlases-new-layers/alzrcv2zd/remake-with-big-layers/output/tiles/{z}/{x}/{y}.png"
+          "url": "/Volumes/ATLASARCHIV/urban-atlases-new-layers/alzrcv2zd/remake-with-big-layers/output/tiles/{z}/{x}/{y}.png"
         },
         "catalogPermalink": "https://www.digitalcommonwealth.org/search/commonwealth:m039nv63w",
         "heldBy": [
