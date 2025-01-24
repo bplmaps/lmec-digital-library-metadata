@@ -6909,7 +6909,10 @@
           "Leventhal Map & Education Center at the Boston Public Library"
         ],
         "sponsors": [
-          "{ \"name\": \"Beverly Historic\", \"url\": \"https:\\/\\/historicbeverly.net\\/\" }"
+            {
+                "name": "Beverly Historic",
+                "url": "https://historicbeverly.net"
+            }
         ]
       },
       "geometry": {
@@ -12975,7 +12978,10 @@
         "catalogPermalink": "https://www.digitalcommonwealth.org/search/commonwealth:n8712b67v",
         "heldBy": ["State Library of Massachusetts"],
         "sponsors": [
-          "{ \"name\": \"Abbott Public Library\", \"url\": \"https:\\/\\/abbotlibrary.org\\/\" }"
+            {
+                "name": "Abbott Public Library",
+                "url": "https://abbotlibrary.org/"
+            }
         ]
       },
       "geometry": {
@@ -13362,7 +13368,10 @@
           "Leventhal Map & Education Center at the Boston Public Library"
         ],
         "sponsors": [
-          "{ \"name\": \"Abbott Public Library\", \"url\": \"https:\\/\\/abbotlibrary.org\\/\" }"
+            { 
+                "name": "Abbott Public Library",
+                "url": "https://abbotlibrary.org/"
+            }
         ]
       },
       "geometry": {
@@ -16543,7 +16552,10 @@
           "Leventhal Map & Education Center at the Boston Public Library"
         ],
         "sponsors": [
-          "{ \"name\": \"Dover Historical Society\", \"url\": \"http:\\/\\/doverhistoricalsociety.org\" }"
+            {
+                "name": "Dover Historical Society",
+                "url": "https://doverhistoricalsociety.org"
+            }
         ]
       },
       "geometry": {
