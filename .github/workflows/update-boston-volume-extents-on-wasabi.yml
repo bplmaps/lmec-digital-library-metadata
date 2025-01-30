@@ -11,6 +11,9 @@ jobs:
           pip3 install s3cmd
       - name: checkout
         uses: actions/checkout@v2
-      - name: Run s3cmd to put file to Wasabi
+      - name: Run s3cmd to put extents to Wasabi
         run: >
           s3cmd --host=s3.us-east-2.wasabisys.com --host-bucket="%(bucket)s.s3.wasabisys.com" --access_key=${{ secrets.WASABI_ACCESS_KEY_ID }} --secret_key=${{ secrets.WASABI_SECRET_KEY_ID }} put ./atlascope/atlascope-boston/boston-volume-extents.geojson s3://urbanatlases/extents/boston-volume-extents.geojson
+      - name: Run s3cmd to put extents to Wasabi
+        run: >
+          s3cmd --host=s3.us-east-2.wasabisys.com --host-bucket="%(bucket)s.s3.wasabisys.com" --access_key=${{ secrets.WASABI_ACCESS_KEY_ID }} --secret_key=${{ secrets.WASABI_SECRET_KEY_ID }} put ./atlascope/atlascope-boston/coverage-list.json s3://urbanatlases/extents/coverage-list.json
