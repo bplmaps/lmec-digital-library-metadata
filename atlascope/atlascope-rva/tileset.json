@@ -1,0 +1,22 @@
+{
+  "tilejson": "2.2.0",
+  "name": "boston proper 1902",
+  "description": "Philadelphia : G.W. Bromley and Co.(Atlas of the City of Boston)",
+  "version": "1.0.0",
+  "attribution": "<a href=\"https://leventhalmap.org\">Leventhal Map & Education Center</a> at the <a href=\"https://bpl.org\">Boston Public Library</a>",
+  "scheme": "xyz",
+  "tiles": [
+    "https://titiler.oldinsurancemaps.net/cog/tiles/{z}/{x}/{y}.png?TileMatrixSetId=WebMercatorQuad&url=https%3A%2F%2Foldinsurancemaps.net%2Fuploaded%2Fmosaics%2Fsanborn09064_019-main-content__2024-07-27__Dgy4wy.tif"
+  ],
+  "data": [
+    "sanborn1952.geojson"
+  ],
+  "minzoom": "13",
+  "maxzoom": "20",
+  "bounds": [
+    -77.4931530015800689,
+    37.5293190684081992,
+    -77.4476849408951296,
+    37.5968807844711250
+  ]
+}
