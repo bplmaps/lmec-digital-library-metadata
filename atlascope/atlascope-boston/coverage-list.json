@@ -83,8 +83,18 @@
     "center": [-71.2893597, 41.9456738]
   },
   {
+    "name": "Barnstable",
+    "center": [-70.33288, 41.703313],
+    "new": true
+  },
+  {
     "name": "Beverly",
     "center": [-70.8810547, 42.5508589]
+  },
+  {
+    "name": "Bourne",
+    "center": [-70.5972006, 41.7421863],
+    "new": true
   },
   {
     "name": "Braintree",
@@ -116,6 +126,11 @@
     "center": [-70.9405341, 42.5612292]
   },
   {
+    "name": "Dennis",
+    "center": [-70.189911, 41.7276788],
+    "new": true
+  },
+  {
     "name": "Dover",
     "center": [-71.2855398, 42.2457534]
   },
@@ -126,6 +141,11 @@
   {
     "name": "Everett",
     "center": [-71.0734301, 42.3992971]
+  },
+  {
+    "name": "Falmouth",
+    "center": [-70.614062, 41.5528533],
+    "new": true
   },
   {
     "name": "Hull",
@@ -147,6 +167,11 @@
   {
     "name": "Marblehead",
     "center": [-70.8514031, 42.5036466]
+  },
+  {
+    "name": "Mashpee",
+    "center": [-70.4941224, 41.6171352],
+    "new": true
   },
   {
     "name": "Medfield",
@@ -203,6 +228,11 @@
     "center": [-70.8918186, 42.5231945]
   },
   {
+    "name": "Sandwich",
+    "center": [-70.4960563, 41.7537737],
+    "new": true
+  },
+  {
     "name": "Saugus",
     "center": [-71.0126055, 42.4653527]
   },
@@ -251,5 +281,10 @@
   {
     "name": "Winthrop",
     "center": [-70.983868, 42.376998]
+  },
+  {
+    "name": "Yarmouth",
+    "center": [-70.2251445, 41.6489038],
+    "new": true
   }
 ]
