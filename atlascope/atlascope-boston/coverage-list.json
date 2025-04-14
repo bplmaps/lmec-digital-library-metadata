@@ -93,8 +93,7 @@
   },
   {
     "name": "Bourne",
-    "center": [-70.5972006, 41.7421863],
-    "new": true
+    "center": [-70.5972006, 41.7421863]
   },
   {
     "name": "Braintree",
@@ -144,6 +143,16 @@
   {
     "name": "Falmouth",
     "center": [-70.614062, 41.5528533],
+    "new": true
+  },
+  {
+    "name": "Greenfield",
+    "center": [-72.6089986,42.5928934],
+    "new": true
+  },
+  {
+    "name": "Holyoke",
+    "center": [-72.6215034,42.2064474],
     "new": true
   },
   {
