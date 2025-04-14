@@ -98,8 +98,7 @@
   },
   {
     "name": "Braintree",
-    "center": [-71.0072842, 42.2056713],
-    "new": true
+    "center": [-71.0072842, 42.2056713]
   },
   {
     "name": "Brookline",
@@ -153,8 +152,7 @@
   },
   {
     "name": "Lawrence",
-    "center": [-71.1624812,42.7104511],
-    "new": true
+    "center": [-71.1624812,42.7104511]
   },
   {
     "name": "Lynn",
@@ -170,8 +168,7 @@
   },
   {
     "name": "Mashpee",
-    "center": [-70.4941224, 41.6171352],
-    "new": true
+    "center": [-70.4941224, 41.6171352]
   },
   {
     "name": "Medfield",
@@ -179,8 +176,7 @@
   },
   {
     "name": "Melrose",
-    "center": [-71.060839, 42.4635735],
-    "new": true
+    "center": [-71.060839, 42.4635735]
   },
   {
     "name": "Millis",
@@ -188,8 +184,7 @@
   },
   {
     "name": "Milton",
-    "center": [-71.0799559, 42.2539022],
-    "new": true
+    "center": [-71.0799559, 42.2539022]
   },
   {
     "name": "Nahant",
@@ -242,8 +237,7 @@
   },
   {
     "name": "Springfield",
-    "center": [-72.5863162,42.1051476],
-    "new": true
+    "center": [-72.5863162,42.1051476]
   },
   {
     "name": "Swampscott",
@@ -271,8 +265,7 @@
   },
   {
     "name": "Weymouth",
-    "center": [-70.9402059, 42.2174225],
-    "new": true
+    "center": [-70.9402059, 42.2174225]
   },
   {
     "name": "Westwood",
