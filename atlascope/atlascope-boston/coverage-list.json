@@ -84,8 +84,7 @@
   },
   {
     "name": "Barnstable",
-    "center": [-70.33288, 41.703313],
-    "new": true
+    "center": [-70.3014673,41.7002536]
   },
   {
     "name": "Beverly",
@@ -125,7 +124,7 @@
   },
   {
     "name": "Dennis",
-    "center": [-70.189911, 41.7276788],
+    "center": [-70.1989844,41.7400849],
     "new": true
   },
   {
@@ -158,6 +157,11 @@
   {
     "name": "Hull",
     "center": [-70.8790163, 42.2912529]
+  },
+  {
+    "name": "Hyannis",
+    "center": [-70.3283607,41.6483278],
+    "new": true
   },
   {
     "name": "Lawrence",
@@ -217,7 +221,8 @@
   },
   {
     "name": "Northampton",
-    "center": [-72.6365565,42.321342]
+    "center": [-72.6365565,42.321342],
+    "new": true
   },
   {
     "name": "Peabody",
@@ -237,8 +242,7 @@
   },
   {
     "name": "Sandwich",
-    "center": [-70.4960563, 41.7537737],
-    "new": true
+    "center": [-70.4960563, 41.7537737]
   },
   {
     "name": "Saugus",
@@ -287,10 +291,5 @@
   {
     "name": "Winthrop",
     "center": [-70.983868, 42.376998]
-  },
-  {
-    "name": "Yarmouth",
-    "center": [-70.2251445, 41.6489038],
-    "new": true
   }
 ]
