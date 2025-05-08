@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v2
       - name: create topojson version of extents
         run: |
-          geo2topo ./atlascope/boston-volume-extents.geojson > ./atlascope/boston-volume-extents.topojson
+          geo2topo ./atlascope/atlascope-boston/boston-volume-extents.geojson > ./atlascope/atlascope-boston/boston-volume-extents.topojson
       - name: Run s3cmd to put geojson extents to Wasabi
         run: >
           s3cmd --host=s3.us-east-2.wasabisys.com --host-bucket="%(bucket)s.s3.wasabisys.com" --access_key=${{ secrets.WASABI_ACCESS_KEY_ID }} --secret_key=${{ secrets.WASABI_SECRET_KEY_ID }} put ./atlascope/atlascope-boston/boston-volume-extents.geojson s3://urbanatlases/extents/boston-volume-extents.geojson
