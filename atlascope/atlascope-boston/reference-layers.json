@@ -4,7 +4,7 @@
                 "globalExtent": true,
                 "identifier": "massgis-1990s-orthos",
                 "fallbackSubtitle": "Aerial Imagery",
-                "year": [1992,1999],
+                "year": 1995,
                 "bibliographicEntry": "Aerial imagery of Massachusetts from the 1990s, provided by [MassGIS](https://www.mass.gov/info-details/massgis-data-1990s-aerial-imagery)",
                 "source": {
                     "type": "xyz",
@@ -15,9 +15,9 @@
         {
             "properties": {
                 "globalExtent": true,
-                "identifier": "massgis-2000s-orthos",
+                "identifier": "massgis-2003-orthos",
                 "fallbackSubtitle": "Aerial Imagery",
-                "year": [2001,2003],
+                "year": 2003,
                 "bibliographicEntry": "Aerial imagery of Massachusetts from 2001-2003, provided by [MassGIS](https://www.mass.gov/info-details/massgis-data-2001-2003-aerial-imagery)",
                 "source": {
                     "type": "xyz",
@@ -28,9 +28,9 @@
                 {
             "properties": {
                 "globalExtent": true,
-                "identifier": "massgis-2025-orthos",
+                "identifier": "massgis-2015-orthos",
                 "fallbackSubtitle": "Aerial Imagery",
-                "year": [2001,2003],
+                "year": 2015,
                 "bibliographicEntry": "Aerial imagery of Massachusetts from 2015, provided by [MassGIS](https://www.mass.gov/info-details/massgis-data-2015-satellite-imagery-index)",
                 "source": {
                     "type": "xyz",
