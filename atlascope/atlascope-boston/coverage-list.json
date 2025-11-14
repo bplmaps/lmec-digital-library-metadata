@@ -145,9 +145,13 @@
     "new": true
   },
   {
-    "name": "Greenfield",
-    "center": [-72.6089986,42.5928934],
+    "name": "Freetown",
+    "center": [-71.0703075,41.7957362],
     "new": true
+  },
+  {
+    "name": "Greenfield",
+    "center": [-72.6089986,42.5928934]
   },
   {
     "name": "Holyoke",
