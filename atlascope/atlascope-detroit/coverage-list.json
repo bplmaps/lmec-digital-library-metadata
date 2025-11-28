@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Detroit",
+    "center": [-83.0533336, 42.3371687],
+    "new": true
+  },
+  {
+    "name": "Midtown",
+    "center": [-83.0725114, 42.3585439],
+    "neighborhood": true
+  }
+]

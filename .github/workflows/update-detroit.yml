@@ -1,0 +1,44 @@
+name: Write detroit-volume-extents.geojson to production on Wasabi
+on: 
+  workflow_dispatch
+jobs:
+  upload-detroit-volume-extents-to-wasabi:
+    name: Write detroit-volume-extents.geojson to production on Wasabi
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install s3cmd
+        run: |
+          pip3 install s3cmd
+      - name: Install node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 'latest' 
+      - name: Install topojson
+        run: |
+          npm install -g topojson-server
+      - name: Install mapshaper
+        run: |
+          npm install -g mapshaper
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: create topojson version of extents
+        run: |
+          geo2topo ./atlascope/atlascope-detroit/detroit-volume-extents.geojson > ./atlascope/atlascope-detroit/detroit-volume-extents.topojson
+      - name: create dissolved geojson version of extents
+        run: |
+          mapshaper ./atlascope/atlascope-detroit/detroit-volume-extents.geojson -dissolve2 -simplify 20% -o precision=0.001 ./atlascope/atlascope-detroit/extents-dissolved.geojson
+      - name: Run s3cmd to put geojson extents to Wasabi
+        run: >
+          s3cmd --host=s3.us-east-2.wasabisys.com --host-bucket="%(bucket)s.s3.wasabisys.com" --access_key=${{ secrets.WASABI_ACCESS_KEY_ID }} --secret_key=${{ secrets.WASABI_SECRET_KEY_ID }} put ./atlascope/atlascope-detroit/detroit-volume-extents.geojson s3://detroit-urbanatlases/extents/detroit-volume-extents.geojson
+      - name: Run s3cmd to put dissolved geojson to Wasabi
+        run: >
+          s3cmd --host=s3.us-east-2.wasabisys.com --host-bucket="%(bucket)s.s3.wasabisys.com" --access_key=${{ secrets.WASABI_ACCESS_KEY_ID }} --secret_key=${{ secrets.WASABI_SECRET_KEY_ID }} put ./atlascope/atlascope-detroit/extents-dissolved.geojson s3://detroit-urbanatlases/extents/extents-dissolved.geojson
+      - name: Run s3cmd to put topojson extents to Wasabi
+        run: >
+          s3cmd --host=s3.us-east-2.wasabisys.com --host-bucket="%(bucket)s.s3.wasabisys.com" --access_key=${{ secrets.WASABI_ACCESS_KEY_ID }} --secret_key=${{ secrets.WASABI_SECRET_KEY_ID }} put ./atlascope/atlascope-detroit/detroit-volume-extents.topojson s3://detroit-urbanatlases/extents/detroit-volume-extents.topojson
+      - name: Run s3cmd to put coverage list to Wasabi
+        run: >
+          s3cmd --host=s3.us-east-2.wasabisys.com --host-bucket="%(bucket)s.s3.wasabisys.com" --access_key=${{ secrets.WASABI_ACCESS_KEY_ID }} --secret_key=${{ secrets.WASABI_SECRET_KEY_ID }} put ./atlascope/atlascope-detroit/coverage-list.json s3://detroit-urbanatlases/extents/coverage-list.json
+      - name: Run s3cmd to put reference layers list to Wasabi
+        run: >
+          s3cmd --host=s3.us-east-2.wasabisys.com --host-bucket="%(bucket)s.s3.wasabisys.com" --access_key=${{ secrets.WASABI_ACCESS_KEY_ID }} --secret_key=${{ secrets.WASABI_SECRET_KEY_ID }} put ./atlascope/atlascope-detroit/reference-layers.json s3://detroit-urbanatlases/extents/reference-layers.json
