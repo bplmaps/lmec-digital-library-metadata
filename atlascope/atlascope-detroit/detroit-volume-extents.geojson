@@ -10,7 +10,7 @@
         "year": "1951",
         "bibliographicEntry": "_Sanborn Map of Detroit, Mich., 1951, Vol. 8_ (Sanborn, D.A., 1951)",
         "source": {
-          "type": "xyz",
+          "type": "tilejson",
           "url": "https://oldinsurancemaps.net/map/sanborn03985_075/main-content/tilejson"
         },
         "catalogPermalink": "https://loc.gov/item/sanborn03985_075",
