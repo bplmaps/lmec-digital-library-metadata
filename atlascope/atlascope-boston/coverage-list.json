@@ -79,12 +79,22 @@
     "neighborhood": true
   },
   {
+    "name": "Arlington",
+    "center": [-71.1575014,42.4156933],
+    "new": true
+  },
+  {
     "name": "Attleboro",
     "center": [-71.2893597, 41.9456738]
   },
   {
     "name": "Barnstable",
     "center": [-70.3014673,41.7002536]
+  },
+  {
+    "name": "Belmont",
+    "center": [-71.1975797,42.3888057],
+    "new": true
   },
   {
     "name": "Beverly",
@@ -140,9 +150,13 @@
     "center": [-71.0570891,42.4084471]
   },
   {
-    "name": "Falmouth",
-    "center": [-70.614062, 41.5528533],
+    "name": "Fall River",
+    "center": [-71.171848,41.6951837],
     "new": true
+  },
+  {
+    "name": "Falmouth",
+    "center": [-70.614062, 41.5528533]
   },
   {
     "name": "Freetown",
@@ -150,13 +164,22 @@
     "new": true
   },
   {
+    "name": "Gardner",
+    "center": [-72.0064163,42.5760987],
+    "new": true
+  },
+  {
     "name": "Greenfield",
     "center": [-72.6089986,42.5928934]
   },
   {
+    "name": "Haverhill",
+    "center": [-71.0793182,42.7773231],
+    "new":true
+  },
+  {
     "name": "Holyoke",
-    "center": [-72.6215034,42.2064474],
-    "new": true
+    "center": [-72.6215034,42.2064474]
   },
   {
     "name": "Hull",
@@ -164,12 +187,20 @@
   },
   {
     "name": "Hyannis",
-    "center": [-70.2869802,41.6520695],
-    "new": true
+    "center": [-70.2869802,41.6520695]
   },
   {
     "name": "Lawrence",
     "center": [-71.1624812,42.7104511]
+  },
+  {
+    "name": "Lexington",
+    "center": [-71.2322307,42.4483312]
+  },
+  {
+    "name": "Lowell",
+    "center": [-71.3280925,42.6430115],
+    "new": true
   },
   {
     "name": "Lynn",
@@ -271,6 +302,11 @@
   {
     "name": "Waltham",
     "center": [-71.2359597, 42.3768737]
+  },
+  {
+    "name": "Warren",
+    "center": [-72.1962083,42.2132026],
+    "new": true
   },
   {
     "name": "Watertown",
