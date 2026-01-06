@@ -134,8 +134,7 @@
   },
   {
     "name": "Dennis",
-    "center": [-70.1989844,41.7400849],
-    "new": true
+    "center": [-70.1989844,41.7400849]
   },
   {
     "name": "Dover",
@@ -160,8 +159,7 @@
   },
   {
     "name": "Freetown",
-    "center": [-71.0703075,41.7957362],
-    "new": true
+    "center": [-71.0703075,41.7957362]
   },
   {
     "name": "Gardner",
@@ -256,8 +254,7 @@
   },
   {
     "name": "Northampton",
-    "center": [-72.6365565,42.321342],
-    "new": true
+    "center": [-72.6365565,42.321342]
   },
   {
     "name": "Peabody",
