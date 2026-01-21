@@ -15,7 +15,7 @@
         },
         "catalogPermalink": "https://collections.leventhalmap.org/search/commonwealth:vq282d18w",
         "heldBy": ["State Library of Massachusetts"],
-        "sponsors": [""]
+        "sponsors": []
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -377,7 +377,7 @@
         "heldBy": [
           "Leventhal Map & Education Center at the Boston Public Library"
         ],
-        "sponsors": [""]
+        "sponsors": []
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -732,7 +732,7 @@
         "heldBy": [
           "Leventhal Map & Education Center at the Boston Public Library"
         ],
-        "sponsors": [""]
+        "sponsors": []
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -971,7 +971,7 @@
         "heldBy": [
           "Leventhal Map & Education Center at the Boston Public Library"
         ],
-        "sponsors": [""]
+        "sponsors": []
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1361,7 +1361,7 @@
         },
         "catalogPermalink": "https://collections.leventhalmap.org/search/commonwealth:p2679h223",
         "heldBy": ["State Library of Massachusetts"],
-        "sponsors": [""]
+        "sponsors": []
       },
       "geometry": {
         "type": "Polygon",
@@ -1510,7 +1510,7 @@
         "heldBy": [
           "Leventhal Map & Education Center at the Boston Public Library"
         ],
-        "sponsors": [""]
+        "sponsors": []
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1780,7 +1780,7 @@
         "heldBy": [
           "Leventhal Map & Education Center at the Boston Public Library"
         ],
-        "sponsors": [""]
+        "sponsors": []
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2023,7 +2023,7 @@
         "heldBy": [
           "Leventhal Map & Education Center at the Boston Public Library"
         ],
-        "sponsors": [""]
+        "sponsors": []
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2565,7 +2565,7 @@
         },
         "catalogPermalink": "https://collections.leventhalmap.org/search/commonwealth:7s75h3704",
         "heldBy": ["State Library of Massachusetts"],
-        "sponsors": [""]
+        "sponsors": []
       },
       "geometry": {
         "type": "MultiPolygon",
