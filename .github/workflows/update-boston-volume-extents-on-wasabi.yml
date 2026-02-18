@@ -39,6 +39,6 @@ jobs:
       - name: Run s3cmd to put coverage list to Wasabi
         run: >
           s3cmd --host=s3.us-east-2.wasabisys.com --host-bucket="%(bucket)s.s3.wasabisys.com" --access_key=${{ secrets.WASABI_ACCESS_KEY_ID }} --secret_key=${{ secrets.WASABI_SECRET_KEY_ID }} put ./atlascope/atlascope-boston/coverage-list.json s3://urbanatlases/extents/coverage-list.json
-      - name: Run s3cmd to put reference layers list to Wasabi
-        run: >
-          s3cmd --host=s3.us-east-2.wasabisys.com --host-bucket="%(bucket)s.s3.wasabisys.com" --access_key=${{ secrets.WASABI_ACCESS_KEY_ID }} --secret_key=${{ secrets.WASABI_SECRET_KEY_ID }} put ./atlascope/atlascope-boston/reference-layers.json s3://urbanatlases/extents/reference-layers.json
+      # - name: Run s3cmd to put reference layers list to Wasabi
+      #   run: >
+      #     s3cmd --host=s3.us-east-2.wasabisys.com --host-bucket="%(bucket)s.s3.wasabisys.com" --access_key=${{ secrets.WASABI_ACCESS_KEY_ID }} --secret_key=${{ secrets.WASABI_SECRET_KEY_ID }} put ./atlascope/atlascope-boston/reference-layers.json s3://urbanatlases/extents/reference-layers.json
