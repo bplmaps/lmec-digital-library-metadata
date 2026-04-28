@@ -109850,7 +109850,7 @@
         "identifier": "ark:/76611/al7s2cd3b",
         "publisherShort": "Bromley",
         "year": "1888",
-        "bibliographicEntry": "_Atlas of the City of Boston, Mass_, vol. 3 (G.W. Bromley & Co., 1888)",
+        "bibliographicEntry": "_Atlas of the City of Boston : Roxbury, Mass._, vol. 3 (G.W. Bromley & Co., 1888)",
         "source": {
           "type": "tilejson",
           "url": "https://s3.us-east-2.wasabisys.com/urbanatlases/al7s2cd3b/tileset.json"
@@ -121890,12 +121890,12 @@
         "identifier": "ark:/76611/al897gjem",
         "publisherShort": "Bromley",
         "year": "1888",
-        "bibliographicEntry": "_Atlas of the City of Boston : Roxbury, Mass_, Vol. 3 (G.W. Bromley & Co., 1888)",
+        "bibliographicEntry": "_Atlas of the city of Boston : city proper, volume two_ (G.W. Bromley & Co., 1888)",
         "source": {
           "type": "tilejson",
           "url": "https://s3.us-east-2.wasabisys.com/urbanatlases/al897gjem/tileset.json"
         },
-        "catalogPermalink": "https://collections.leventhalmap.org/search/commonwealth:tt44pv61s",
+        "catalogPermalink": "https://collections.leventhalmap.org/search/commonwealth:tt44pv754",
         "heldBy": [
           "Leventhal Map & Education Center at the Boston Public Library"
         ],
@@ -128224,12 +128224,12 @@
         "identifier": "ark:/76611/al8c0lgum",
         "publisherShort": "Bromley",
         "year": "1888",
-        "bibliographicEntry": "_Atlas of the City of Boston : Roxbury, Mass_, Vol. 3 (G.W. Bromley & Co., 1888)",
+        "bibliographicEntry": "_Atlas of the city of Boston : city proper_, vol. 1 (G.W. Bromley & Co., 1888)",
         "source": {
           "type": "tilejson",
           "url": "https://s3.us-east-2.wasabisys.com/urbanatlases/al8c0lgum/tileset.json"
         },
-        "catalogPermalink": "https://collections.leventhalmap.org/search/commonwealth:tt44pv61s",
+        "catalogPermalink": "https://collections.leventhalmap.org/search/commonwealth:tt44pv74v",
         "heldBy": [
           "Leventhal Map & Education Center at the Boston Public Library"
         ],
@@ -129757,7 +129757,7 @@
         "identifier": "ark:/76611/al8c1jaml",
         "publisherShort": "Hopkins",
         "year": "1874",
-        "bibliographicEntry": "Hopkins, G.M., Jr., _Atlas of the County of Suffolk, Massachusetts : Boston and Dorchester_, Vol. 3 (G.M. Hopkins & Co., 1874)",
+        "bibliographicEntry": "_Atlas of the County of Suffolk, Massachusetts : including Boston and Dorchester_, Vol. 3 (G.M. Hopkins & Co., 1874)",
         "source": {
           "type": "tilejson",
           "url": "https://s3.us-east-2.wasabisys.com/urbanatlases/al8c1jaml/tileset.json"
@@ -130838,7 +130838,7 @@
         "identifier": "ark:/76611/al8c2h4jv",
         "publisherShort": "Hopkins",
         "year": "1874",
-        "bibliographicEntry": "Hopkins, G.M. Jr., _Atlas of the County of Suffolk : West Roxbury_, Vol. 5 (Philadelphia : G.M. Hopkins & Co., 1874)",
+        "bibliographicEntry": "_Atlas of the County of Suffolk : West Roxbury_, Vol. 5 (Philadelphia : G.M. Hopkins & Co., 1874)",
         "source": {
           "type": "tilejson",
           "url": "https://s3.us-east-2.wasabisys.com/urbanatlases/al8c2h4jv/tileset.json"
@@ -131905,7 +131905,7 @@
         "identifier": "ark:/76611/al8c341zk",
         "publisherShort": "Bromley",
         "year": "1889",
-        "bibliographicEntry": "Bromley, G.W. and W.S. Bromley, _Atlas of the City of Boston : Roxbury, Mass_, Vol. 4 (Philadelphia : G.W. Bromley & Co., 1889)",
+        "bibliographicEntry": "_Atlas of the City of Boston : Roxbury, Mass_, Vol. 4 (Philadelphia : G.W. Bromley & Co., 1889)",
         "source": {
           "type": "tilejson",
           "url": "https://s3.us-east-2.wasabisys.com/urbanatlases/al8c341zk/tileset.json"
@@ -132636,12 +132636,12 @@
         "identifier": "ark:/76611/al8c3c271",
         "publisherShort": "Bromley",
         "year": "1889",
-        "bibliographicEntry": "Bromley, G.W. and W.S. Bromley, _Atlas of the City of Boston : Roxbury, Mass_, Vol. 4 (Philadelphia : G.W. Bromley & Co., 1889)",
+        "bibliographicEntry": "_Atlas of the city of Boston, volume five, Dorchester Mass._ (Philadelphia : G.W. Bromley & Co., 1889)",
         "source": {
           "type": "tilejson",
           "url": "https://s3.us-east-2.wasabisys.com/urbanatlases/al8c3c271/tileset.json"
         },
-        "catalogPermalink": "https://collections.leventhalmap.org/search/commonwealth:tt44pv63b",
+        "catalogPermalink": "https://collections.leventhalmap.org/search/commonwealth:tt44pv65w",
         "heldBy": [
           "Leventhal Map & Education Center at the Boston Public Library"
         ],
